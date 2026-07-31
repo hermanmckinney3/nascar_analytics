@@ -1,0 +1,835 @@
+race_id,finish,start,car_number,driver,sponsor_owner,manufacturer,laps_completed,status,laps_led,points
+2026_01,1,1,21,Austin Hill,Bennett Transportation ( Richard Childress ),Chevrolet,120,running,78,75
+2026_01,2,13,7,Justin Allgaier,BRANDT ( JR Motorsports ),Chevrolet,120,running,0,50
+2026_01,3,10,39,Ryan Sieg,SciAps/Recycled Materials Assn ( Rod Sieg ),Chevrolet,120,running,0,34
+2026_01,4,17,32,Jordan Anderson,easycare ( Jordan Anderson ),Chevrolet,120,running,4,33
+2026_01,5,12,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,120,running,1,36
+2026_01,6,32,02,Ryan Ellis,Tablo TV ( Randy Young ),Chevrolet,120,running,1,31
+2026_01,7,11,1,Carson Kvapil,Bass Pro Shops ( JR Motorsports ),Chevrolet,120,running,0,47
+2026_01,8,14,31,Blaine Perkins,WERNER ( Jordan Anderson ),Chevrolet,120,running,0,36
+2026_01,9,2,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,120,running,27,37
+2026_01,10,7,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,120,running,1,34
+2026_01,11,26,4,Anthony Alfredo,Protein Rice Treats ( Tommy Joe Martins ),Chevrolet,120,running,0,26
+2026_01,12,25,44,Brennan Poole,ROMA ( Tommy Joe Martins ),Chevrolet,120,running,0,25
+2026_01,13,19,38,Patrick Emerling,Firman Generators ( Rod Sieg ),Chevrolet,120,running,0,0
+2026_01,14,27,99,Parker Retzlaff,FUNKAWAY ( Don Sackett ),Chevrolet,120,running,0,28
+2026_01,15,36,28,Kyle Sieg,Hiami Hooch ( Rod Sieg ),Chevrolet,120,running,0,22
+2026_01,16,37,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,120,running,0,21
+2026_01,17,34,07,Josh Bilicki,Mando ( Bobby Dotter ),Chevrolet,120,running,0,20
+2026_01,18,8,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,120,running,0,19
+2026_01,19,38,30,Carson Ware,Costa Oil ( Stanton Barrett ),Chevrolet,120,running,0,18
+2026_01,20,20,42,Carson Hocevar,Zeigler Auto Group ( Randy Young ),Chevrolet,120,running,0,0
+2026_01,21,33,52,Daniel Dye,Champion Container ( Jimmy Means ),Ford,120,running,0,0
+2026_01,22,30,87,Austin Green,OVERPLAY ( Doug Peterson ),Chevrolet,118,running,0,15
+2026_01,23,23,5,Luke Fenhaus,Jobberdun-riteICS ( Chris Hettinger ),Ford,117,running,0,14
+2026_01,24,5,00,Sheldon Creed,Ollie's ( Gene Haas ),Chevrolet,116,running,0,18
+2026_01,25,22,27,Jeb Burton,Golden Corral ( Jordan Anderson ),Chevrolet,107,dvp,0,14
+2026_01,26,4,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,99,dvp,2,22
+2026_01,27,6,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,99,crash,0,10
+2026_01,28,9,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,99,crash,0,9
+2026_01,29,24,24,Harrison Burton,Dead On Tools ( Sam Hunt ),Toyota,98,crash,0,8
+2026_01,30,15,20,Brandon Jones,Menards/Swiffer ( Joe Gibbs ),Toyota,92,dvp,0,8
+2026_01,31,3,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,91,crash,6,6
+2026_01,32,29,51,Jeremy Clements,All South Electric / One Stop ( Jeremy Clements ),Chevrolet,91,crash,0,10
+2026_01,33,35,35,Natalie Decker,T.N. Dickinson's Witch hazel ( Joey Gase Motorsports  With Sc ),Chevrolet,91,crash,0,4
+2026_01,34,31,92,Josh Williams,Optum ( Mario Gosselin ),Chevrolet,77,engine,0,3
+2026_01,35,18,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,68,suspension,0,2
+2026_01,36,28,25,Nick Sanchez,"Better Compute Works, Inc ( Tim Self )",Ford,32,crash,0,4
+2026_01,37,16,19,Giovanni Ruggiero,First Auto Group ( Joe Gibbs ),Toyota,29,crash,0,0
+2026_01,38,21,91,Mason Maggio,Success Unlocked ( Mario Gosselin ),Chevrolet,0,crash,0,1
+2026_02,1,4,00,Sheldon Creed,Road Ranger ( Gene Haas ),Chevrolet,163,running,17,62
+2026_02,2,23,99,Parker Retzlaff,KYRO Whisky ( Don Sackett ),Chevrolet,163,running,0,46
+2026_02,3,28,25,Nick Sanchez,Paynuity / Travel Curious ( Tim Self ),Ford,163,running,0,37
+2026_02,4,9,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,163,running,0,40
+2026_02,5,10,2,Jesse Love,Samsara ( Richard Childress ),Chevrolet,163,running,31,43
+2026_02,6,30,32,Ross Chastain,Protect Your Melon ( Jordan Anderson ),Chevrolet,163,running,22,0
+2026_02,7,1,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,163,running,23,30
+2026_02,8,6,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,163,running,22,48
+2026_02,9,3,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,163,running,2,35
+2026_02,10,15,20,Brandon Jones,Menards / Watts ( Joe Gibbs ),Toyota,163,running,0,33
+2026_02,11,17,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,163,running,0,26
+2026_02,12,20,21,Austin Hill,Bennett Transportation ( Richard Childress ),Chevrolet,163,running,34,29
+2026_02,13,14,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,163,running,0,24
+2026_02,14,29,0,Garrett Smithley,SLCC ( Bobby Dotter ),Chevrolet,163,running,0,23
+2026_02,15,35,07,Josh Bilicki,Flex Power ( Bobby Dotter ),Chevrolet,163,running,0,22
+2026_02,16,25,27,Jeb Burton,Sprayway ( Jordan Anderson ),Chevrolet,163,running,0,22
+2026_02,17,37,55,Chad Finchum,B.J. McLeod,Chevrolet,163,running,0,0
+2026_02,18,38,42,Nick Leitz,"Precision Measurements, Inc. ( Randy Young )",Chevrolet,163,running,0,0
+2026_02,19,33,44,Brennan Poole,Black's Island ( Tommy Joe Martins ),Chevrolet,163,running,0,18
+2026_02,20,27,5,Luke Fenhaus,Chris Hettinger,Ford,162,running,0,17
+2026_02,21,31,87,Austin Green,Peterson Racing ( Doug Peterson ),Chevrolet,162,running,0,16
+2026_02,22,26,02,Ryan Ellis,Pella Windows & Doors ( Randy Young ),Chevrolet,161,running,0,15
+2026_02,23,5,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,161,running,5,14
+2026_02,24,7,19,Giovanni Ruggiero,First Auto Group ( Joe Gibbs ),Toyota,160,running,0,0
+2026_02,25,24,96,Anthony Alfredo,VaVia (Don Sackett),Chevrolet,160,running,0,12
+2026_02,26,19,91,Mason Maggio,FreeRent.org ( Mario Gosselin ),Chevrolet,155,engine,0,11
+2026_02,27,21,92,Josh Williams,Call811.com ( Mario Gosselin ),Chevrolet,151,crash,0,10
+2026_02,28,34,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,150,crash,1,9
+2026_02,29,32,51,Jeremy Clements,"All South Electrical,One Stop ( Jeremy Clements )",Chevrolet,149,running,0,10
+2026_02,30,8,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,141,crash,0,12
+2026_02,31,36,30,Cody Ware,Jacob Companies ( Stanton Barrett ),Chevrolet,120,suspension,0,0
+2026_02,32,2,1,Carson Kvapil,Arby's ( JR Motorsports ),Chevrolet,106,crash,5,17
+2026_02,33,11,7,Justin Allgaier,Registix ( JR Motorsports ),Chevrolet,106,crash,1,19
+2026_02,34,16,35,Joey Gase,Stripes TV ( Joey Gase Motorsports  With Sc ),Chevrolet,39,engine,0,3
+2026_02,35,13,24,Harrison Burton,AirBox ( Sam Hunt ),Toyota,8,dvp,0,2
+2026_02,36,22,31,Blaine Perkins,WERNER ( Jordan Anderson ),Chevrolet,6,dvp,0,1
+2026_02,37,12,39,Ryan Sieg,SciAps / SA Recycling ( Rod Sieg ),Chevrolet,4,crash,0,1
+2026_02,38,18,28,Kyle Sieg,Big House Construction ( Rod Sieg ),Chevrolet,4,crash,0,1
+2026_03,1,2,9,Shane Van Gisbergen,Safety Culture ( JR Motorsports ),Chevrolet,65,running,31,0
+2026_03,2,3,21,Austin Hill,Bennett Transportation ( Richard Childress ),Chevrolet,65,running,4,50
+2026_03,3,10,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,65,running,0,38
+2026_03,4,11,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,65,running,0,46
+2026_03,5,12,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,65,running,0,36
+2026_03,6,7,19,Brent Crews,Younglife ( Joe Gibbs ),Toyota,65,running,5,31
+2026_03,7,15,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,65,running,0,30
+2026_03,8,5,7,Justin Allgaier,BRANDT ( JR Motorsports ),Chevrolet,65,running,1,46
+2026_03,9,21,32,Ross Chastain,GFL Environmental ( Jordan Anderson ),Chevrolet,65,running,0,0
+2026_03,10,26,44,Brennan Poole,Frontline Fire Protection ( Tommy Joe Martins ),Chevrolet,65,running,0,27
+2026_03,11,9,00,Sheldon Creed,Road Ranger ( Gene Haas ),Chevrolet,65,running,0,26
+2026_03,12,14,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,65,running,0,25
+2026_03,13,28,0,Alex Labbe,Trophy Tractor ( Bobby Dotter ),Chevrolet,65,running,0,24
+2026_03,14,8,41,Sam Mayer,Charbroil ( Gene Haas ),Chevrolet,65,running,8,42
+2026_03,15,4,20,Brandon Jones,Menards/Fisher ( Joe Gibbs ),Toyota,65,running,0,32
+2026_03,16,18,39,Ryan Sieg,SciAps / SIMS METAL ( Rod Sieg ),Chevrolet,65,running,0,22
+2026_03,17,24,31,Blaine Perkins,WERNER ( Jordan Anderson ),Chevrolet,65,running,0,20
+2026_03,18,34,27,Jeb Burton,BG Products ( Jordan Anderson ),Chevrolet,65,running,0,19
+2026_03,19,6,91,Carson Kvapil,Clarience Technologies ( Mario Gosselin ),Chevrolet,65,running,2,31
+2026_03,20,32,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,65,running,0,17
+2026_03,21,1,1,Connor Zilisch,Roto-Rooter ( JR Motorsports ),Chevrolet,65,running,13,0
+2026_03,22,31,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,65,running,0,15
+2026_03,23,16,96,Anthony Alfredo,Protein Rice Treats (Don Sackett),Chevrolet,65,running,0,14
+2026_03,24,35,28,Kyle Sieg,Austin HOSE ( Rod Sieg ),Chevrolet,65,running,0,13
+2026_03,25,20,25,Nick Sanchez,Paynuity ( Tim Self ),Ford,65,running,1,12
+2026_03,26,27,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,65,running,0,11
+2026_03,27,17,50,Preston Pardus,Chinchor Electric Inc. (Dan Pardus),Chevrolet,65,running,0,10
+2026_03,28,36,42,J.J. Yeley,DuraMAX ( Randy Young ),Chevrolet,65,running,0,9
+2026_03,29,23,24,Harrison Burton,DEX  Sharp ( Sam Hunt ),Toyota,65,running,0,8
+2026_03,30,29,99,Parker Retzlaff,Viking Motorsports ( Don Sackett ),Chevrolet,65,running,0,7
+2026_03,31,19,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,65,running,0,8
+2026_03,32,30,51,Jeremy Clements,Alliance Driveway Solutions ( Jeremy Clements ),Chevrolet,65,running,0,5
+2026_03,33,13,87,Austin Green,Peterson Racing ( Doug Peterson ),Chevrolet,65,running,0,7
+2026_03,34,33,02,Ryan Ellis,Rosch ( Randy Young ),Chevrolet,64,running,0,3
+2026_03,35,22,55,Sage Karam,Point Blank Tequila ( B.J. McLeod ),Toyota,53,suspension,0,2
+2026_03,36,25,07,Josh Bilicki,Circle B Diecast ( Bobby Dotter ),Chevrolet,35,suspension,0,1
+2026_03,37,37,30,Baltazar Leguizamon,RUSSpeed Energy Drink ( Stanton Barrett ),Chevrolet,33,crash,0,1
+2026_03,38,38,35,Austin J  Hill,SRI ( Joey Gase Motorsports  With Sc ),Chevrolet,7,suspension,0,1
+2026_04,1,17,7,Justin Allgaier,BRANDT ( JR Motorsports ),Chevrolet,200,running,11,69
+2026_04,2,2,2,Jesse Love,Distributor Wire & Cable ( Richard Childress ),Chevrolet,200,running,114,55
+2026_04,3,14,1,Carson Kvapil,Bass Pro Shops ( JR Motorsports ),Chevrolet,200,running,22,51
+2026_04,4,16,00,Sheldon Creed,Boulder Crest Foundation ( Gene Haas ),Chevrolet,200,running,20,37
+2026_04,5,12,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,200,running,11,32
+2026_04,6,7,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,200,running,10,46
+2026_04,7,9,27,Jeb Burton,Dish / Zone Protects ( Jordan Anderson ),Chevrolet,200,running,1,39
+2026_04,8,25,32,Rajah Caruth,Jordan Anderson,Chevrolet,200,running,1,29
+2026_04,9,8,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,200,running,0,32
+2026_04,10,4,96,Anthony Alfredo,Dude Wipes (Don Sackett),Chevrolet,200,running,0,27
+2026_04,11,21,51,Jeremy Clements,Alliance Driveway Solutions ( Jeremy Clements ),Chevrolet,200,running,0,27
+2026_04,12,13,21,Austin Hill,Bennett Transportation ( Richard Childress ),Chevrolet,200,running,0,25
+2026_04,13,6,88,William Byron,HendrickCars.com ( JR Motorsports ),Chevrolet,200,running,0,0
+2026_04,14,31,99,Parker Retzlaff,Viking Motorsports ( Don Sackett ),Chevrolet,200,running,0,23
+2026_04,15,1,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,200,running,10,25
+2026_04,16,3,20,Brandon Jones,Menards/Best Air ( Joe Gibbs ),Toyota,200,running,0,22
+2026_04,17,18,39,Ryan Sieg,Rod Sieg,Chevrolet,200,running,0,20
+2026_04,18,5,19,Brent Crews,YoungLife/Grand Canyon ( Joe Gibbs ),Toyota,200,running,0,28
+2026_04,19,35,55,Joey Gase,B.J. McLeod,Chevrolet,200,running,0,18
+2026_04,20,29,52,Daniel Dye,Champion Container ( Jimmy Means ),Ford,199,running,0,0
+2026_04,21,24,5,Chandler Smith,Victory Custom Trailers ( Chris Hettinger ),Ford,199,running,0,0
+2026_04,22,27,87,Austin Green,Peterson Racing ( Doug Peterson ),Chevrolet,199,running,0,15
+2026_04,23,11,24,Harrison Burton,DEX  Sharp ( Sam Hunt ),Toyota,199,running,0,14
+2026_04,24,10,28,Kyle Sieg,"TAP and Sons Electric, Inc. ( Rod Sieg )",Chevrolet,199,running,0,13
+2026_04,25,23,26,Dean Thompson,MCM Transportation ( Sam Hunt ),Toyota,199,running,0,12
+2026_04,26,28,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,199,running,0,11
+2026_04,27,20,44,Brennan Poole,Toxic Waste ( Tommy Joe Martins ),Chevrolet,199,running,0,10
+2026_04,28,26,31,Blaine Perkins,WERNER ( Jordan Anderson ),Chevrolet,198,running,0,9
+2026_04,29,22,0,Garrett Smithley,Bobby Dotter,Chevrolet,198,running,0,8
+2026_04,30,33,07,Josh Bilicki,Bobby Dotter,Chevrolet,197,running,0,7
+2026_04,31,32,42,Nathan Byrd,TBD ( Randy Young ),Chevrolet,197,running,0,6
+2026_04,32,37,91,Mason Maggio,Mario Gosselin,Chevrolet,196,running,0,5
+2026_04,33,30,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,195,running,0,4
+2026_04,34,34,30,Austin J  Hill,Southern Ohio Equipment ( Stanton Barrett ),Chevrolet,195,running,0,3
+2026_04,35,19,25,Nick Sanchez,Tim Self,Ford,193,running,0,2
+2026_04,36,36,74,Dawson Cram,Mike Harmon,Chevrolet,192,running,0,1
+2026_04,37,15,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,173,crash,0,1
+2026_04,38,38,02,Ryan Ellis,Demco Built to Move Chevy ( Randy Young ),Chevrolet,13,suspension,0,1
+2026_05,1,2,88,Kyle Larson,HendrickCars.com ( JR Motorsports ),Chevrolet,200,running,47,0
+2026_05,2,23,19,Chase Briscoe,WIX Filters ( Joe Gibbs ),Toyota,200,running,2,0
+2026_05,3,3,00,Sheldon Creed,Ollie's ( Gene Haas ),Chevrolet,200,running,1,45
+2026_05,4,9,7,Justin Allgaier,Jarrett Logistics ( JR Motorsports ),Chevrolet,200,running,48,53
+2026_05,5,4,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,200,running,0,32
+2026_05,6,7,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,200,running,36,43
+2026_05,7,17,1,Connor Zilisch,Carolina Carports ( JR Motorsports ),Chevrolet,200,running,0,0
+2026_05,8,11,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,200,running,9,36
+2026_05,9,14,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,200,running,0,28
+2026_05,10,13,21,Austin Hill,1-800-PACK-RAT ( Richard Childress ),Chevrolet,200,running,0,29
+2026_05,11,18,9,Carson Kvapil,WILDE ( JR Motorsports ),Chevrolet,200,running,0,27
+2026_05,12,12,99,Parker Retzlaff,FUNKAWAY ( Don Sackett ),Chevrolet,200,running,0,25
+2026_05,13,5,20,Brandon Jones,Menards/Bali ( Joe Gibbs ),Toyota,200,running,4,25
+2026_05,14,29,28,Kyle Sieg,SynerFuse ( Rod Sieg ),Chevrolet,200,running,0,23
+2026_05,15,27,52,Daniel Dye,Champion Container ( Jimmy Means ),Ford,200,running,0,0
+2026_05,16,32,92,Josh Williams,Call811.com ( Mario Gosselin ),Chevrolet,200,running,0,21
+2026_05,17,24,24,Harrison Burton,DEX  Sharp ( Sam Hunt ),Toyota,200,running,0,20
+2026_05,18,16,0,Cole Custer,Sysco ( Bobby Dotter ),Chevrolet,200,running,0,0
+2026_05,19,8,32,Rajah Caruth,Donut Media ( Jordan Anderson ),Chevrolet,200,running,0,18
+2026_05,20,26,44,Brennan Poole,Macc Door Systems ( Tommy Joe Martins ),Chevrolet,199,running,0,17
+2026_05,21,22,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,199,running,0,16
+2026_05,22,33,31,Blaine Perkins,City Lights Shine ( Jordan Anderson ),Chevrolet,199,running,0,15
+2026_05,23,38,07,Josh Bilicki,Cowboy Pillows ( Bobby Dotter ),Chevrolet,199,running,0,14
+2026_05,24,10,51,Jeremy Clements,Alliance Driveway Solutions ( Jeremy Clements ),Chevrolet,199,running,0,13
+2026_05,25,19,87,Austin Green,3Dimensional.com ( Doug Peterson ),Chevrolet,199,running,0,12
+2026_05,26,30,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,199,running,0,11
+2026_05,27,15,27,Jeb Burton,Bommarito Automotive Group ( Jordan Anderson ),Chevrolet,199,running,0,10
+2026_05,28,37,91,Mason Maggio,Success Unlocked ( Mario Gosselin ),Chevrolet,199,running,0,9
+2026_05,29,36,55,Joey Gase,Nevada Donor Network ( B.J. McLeod ),Chevrolet,199,running,0,8
+2026_05,30,35,02,Ryan Ellis,Tablo TV Chevy ( Randy Young ),Chevrolet,198,running,0,7
+2026_05,31,25,26,Dean Thompson,MCM Transportation ( Sam Hunt ),Toyota,198,running,0,6
+2026_05,32,34,42,Nathan Byrd,Randco ( Randy Young ),Chevrolet,198,running,0,5
+2026_05,33,20,39,Ryan Sieg,SciAps / SA Recycling ( Rod Sieg ),Chevrolet,197,running,0,4
+2026_05,34,31,96,Anthony Alfredo,Dude Wipes (Don Sackett),Chevrolet,197,running,0,3
+2026_05,35,1,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,196,running,32,12
+2026_05,36,28,5,Chandler Smith,Victory Custom Trailers ( Chris Hettinger ),Ford,184,ignition,0,0
+2026_05,37,6,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,148,crash,21,16
+2026_05,38,21,25,Nick Sanchez,Paynuity / Travel Curious ( Tim Self ),Ford,141,fuel pump,0,1
+2026_06,1,4,7,Justin Allgaier,BRANDT ( JR Motorsports ),Chevrolet,147,running,31,69
+2026_06,2,8,20,Brandon Jones,Menards/Pelonis ( Joe Gibbs ),Toyota,147,running,9,50
+2026_06,3,2,19,Christopher Bell,SportClips Haircuts ( Joe Gibbs ),Toyota,147,running,0,0
+2026_06,4,1,88,Kyle Larson,HendrickCars.com ( JR Motorsports ),Chevrolet,147,running,107,0
+2026_06,5,3,1,Carson Kvapil,Champion Irrigation ( JR Motorsports ),Chevrolet,147,running,0,49
+2026_06,6,12,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,147,running,0,34
+2026_06,7,13,00,Sheldon Creed,Ollie's ( Gene Haas ),Chevrolet,147,running,0,30
+2026_06,8,5,99,Parker Retzlaff,South Carolina Outcast ( Don Sackett ),Chevrolet,147,running,0,40
+2026_06,9,18,8,Sammy Smith,Allstate Peterbilt Group ( JR Motorsports ),Chevrolet,147,running,0,28
+2026_06,10,6,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,147,running,0,27
+2026_06,11,10,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,147,running,0,30
+2026_06,12,21,96,Anthony Alfredo,Dude Wipes (Don Sackett),Chevrolet,147,running,0,31
+2026_06,13,22,39,Ryan Sieg,SciAps / SA Recycling ( Rod Sieg ),Chevrolet,147,running,0,24
+2026_06,14,9,9,Ross Chastain,Jarrett Logistics ( JR Motorsports ),Chevrolet,147,running,0,0
+2026_06,15,15,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,147,running,0,22
+2026_06,16,27,25,Nick Sanchez,Paynuity / Travel Curious ( Tim Self ),Ford,147,running,0,21
+2026_06,17,7,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,147,running,0,24
+2026_06,18,23,44,Brennan Poole,CWSons.com / Clark's ( Tommy Joe Martins ),Chevrolet,147,running,0,19
+2026_06,19,30,51,Jeremy Clements,Fly and Form Structures ( Jeremy Clements ),Chevrolet,147,running,0,18
+2026_06,20,32,07,Josh Bilicki,Rita's ( Bobby Dotter ),Chevrolet,147,running,0,17
+2026_06,21,33,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,147,running,0,16
+2026_06,22,14,24,Harrison Burton,DEX  Sharp ( Sam Hunt ),Toyota,147,running,0,15
+2026_06,23,19,32,Rajah Caruth,Black Effect ( Jordan Anderson ),Chevrolet,147,running,0,14
+2026_06,24,17,92,Josh Williams,Down Syndrome Foundation of FL ( Mario Gosselin ),Chevrolet,147,running,0,13
+2026_06,25,20,5,J.J. Yeley,Victory Custom Trailers ( Chris Hettinger ),Ford,147,running,0,12
+2026_06,26,25,27,Jeb Burton,State Water Heaters ( Jordan Anderson ),Chevrolet,147,running,0,11
+2026_06,27,24,0,Garrett Smithley,Knight Fire Protection ( Bobby Dotter ),Chevrolet,147,running,0,10
+2026_06,28,31,87,Austin Green,3-Dimensional Services ( Doug Peterson ),Chevrolet,146,running,0,9
+2026_06,29,28,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,146,running,0,8
+2026_06,30,26,31,Blaine Perkins,Capital City Towing ( Jordan Anderson ),Chevrolet,146,running,0,7
+2026_06,31,37,55,Joey Gase,B.J. McLeod,Chevrolet,145,running,0,6
+2026_06,32,36,02,Ryan Ellis,Sweetwater ( Randy Young ),Chevrolet,145,running,0,5
+2026_06,33,35,30,Myatt Snider,Barrett WinesProof Ice Cream ( Stanton Barrett ),Chevrolet,145,running,0,4
+2026_06,34,38,42,Nathan Byrd,Randco ( Randy Young ),Chevrolet,145,running,0,3
+2026_06,35,11,21,Austin Hill,1-800-PACK-RAT ( Richard Childress ),Chevrolet,142,running,0,2
+2026_06,36,29,45,Lavar Scott,Sunoco ( Tommy Joe Martins ),Chevrolet,123,crash,0,1
+2026_06,37,16,28,Kyle Sieg,Night Owl Companies ( Rod Sieg ),Chevrolet,121,dvp,0,1
+2026_06,38,34,91,Alex Labbe,Mario Gosselin,Chevrolet,120,crash,0,1
+2026_07,1,1,7,Justin Allgaier,BRANDT ( JR Motorsports ),Chevrolet,250,running,114,67
+2026_07,2,7,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,250,running,37,37
+2026_07,3,9,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,250,running,0,39
+2026_07,4,6,00,Sheldon Creed,Road Ranger ( Gene Haas ),Chevrolet,250,running,0,39
+2026_07,5,12,9,Lee Pulliam,Folsom Fence Supply ( JR Motorsports ),Chevrolet,250,running,40,32
+2026_07,6,26,21,Austin Hill,Bennett Transportation ( Richard Childress ),Chevrolet,250,running,9,41
+2026_07,7,22,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,250,running,0,30
+2026_07,8,38,91,Ross Chastain,Who's Your Driver? ( Mario Gosselin ),Chevrolet,250,running,0,0
+2026_07,9,14,39,Ryan Sieg,SciAps / SA Recycling ( Rod Sieg ),Chevrolet,250,running,0,35
+2026_07,10,4,19,Brent Crews,Mobil 1 ( Joe Gibbs ),Toyota,250,running,0,34
+2026_07,11,10,99,Parker Retzlaff,Sci Aps ( Don Sackett ),Chevrolet,250,running,0,26
+2026_07,12,8,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,250,running,0,27
+2026_07,13,13,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,250,running,0,32
+2026_07,14,17,44,Brennan Poole,Black's Island ( Tommy Joe Martins ),Chevrolet,250,running,0,23
+2026_07,15,15,96,Anthony Alfredo,Dude Wipes MentHOLE (Don Sackett),Chevrolet,250,running,0,31
+2026_07,16,27,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,250,running,0,21
+2026_07,17,28,31,Blaine Perkins,Bommarito.com ( Jordan Anderson ),Chevrolet,250,running,0,20
+2026_07,18,3,20,Brandon Jones,Menards/Pelonis ( Joe Gibbs ),Toyota,250,running,1,28
+2026_07,19,37,30,Myatt Snider,Proof Hard Ice Cream ( Stanton Barrett ),Chevrolet,250,running,0,18
+2026_07,20,16,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,250,running,0,24
+2026_07,21,34,42,Brad Perez,Live To Be Different Fnd ( Randy Young ),Chevrolet,250,running,0,16
+2026_07,22,36,45,Lavar Scott,Sunoco ( Tommy Joe Martins ),Chevrolet,250,running,0,15
+2026_07,23,11,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,250,running,14,23
+2026_07,24,33,55,Joey Gase,NFPA ( B.J. McLeod ),Chevrolet,250,running,0,13
+2026_07,25,2,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,250,running,18,24
+2026_07,26,24,24,Harrison Burton,Dead On Tools ( Sam Hunt ),Toyota,248,running,17,14
+2026_07,27,25,0,Garrett Smithley,West Piedmont YouthBuild ( Bobby Dotter ),Chevrolet,242,running,0,10
+2026_07,28,5,1,Carson Kvapil,Registix ( JR Motorsports ),Chevrolet,234,crash,0,12
+2026_07,29,30,87,Austin Green,Peterson Racing ( Doug Peterson ),Chevrolet,233,crash,0,8
+2026_07,30,23,27,Jeb Burton,Redneck Blinds ( Jordan Anderson ),Chevrolet,233,crash,0,7
+2026_07,31,19,32,Andrew Patterson,Winsupply / SCS Gearbox ( Jordan Anderson ),Chevrolet,233,crash,0,6
+2026_07,32,31,92,Josh Williams,Optum ( Mario Gosselin ),Chevrolet,233,crash,0,5
+2026_07,33,18,25,Nick Sanchez,Paynuity / Travel Curious ( Tim Self ),Ford,213,crash,0,4
+2026_07,34,35,28,Kyle Sieg,Monroe Extinguisher ( Rod Sieg ),Chevrolet,207,suspension,0,3
+2026_07,35,21,07,Josh Bilicki,Mando ( Bobby Dotter ),Chevrolet,205,running,0,2
+2026_07,36,32,02,Ryan Ellis,Tablo TV ( Randy Young ),Chevrolet,183,brakes,0,1
+2026_07,37,20,51,Jeremy Clements,Kingdom Truck Sales / Alliance ( Jeremy Clements ),Chevrolet,89,oil cooler,0,1
+2026_07,38,29,5,Luke Baldwin,Victory Custom Trailers ( Chris Hettinger ),Ford,31,crash,0,0
+2026_08,1,14,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,250,running,80,71
+2026_08,2,8,20,Brandon Jones,Menards/Pelonis ( Joe Gibbs ),Toyota,250,running,0,49
+2026_08,3,4,7,Justin Allgaier,Jarrett Logistics ( JR Motorsports ),Chevrolet,250,running,1,49
+2026_08,4,13,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,250,running,0,40
+2026_08,5,5,1,Carson Kvapil,Arby's ( JR Motorsports ),Chevrolet,250,running,0,33
+2026_08,6,9,00,Sheldon Creed,Ollie's ( Gene Haas ),Chevrolet,250,running,0,34
+2026_08,7,6,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,250,running,6,39
+2026_08,8,3,99,Parker Retzlaff,FUNKAWAY ( Don Sackett ),Chevrolet,250,running,0,34
+2026_08,9,12,39,Ryan Sieg,SciAps / SA Recycling ( Rod Sieg ),Chevrolet,250,running,0,28
+2026_08,10,1,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,250,running,118,47
+2026_08,11,11,21,Austin Hill,1-800-PACK-RAT ( Richard Childress ),Chevrolet,250,running,0,26
+2026_08,12,19,8,Sammy Smith,TruckClub ( JR Motorsports ),Chevrolet,250,running,0,29
+2026_08,13,16,24,Harrison Burton,Elite Rewards ( Sam Hunt ),Toyota,250,running,0,24
+2026_08,14,24,44,Brennan Poole,Frontline Fire Protection ( Tommy Joe Martins ),Chevrolet,250,running,0,23
+2026_08,15,20,45,Lavar Scott,Sunoco ( Tommy Joe Martins ),Chevrolet,250,running,0,22
+2026_08,16,26,42,Nathan Byrd,Randco ( Randy Young ),Chevrolet,250,running,0,21
+2026_08,17,29,27,Jeb Burton,Celsius ( Jordan Anderson ),Chevrolet,250,running,0,20
+2026_08,18,30,91,Alex Labbe,eRacing Association ( Mario Gosselin ),Chevrolet,250,running,0,19
+2026_08,19,25,92,Josh Williams,DGM Racing ( Mario Gosselin ),Chevrolet,250,running,0,18
+2026_08,20,28,5,J.J. Yeley,Victory Custom Trailers ( Chris Hettinger ),Ford,250,running,0,17
+2026_08,21,31,32,Andrew Patterson,Winsupply / SCS Gearbox ( Jordan Anderson ),Chevrolet,250,running,0,16
+2026_08,22,32,02,Ryan Ellis,AMC Tablo ( Randy Young ),Chevrolet,249,running,0,15
+2026_08,23,27,31,Blaine Perkins,EasyCare/Bommarito.com ( Jordan Anderson ),Chevrolet,249,running,0,14
+2026_08,24,15,96,Anthony Alfredo,Dude Wipes MentHOLE (Don Sackett),Chevrolet,249,running,0,13
+2026_08,25,17,51,Jeremy Clements,Alliance Driveaway Solutions ( Jeremy Clements ),Chevrolet,249,running,0,14
+2026_08,26,10,19,Brent Crews,Mobil 1 ( Joe Gibbs ),Toyota,248,running,30,21
+2026_08,27,2,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,248,running,15,15
+2026_08,28,18,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,248,running,0,9
+2026_08,29,38,0,Garrett Smithley,Easter ( Bobby Dotter ),Chevrolet,246,running,0,8
+2026_08,30,37,55,Blake Lothian,The Texas Lawbook ( B.J. McLeod ),Chevrolet,245,running,0,7
+2026_08,31,36,35,Joey Gase,Joey Gase Motorsports  With Sc,Chevrolet,245,running,0,6
+2026_08,32,35,33,Garrett Mitchell,Tommy's Express Car wash ( Richard Childress ),Chevrolet,244,running,0,5
+2026_08,33,23,87,Austin Green,3-Dimensional Services ( Doug Peterson ),Chevrolet,243,running,0,4
+2026_08,34,22,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,242,running,0,3
+2026_08,35,34,74,Dawson Cram,Mike Harmon Racing ( Mike Harmon ),Chevrolet,241,running,0,2
+2026_08,36,33,07,Josh Bilicki,Mando ( Bobby Dotter ),Chevrolet,241,running,0,1
+2026_08,37,21,28,Kyle Sieg,Night Owl Companies ( Rod Sieg ),Chevrolet,201,electrical,0,1
+2026_08,38,7,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,154,engine,0,1
+2026_09,1,15,1,Connor Zilisch,Roto-Rooter ( JR Motorsports ),Chevrolet,300,running,24,0
+2026_09,2,3,88,Kyle Larson,HendrickCars.com ( JR Motorsports ),Chevrolet,300,running,230,0
+2026_09,3,17,19,Brent Crews,Mobil 1 ( Joe Gibbs ),Toyota,300,running,3,41
+2026_09,4,7,7,Justin Allgaier,Carolina Carports ( JR Motorsports ),Chevrolet,300,running,0,48
+2026_09,5,8,9,Carson Kvapil,High Rock Vodka ( JR Motorsports ),Chevrolet,300,running,0,33
+2026_09,6,2,00,Sheldon Creed,Ollie's ( Gene Haas ),Chevrolet,300,running,0,49
+2026_09,7,1,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,300,running,27,40
+2026_09,8,14,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,300,running,0,32
+2026_09,9,9,99,Parker Retzlaff,FUNKAWAY ( Don Sackett ),Chevrolet,300,running,0,28
+2026_09,10,6,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,300,running,0,27
+2026_09,11,11,39,Ryan Sieg,Sci Aps ( Rod Sieg ),Chevrolet,300,running,13,34
+2026_09,12,12,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,300,running,0,28
+2026_09,13,16,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,300,running,0,24
+2026_09,14,38,32,Rajah Caruth,HendrickCars.com ( Jordan Anderson ),Chevrolet,300,running,0,23
+2026_09,15,19,51,Jeremy Clements,All South Electric / One Stop Convenience Sto ( Jeremy Clements ),Chevrolet,300,running,1,22
+2026_09,16,13,27,Jeb Burton,AJ Tank Lines ( Jordan Anderson ),Chevrolet,300,running,0,21
+2026_09,17,22,24,Harrison Burton,Dead On Tools ( Sam Hunt ),Toyota,300,running,0,20
+2026_09,18,10,44,Brennan Poole,Macc Door Systems ( Tommy Joe Martins ),Chevrolet,300,running,0,19
+2026_09,19,4,20,Brandon Jones,Menards/Monster Energy ( Joe Gibbs ),Toyota,300,running,2,28
+2026_09,20,5,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,300,running,0,22
+2026_09,21,23,21,Austin Hill,Global Industrial ( Richard Childress ),Chevrolet,300,running,0,16
+2026_09,22,30,31,Blaine Perkins,Bubba's 33 ( Jordan Anderson ),Chevrolet,299,running,0,15
+2026_09,23,27,07,Josh Bilicki,10 Spot Tools ( Bobby Dotter ),Chevrolet,299,running,0,14
+2026_09,24,21,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,298,running,0,13
+2026_09,25,20,28,Kyle Sieg,Night Owl Companies ( Rod Sieg ),Chevrolet,298,running,0,12
+2026_09,26,34,5,J.J. Yeley,Victory Custom Trailers ( Chris Hettinger ),Ford,298,running,0,11
+2026_09,27,32,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,298,running,0,10
+2026_09,28,28,74,Gray Gaulding,Flywheel ( Mike Harmon ),Chevrolet,298,running,0,9
+2026_09,29,29,92,Josh Williams,Call811.com ( Mario Gosselin ),Chevrolet,297,running,0,8
+2026_09,30,33,02,Ryan Ellis,Demco ( Randy Young ),Chevrolet,297,running,0,7
+2026_09,31,36,55,Joey Gase,TBD ( B.J. McLeod ),Chevrolet,297,running,0,6
+2026_09,32,26,45,Lavar Scott,TruShine Car Wash ( Tommy Joe Martins ),Chevrolet,295,running,0,5
+2026_09,33,24,42,Logan Bearden,T3 Vodka ( Randy Young ),Chevrolet,295,running,0,4
+2026_09,34,37,35,Blake Lothian,The Texas Lawbook ( Joey Gase Motorsports  With Sc ),Toyota,295,running,0,3
+2026_09,35,25,87,Austin Green,Peterson Racing ( Doug Peterson ),Chevrolet,290,running,0,2
+2026_09,36,18,96,Anthony Alfredo,Ohio Logistics (Don Sackett),Chevrolet,287,running,0,1
+2026_09,37,31,91,Mason Maggio,S I Yachts ( Mario Gosselin ),Chevrolet,191,engine,0,1
+2026_09,38,35,0,Garrett Smithley,TBD ( Bobby Dotter ),Chevrolet,176,suspension,0,1
+2026_10,1,10,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,200,running,48,64
+2026_10,2,4,00,Sheldon Creed,Road Ranger ( Gene Haas ),Chevrolet,200,running,48,49
+2026_10,3,3,7,Justin Allgaier,BRANDT Professional Agriculture ( JR Motorsports ),Chevrolet,200,running,0,50
+2026_10,4,9,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,200,running,1,47
+2026_10,5,5,19,Brent Crews,Younglife ( Joe Gibbs ),Toyota,200,running,0,35
+2026_10,6,2,88,William Byron,HendrickCars.com ( JR Motorsports ),Chevrolet,200,running,1,0
+2026_10,7,36,0,Cole Custer,Sysco ( Bobby Dotter ),Chevrolet,200,running,0,0
+2026_10,8,14,20,Brandon Jones,Menards/Loctite ( Joe Gibbs ),Toyota,200,running,67,49
+2026_10,9,19,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,200,running,0,30
+2026_10,10,12,39,Ryan Sieg,Sci Aps ( Rod Sieg ),Chevrolet,200,running,3,27
+2026_10,11,22,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,199,running,0,27
+2026_10,12,6,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,199,running,26,40
+2026_10,13,16,27,Jeb Burton,easycare ( Jordan Anderson ),Chevrolet,199,running,0,26
+2026_10,14,24,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,199,running,0,23
+2026_10,15,18,51,Jeremy Clements,Kingdom Truck Sales ( Jeremy Clements ),Chevrolet,199,running,0,22
+2026_10,16,11,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,199,running,0,26
+2026_10,17,30,92,Josh Williams,Kole Trucking ( Mario Gosselin ),Chevrolet,199,running,0,20
+2026_10,18,27,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,198,running,0,19
+2026_10,19,17,44,Brennan Poole,SKUTTLE TIGHT ( Tommy Joe Martins ),Chevrolet,198,running,0,18
+2026_10,20,7,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,198,running,0,17
+2026_10,21,13,32,Rajah Caruth,HendrickCars.com ( Jordan Anderson ),Chevrolet,198,running,0,16
+2026_10,22,29,02,Ryan Ellis,Tablo TV ( Randy Young ),Chevrolet,198,running,0,15
+2026_10,23,21,31,Blaine Perkins,WERNER ( Jordan Anderson ),Chevrolet,198,running,0,14
+2026_10,24,32,42,Nathan Byrd,Young's Motorsports ( Randy Young ),Chevrolet,197,running,0,13
+2026_10,25,25,28,Kyle Sieg,SynerFuse ( Rod Sieg ),Chevrolet,197,running,0,12
+2026_10,26,23,07,Josh Bilicki,SBG Records ( Bobby Dotter ),Chevrolet,196,running,0,11
+2026_10,27,33,55,Joey Gase,Stripes TV ( B.J. McLeod ),Chevrolet,194,running,0,10
+2026_10,28,20,24,Harrison Burton,DEX / SHARP ( Sam Hunt ),Toyota,190,running,0,12
+2026_10,29,28,74,Dawson Cram,Mike Harmon Racing ( Mike Harmon ),Chevrolet,120,engine,0,8
+2026_10,30,31,96,Anthony Alfredo,Dude Wipes (Don Sackett),Chevrolet,65,crash,6,13
+2026_10,31,37,35,Blake Lothian,Stripes TV ( Joey Gase Motorsports  With Sc ),Chevrolet,62,brakes,0,6
+2026_10,32,35,87,Austin Green,Peterson Racing Group ( Doug Peterson ),Chevrolet,61,engine,0,5
+2026_10,33,34,91,Mason Maggio,KAM Powersports ( Mario Gosselin ),Chevrolet,51,engine,0,4
+2026_10,34,15,21,Austin Hill,Bennett Transportation ( Richard Childress ),Chevrolet,37,crash,0,3
+2026_10,35,26,5,Luke Baldwin,Victory Custom Trailers ( Chris Hettinger ),Ford,4,suspension,0,0
+2026_10,36,8,99,Parker Retzlaff,GEMORO ( Don Sackett ),Chevrolet,2,crash,0,1
+2026_10,37,1,1,Carson Kvapil,Bass Pro Shops ( JR Motorsports ),Chevrolet,1,crash,0,1
+2026_11,1,3,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,113,running,1,55
+2026_11,2,18,19,Brent Crews,Mobil 1 ( Joe Gibbs ),Toyota,113,running,0,35
+2026_11,3,5,00,Sheldon Creed,Ollie's ( Gene Haas ),Chevrolet,113,running,7,50
+2026_11,4,13,8,Sammy Smith,Arby's BBQ ( JR Motorsports ),Chevrolet,113,running,6,42
+2026_11,5,15,51,Jeremy Clements,AllSouthElectric.com ( Jeremy Clements ),Chevrolet,113,running,0,37
+2026_11,6,17,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,113,running,0,44
+2026_11,7,1,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,113,running,37,32
+2026_11,8,22,20,Brandon Jones,Menards/CharBroil ( Joe Gibbs ),Toyota,113,running,0,29
+2026_11,9,19,99,Parker Retzlaff,FUNKAWAY ( Don Sackett ),Chevrolet,113,running,0,34
+2026_11,10,31,87,Austin Green,Peterson Racing Group ( Doug Peterson ),Chevrolet,113,running,5,29
+2026_11,11,25,5,J.J. Yeley,Jobber ( Chris Hettinger ),Ford,113,running,2,26
+2026_11,12,23,31,Blaine Perkins,Mezrano Alabama Injury Lawyers ( Jordan Anderson ),Chevrolet,113,running,0,30
+2026_11,13,6,21,Austin Hill,Bennett Transportation ( Richard Childress ),Chevrolet,113,running,3,25
+2026_11,14,35,07,Josh Bilicki,Insurance King ( Bobby Dotter ),Chevrolet,113,running,0,23
+2026_11,15,34,44,Brennan Poole,CWSons.com / Clark's ( Tommy Joe Martins ),Chevrolet,113,running,3,22
+2026_11,16,27,38,Patrick Emerling,Cowboy Pillows ( Rod Sieg ),Chevrolet,113,running,0,0
+2026_11,17,10,91,Mason Maggio,Mario Gosselin,Chevrolet,113,running,0,20
+2026_11,18,28,28,Kyle Sieg,Mama Justice MW LAW FIRM ( Rod Sieg ),Chevrolet,113,running,0,19
+2026_11,19,29,55,Joey Gase,SunFire Heaters ( B.J. McLeod ),Chevrolet,113,running,0,18
+2026_11,20,37,0,Garrett Smithley,SLCC ( Bobby Dotter ),Chevrolet,113,running,0,17
+2026_11,21,12,39,Ryan Sieg,radius recycling ( Rod Sieg ),Chevrolet,113,running,0,25
+2026_11,22,8,1,Carson Kvapil,Champion Irrigation Products ( JR Motorsports ),Chevrolet,113,running,22,30
+2026_11,23,11,7,Justin Allgaier,BRANDT Professional Agriculture ( JR Motorsports ),Chevrolet,113,running,4,24
+2026_11,24,32,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,113,running,1,13
+2026_11,25,2,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,112,crash,8,16
+2026_11,26,24,27,Jeb Burton,Golden Corral ( Jordan Anderson ),Chevrolet,112,crash,2,11
+2026_11,27,30,24,Harrison Burton,Jesse Gerhard Memorial Foundation / Bulovas R ( Sam Hunt ),Toyota,112,crash,1,17
+2026_11,28,16,18,William Sawalich,Starkey ( Joe Gibbs ),Toyota,112,running,0,9
+2026_11,29,26,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,112,running,6,8
+2026_11,30,7,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,112,running,5,14
+2026_11,31,9,96,Anthony Alfredo,Dude Wipes MentHOLE (Don Sackett),Chevrolet,112,running,0,6
+2026_11,32,33,32,Tyler Ankrum,LiUNA! / TDA Investment Group ( Jordan Anderson ),Chevrolet,112,running,0,0
+2026_11,33,36,35,Natalie Decker,T.N. Dickinson's Witch hazel ( Joey Gase Motorsports  With Sc ),Chevrolet,112,running,0,4
+2026_11,34,38,74,Dawson Cram,Mike Harmon Racing ( Mike Harmon ),Chevrolet,112,running,0,3
+2026_11,35,4,92,Josh Williams,First Bank of Alabama ( Mario Gosselin ),Chevrolet,112,running,0,2
+2026_11,36,21,02,Ryan Ellis,Zeros ( Randy Young ),Chevrolet,111,running,0,1
+2026_11,37,14,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,105,running,0,1
+2026_11,38,20,42,David Starr,Breakthrough T1D ( Randy Young ),Chevrolet,14,overheating,0,1
+2026_12,1,3,88,Kyle Larson,HendrickCars.com ( JR Motorsports ),Chevrolet,200,running,93,0
+2026_12,2,1,7,Justin Allgaier,Roto-Rooter ( JR Motorsports ),Chevrolet,200,running,54,54
+2026_12,3,17,41,Sam Mayer,Andy's Frozen Custard 40th Anniversary ( Gene Haas ),Chevrolet,200,running,0,44
+2026_12,4,5,19,Brent Crews,Mobil 1 ( Joe Gibbs ),Toyota,200,running,2,48
+2026_12,5,10,99,Parker Retzlaff,Fentanyl Free America ( Don Sackett ),Chevrolet,200,running,0,37
+2026_12,6,11,00,Sheldon Creed,Road Ranger ( Gene Haas ),Chevrolet,200,running,0,38
+2026_12,7,7,21,Austin Hill,Distributor Wire & Cable ( Richard Childress ),Chevrolet,200,running,0,36
+2026_12,8,2,20,Brandon Jones,Menards / Sylvania ( Joe Gibbs ),Toyota,200,running,0,41
+2026_12,9,21,2,Jesse Love,Samsara ( Richard Childress ),Chevrolet,200,running,0,28
+2026_12,10,8,51,Jeremy Clements,Alliance Driveaway Solutions ( Jeremy Clements ),Chevrolet,200,running,0,29
+2026_12,11,14,9,Carson Kvapil,Arby's BBQ ( JR Motorsports ),Chevrolet,200,running,0,26
+2026_12,12,18,96,Anthony Alfredo,Big Rack Spirits (Don Sackett),Chevrolet,200,running,0,25
+2026_12,13,15,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,200,running,0,24
+2026_12,14,9,39,Ryan Sieg,SciAps / GEMORO ( Rod Sieg ),Chevrolet,200,running,1,23
+2026_12,15,16,18,William Sawalich,Starkey ( Joe Gibbs ),Toyota,200,running,0,23
+2026_12,16,22,26,Dean Thompson,Thompson Pipe Group / Big River Trenches / Po ( Sam Hunt ),Toyota,200,running,0,21
+2026_12,17,28,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,200,running,0,20
+2026_12,18,26,92,Josh Williams,Optum ( Mario Gosselin ),Chevrolet,200,running,0,19
+2026_12,19,37,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,200,running,0,18
+2026_12,20,27,44,Brennan Poole,Frontline Fire Protection ( Tommy Joe Martins ),Chevrolet,200,running,0,17
+2026_12,21,4,1,Connor Zilisch,Registix/TruckClub ( JR Motorsports ),Chevrolet,199,running,48,0
+2026_12,22,24,24,Harrison Burton,Pit Boss Competition Series / Academy Sports ( Sam Hunt ),Toyota,199,running,0,15
+2026_12,23,20,3,Austin Dillon,Boot Barn ( Richard Childress ),Chevrolet,199,running,0,0
+2026_12,24,38,02,Ryan Ellis,ECLIPSE CLAIMS CONSULTING ( Randy Young ),Chevrolet,199,running,0,13
+2026_12,25,29,31,Blaine Perkins,WERNER ( Jordan Anderson ),Chevrolet,199,running,0,12
+2026_12,26,25,27,Jeb Burton,State Water Heaters ( Jordan Anderson ),Chevrolet,199,running,0,11
+2026_12,27,33,07,Josh Bilicki,Stand Ready Apparel ( Bobby Dotter ),Chevrolet,198,running,0,10
+2026_12,28,36,55,Joey Gase,Stripes TV ( B.J. McLeod ),Chevrolet,198,running,0,9
+2026_12,29,35,53,David Starr,Clean Burn ( Joey Gase Motorsports  With Sc ),Chevrolet,197,running,0,8
+2026_12,30,23,28,Kyle Sieg,SynerFuse ( Rod Sieg ),Chevrolet,196,running,0,7
+2026_12,31,32,0,Garrett Smithley,Trophy Tractor ( Bobby Dotter ),Chevrolet,194,running,0,6
+2026_12,32,30,91,Mason Maggio,Success Unlocked ( Mario Gosselin ),Chevrolet,189,running,0,5
+2026_12,33,12,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,188,running,0,4
+2026_12,34,13,32,Rajah Caruth,HendrickCars.com ( Jordan Anderson ),Chevrolet,180,crash,2,3
+2026_12,35,19,87,Austin Green,3Dimensional.com ( Doug Peterson ),Chevrolet,17,crash,0,2
+2026_12,36,34,42,Brad Perez,Weiss Sand & Clay ( Randy Young ),Chevrolet,17,crash,0,1
+2026_12,37,6,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,1,dvp,0,1
+2026_12,38,31,35,Dawson Cram,TBD ( Joey Gase Motorsports  With Sc ),Chevrolet,1,engine,0,1
+2026_13,1,17,1,Connor Zilisch,Jockey 150 Years ( JR Motorsports ),Chevrolet,82,running,20,0
+2026_13,2,8,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,82,running,18,48
+2026_13,3,25,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,82,running,0,39
+2026_13,4,29,32,Ross Chastain,T-M-T Gravel & Contracting Inc. ( Jordan Anderson ),Chevrolet,82,running,0,0
+2026_13,5,7,20,Brandon Jones,Menards/Pelonis ( Joe Gibbs ),Toyota,82,running,0,39
+2026_13,6,4,19,Brent Crews,WIX Filters ( Joe Gibbs ),Toyota,82,running,32,51
+2026_13,7,6,99,Parker Retzlaff,US Environmental ( Don Sackett ),Chevrolet,82,running,0,33
+2026_13,8,12,9,Shane Van Gisbergen,Kubota ( JR Motorsports ),Chevrolet,82,running,7,0
+2026_13,9,35,87,Austin Green,Peterson Racing ( Doug Peterson ),Chevrolet,82,running,0,28
+2026_13,10,2,7,Justin Allgaier,BRANDT Professional Agriculture ( JR Motorsports ),Chevrolet,82,running,0,42
+2026_13,11,9,21,Austin Hill,Bennett Transportation ( Richard Childress ),Chevrolet,82,running,0,35
+2026_13,12,1,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,82,running,2,29
+2026_13,13,5,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,82,running,3,36
+2026_13,14,34,91,Carson Kvapil,Clarience Technologies ( Mario Gosselin ),Chevrolet,82,running,0,23
+2026_13,15,27,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,82,running,0,22
+2026_13,16,10,8,Sammy Smith,Arby's BBQ ( JR Motorsports ),Chevrolet,82,running,0,23
+2026_13,17,22,24,Harrison Burton,DEX / SHARP ( Sam Hunt ),Toyota,82,running,0,20
+2026_13,18,18,44,Brennan Poole,Midas ( Tommy Joe Martins ),Chevrolet,82,running,0,19
+2026_13,19,30,0,Alex Labbe,Liberty Brew ( Bobby Dotter ),Chevrolet,82,running,0,18
+2026_13,20,36,42,Will Rodgers,Drydene ( Randy Young ),Chevrolet,82,running,0,17
+2026_13,21,38,50,Preston Pardus,Chinchor Electric Inc. (Dan Pardus),Chevrolet,82,running,0,16
+2026_13,22,26,07,Josh Bilicki,High Lane Diecast ( Bobby Dotter ),Chevrolet,82,running,0,15
+2026_13,23,13,39,Ryan Sieg,aperam Recycling ( Rod Sieg ),Chevrolet,82,running,0,15
+2026_13,24,15,96,Anthony Alfredo,Metalico (Don Sackett),Chevrolet,82,running,0,13
+2026_13,25,23,27,Jeb Burton,FVP Verified. Proven. ( Jordan Anderson ),Chevrolet,82,running,0,12
+2026_13,26,24,31,Blaine Perkins,Davidson Buick/ GMC ( Jordan Anderson ),Chevrolet,81,out of fuel,0,11
+2026_13,27,20,45,Lavar Scott,Sunoco ( Tommy Joe Martins ),Chevrolet,81,out of fuel,0,10
+2026_13,28,21,92,Alex Guenette,DLGL WGI ( Mario Gosselin ),Chevrolet,81,running,0,9
+2026_13,29,3,00,Sheldon Creed,Ollie's ( Gene Haas ),Chevrolet,81,running,0,8
+2026_13,30,32,55,Glen Reen,TBD ( B.J. McLeod ),Toyota,81,running,0,7
+2026_13,31,33,28,Kyle Sieg,Monroe Extinguisher ( Rod Sieg ),Chevrolet,81,running,0,6
+2026_13,32,31,53,Derek White,TBD ( Joey Gase Motorsports  With Sc ),Chevrolet,78,running,0,5
+2026_13,33,11,51,Jeremy Clements,All Weather Power Equipment / Community First ( Jeremy Clements ),Chevrolet,74,running,0,4
+2026_13,34,28,02,Ryan Ellis,Tablo TV ( Randy Young ),Chevrolet,72,suspension,0,3
+2026_13,35,16,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,54,transmission,0,2
+2026_13,36,14,18,William Sawalich,Starkey ( Joe Gibbs ),Toyota,15,engine,0,1
+2026_13,37,37,35,Matt Wilson,Monroe Kitchen ( Joey Gase Motorsports  With Sc ),Chevrolet,5,crash,0,1
+2026_13,38,19,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,4,engine,0,1
+2026_14,1,3,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,200,running,4,62
+2026_14,2,13,7,Justin Allgaier,BRANDT Professional Agriculture ( JR Motorsports ),Chevrolet,200,running,71,39
+2026_14,3,6,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,200,running,1,48
+2026_14,4,8,18,William Sawalich,Starkey ( Joe Gibbs ),Toyota,200,running,15,40
+2026_14,5,17,21,Austin Hill,1-800-PACK-RAT ( Richard Childress ),Chevrolet,200,running,0,32
+2026_14,6,2,20,Brandon Jones,Menards/DAP ( Joe Gibbs ),Toyota,200,running,31,41
+2026_14,7,7,1,Carson Kvapil,Bass Pro Shops ( JR Motorsports ),Chevrolet,200,running,0,40
+2026_14,8,11,39,Ryan Sieg,Sci Aps ( Rod Sieg ),Chevrolet,200,running,0,30
+2026_14,9,18,8,Sammy Smith,Arby's BBQ ( JR Motorsports ),Chevrolet,200,running,0,28
+2026_14,10,27,96,Anthony Alfredo,Dude Wipes (Don Sackett),Chevrolet,200,running,0,27
+2026_14,11,20,44,Brennan Poole,Clarks Directional Boring ( Tommy Joe Martins ),Chevrolet,200,running,0,26
+2026_14,12,26,87,Austin Green,Peterson Racing Group ( Doug Peterson ),Chevrolet,200,running,4,25
+2026_14,13,1,9,Ross Chastain,Roto-Rooter ( JR Motorsports ),Chevrolet,200,running,68,0
+2026_14,14,4,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,200,running,1,38
+2026_14,15,21,51,Jeremy Clements,BG Crane Services Inc ( Jeremy Clements ),Chevrolet,200,running,0,22
+2026_14,16,9,24,Harrison Burton,DEX / SHARP ( Sam Hunt ),Toyota,200,running,0,21
+2026_14,17,24,28,Kyle Sieg,Sustainachem ( Rod Sieg ),Chevrolet,200,running,0,20
+2026_14,18,12,00,Sheldon Creed,Boulder Crest Foundation ( Gene Haas ),Chevrolet,200,running,0,19
+2026_14,19,31,32,Andrew Patterson,Bommarito.com ( Jordan Anderson ),Chevrolet,200,running,0,18
+2026_14,20,22,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,200,running,0,17
+2026_14,21,28,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,200,running,0,16
+2026_14,22,16,19,Brent Crews,Flow ( Joe Gibbs ),Toyota,200,running,0,15
+2026_14,23,10,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,200,running,4,23
+2026_14,24,25,91,Myatt Snider,Delaware State Police Honoring Ty Snook ( Mario Gosselin ),Chevrolet,200,running,0,13
+2026_14,25,32,02,Ryan Ellis,Sweetwater Construction ( Randy Young ),Chevrolet,199,running,0,12
+2026_14,26,33,55,Blake Lothian,The Texas Lawbook ( B.J. McLeod ),Toyota,199,running,0,11
+2026_14,27,34,07,Josh Bilicki,Rita's Water Ice ( Bobby Dotter ),Chevrolet,199,running,0,10
+2026_14,28,35,35,Dawson Cram,TBD ( Joey Gase Motorsports  With Sc ),Chevrolet,198,running,0,9
+2026_14,29,19,92,B.J. McLeod,Pigeon Forge Racing Coaster ( Mario Gosselin ),Chevrolet,195,running,0,0
+2026_14,30,37,42,C.J. McLaughlin,Howell Engineering ( Randy Young ),Chevrolet,193,running,0,7
+2026_14,31,30,0,Garrett Smithley,Bobby Dotter,Chevrolet,189,running,0,6
+2026_14,32,5,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,183,suspension,1,20
+2026_14,33,38,53,David Starr,Alarm Tech ( Joey Gase Motorsports  With Sc ),Chevrolet,62,vibration,0,4
+2026_14,34,29,31,Blaine Perkins,Nuthin Fancy Co. ( Jordan Anderson ),Chevrolet,59,crash,0,3
+2026_14,35,36,38,Logan Bearden,Rod Sieg,Ford,30,brakes,0,2
+2026_14,36,23,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,23,engine,0,1
+2026_14,37,15,27,Jeb Burton,BG Products ( Jordan Anderson ),Chevrolet,10,crash,0,1
+2026_14,38,14,99,Parker Retzlaff,FUNKAWAY ( Don Sackett ),Chevrolet,10,crash,0,1
+2026_15,1,14,9,Ross Chastain,Carolina Carports ( JR Motorsports ),Chevrolet,91,running,28,0
+2026_15,2,17,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,91,running,4,49
+2026_15,3,6,21,Austin Hill,Global Industrial ( Richard Childress ),Chevrolet,91,running,1,42
+2026_15,4,7,18,William Sawalich,Starkey ( Joe Gibbs ),Toyota,91,running,0,40
+2026_15,5,2,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,91,running,0,45
+2026_15,6,5,1,Connor Zilisch,Registix ( JR Motorsports ),Chevrolet,91,running,7,0
+2026_15,7,9,39,Ryan Sieg,Sci Aps ( Rod Sieg ),Chevrolet,91,running,0,34
+2026_15,8,29,0,Cole Custer,Sysco ( Bobby Dotter ),Chevrolet,91,running,0,0
+2026_15,9,24,91,Carson Kvapil,Clarience Technologies ( Mario Gosselin ),Chevrolet,91,running,0,30
+2026_15,10,10,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,91,running,0,31
+2026_15,11,8,8,Sammy Smith,Alpha Craft ( JR Motorsports ),Chevrolet,91,running,0,26
+2026_15,12,31,99,Parker Retzlaff,Free Bird Southern Spring Water ( Don Sackett ),Chevrolet,91,running,0,25
+2026_15,13,13,96,Anthony Alfredo,Dogs By Andy K-9 Services (Don Sackett),Chevrolet,91,running,0,24
+2026_15,14,21,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,91,running,0,23
+2026_15,15,30,92,Leland Honeyman,DPR Construction ( Mario Gosselin ),Chevrolet,91,running,0,0
+2026_15,16,16,87,Austin Green,Purple Hearts and Homes ( Doug Peterson ),Chevrolet,91,running,0,21
+2026_15,17,37,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,91,running,0,20
+2026_15,18,23,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,91,running,0,19
+2026_15,19,22,28,Kyle Sieg,Night Owl Companies ( Rod Sieg ),Chevrolet,91,running,0,18
+2026_15,20,36,53,David Starr,Bret Baier/Cell Phones For Soldiers ( Joey Gase Motorsports  With Sc ),Chevrolet,91,running,0,17
+2026_15,21,27,02,Ryan Ellis,Four Loko USA ( Randy Young ),Chevrolet,91,running,0,16
+2026_15,22,35,27,Jeb Burton,Purina Dog Chow ( Jordan Anderson ),Chevrolet,91,running,0,15
+2026_15,23,28,55,Joey Gase,Stripes TV ( B.J. McLeod ),Chevrolet,91,running,0,14
+2026_15,24,33,31,Blaine Perkins,Werner Operation: Freedom ( Jordan Anderson ),Chevrolet,91,running,3,13
+2026_15,25,26,07,Josh Bilicki,Mando ( Bobby Dotter ),Chevrolet,91,running,0,12
+2026_15,26,32,42,Nathan Byrd,24 Hour Garage Door Service ( Randy Young ),Chevrolet,91,running,0,11
+2026_15,27,11,44,Brennan Poole,Macc Door Systems ( Tommy Joe Martins ),Chevrolet,91,running,0,10
+2026_15,28,20,32,Andrew Patterson,Winsupply ( Jordan Anderson ),Chevrolet,91,running,0,9
+2026_15,29,1,7,Justin Allgaier,Liquid IV/Hellmann's/Commissary ( JR Motorsports ),Chevrolet,91,running,36,17
+2026_15,30,15,51,Jeremy Clements,Kevin Whitaker Chevrolet ( Jeremy Clements ),Chevrolet,90,running,0,7
+2026_15,31,25,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,73,crash,0,6
+2026_15,32,12,00,Sheldon Creed,Road Ranger ( Gene Haas ),Chevrolet,73,crash,0,6
+2026_15,33,34,35,Dawson Cram,TBD ( Joey Gase Motorsports  With Sc ),Chevrolet,72,engine,0,4
+2026_15,34,38,38,J.J. Yeley,CAROLINA LAND & GRADING SOLUTIONS / MIKE EFAW ( Rod Sieg ),Ford,64,fuel pump,0,3
+2026_15,35,4,20,Brandon Jones,Menards/Pennington ( Joe Gibbs ),Toyota,62,running,0,6
+2026_15,36,3,41,Sam Mayer,Charbroil ( Gene Haas ),Chevrolet,61,crash,12,7
+2026_15,37,18,19,Brent Crews,Younglife ( Joe Gibbs ),Toyota,51,crash,0,3
+2026_15,38,19,24,Harrison Burton,Dead On Tools ( Sam Hunt ),Toyota,51,crash,0,1
+2026_16,1,17,7,Justin Allgaier,BRANDT/Precision Build/Trademark Nitrogen ( JR Motorsports ),Chevrolet,188,running,50,74
+2026_16,2,33,19,Brent Crews,Younglife ( Joe Gibbs ),Toyota,188,running,45,42
+2026_16,3,5,18,William Sawalich,Starkey ( Joe Gibbs ),Toyota,188,running,0,45
+2026_16,4,34,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,188,running,0,37
+2026_16,5,29,20,Brandon Jones,Menards/Atlas ( Joe Gibbs ),Toyota,188,running,1,32
+2026_16,6,3,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,188,running,0,45
+2026_16,7,4,1,Carson Kvapil,Jarrett Logistics ( JR Motorsports ),Chevrolet,188,running,0,43
+2026_16,8,6,88,Kyle Larson,HendrickCars.com ( JR Motorsports ),Chevrolet,188,running,0,0
+2026_16,9,27,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,188,running,0,28
+2026_16,10,8,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,188,running,0,29
+2026_16,11,2,21,Austin Hill,1-800-PACK-RAT ( Richard Childress ),Chevrolet,188,running,2,33
+2026_16,12,9,99,Parker Retzlaff,FUNKAWAY ( Don Sackett ),Chevrolet,188,running,0,28
+2026_16,13,7,39,Ryan Sieg,Sci Aps ( Rod Sieg ),Chevrolet,188,running,2,28
+2026_16,14,13,26,Dean Thompson,MCM Transportation ( Sam Hunt ),Toyota,188,running,0,23
+2026_16,15,24,00,Sheldon Creed,Ollie's ( Gene Haas ),Chevrolet,188,running,0,22
+2026_16,16,1,2,Jesse Love,Whelen/Whelen Aerospace Technologies ( Richard Childress ),Chevrolet,188,running,87,40
+2026_16,17,12,96,Anthony Alfredo,VaVia (Don Sackett),Chevrolet,188,running,0,20
+2026_16,18,31,51,Jeremy Clements,All South Electric / Alliance Driveaway Solut ( Jeremy Clements ),Chevrolet,187,running,0,19
+2026_16,19,25,32,Rajah Caruth,HendrickCars.com ( Jordan Anderson ),Chevrolet,187,running,0,18
+2026_16,20,21,31,Blaine Perkins,WERNER ( Jordan Anderson ),Chevrolet,187,running,0,17
+2026_16,21,23,44,Brennan Poole,Macc Door Systems ( Tommy Joe Martins ),Chevrolet,187,running,0,16
+2026_16,22,15,92,Leland Honeyman,DPR Construction ( Mario Gosselin ),Chevrolet,187,running,0,0
+2026_16,23,19,27,Jeb Burton,Beretta / PH Outdoors ( Jordan Anderson ),Chevrolet,187,running,0,14
+2026_16,24,20,28,Kyle Sieg,Sustainachem ( Rod Sieg ),Chevrolet,187,running,0,13
+2026_16,25,16,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,187,running,0,12
+2026_16,26,32,42,Logan Bearden,T3 Vodka Chevy ( Randy Young ),Chevrolet,186,running,0,11
+2026_16,27,35,24,Harrison Burton,Jesse Gerhard Memorial Foundation / Bulovas R ( Sam Hunt ),Toyota,186,running,0,10
+2026_16,28,11,91,Mason Maggio,Nash Dogs / ControlAltProtect ( Mario Gosselin ),Chevrolet,186,running,0,9
+2026_16,29,26,02,Ryan Ellis,Tablo TV ( Randy Young ),Chevrolet,185,running,0,8
+2026_16,30,14,87,Austin Green,Peterson Racing Group / 3Dimensional.com ( Doug Peterson ),Chevrolet,185,running,0,7
+2026_16,31,18,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,184,running,0,6
+2026_16,32,28,07,Josh Bilicki,Graphics 615 ( Bobby Dotter ),Chevrolet,184,running,0,5
+2026_16,33,10,0,Garrett Smithley,Knight Fire ( Bobby Dotter ),Chevrolet,184,running,0,4
+2026_16,34,36,35,Dawson Cram,Denver Dirt ( Joey Gase Motorsports  With Sc ),Chevrolet,183,running,0,3
+2026_16,35,38,33,Garrett Mitchell,Tommy's Express Car wash ( Richard Childress ),Chevrolet,182,running,0,2
+2026_16,36,30,55,Joey Gase,Bcarestoration.com ( B.J. McLeod ),Chevrolet,179,running,0,1
+2026_16,37,22,53,David Starr,Alarm Tech ( Joey Gase Motorsports  With Sc ),Chevrolet,151,suspension,0,1
+2026_16,38,37,38,J.J. Yeley,CAROLINA LAND & GRADING SOLUTIONS / MIKE EFAW ( Rod Sieg ),Ford,59,rear end,1,1
+2026_17,1,4,7,Justin Allgaier,Carolina Carports ( JR Motorsports ),Chevrolet,100,running,35,72
+2026_17,2,8,19,Brent Crews,Mobil 1 ( Joe Gibbs ),Toyota,100,running,9,48
+2026_17,3,3,88,William Byron,HendrickCars.com ( JR Motorsports ),Chevrolet,100,running,0,0
+2026_17,4,7,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,100,running,14,46
+2026_17,5,16,00,Sheldon Creed,VieLight ( Gene Haas ),Chevrolet,100,running,0,37
+2026_17,6,12,96,Anthony Alfredo,Big Rack Spirits (Don Sackett),Chevrolet,100,running,0,33
+2026_17,7,26,32,Rajah Caruth,HendrickCars.com ( Jordan Anderson ),Chevrolet,100,running,0,37
+2026_17,8,1,20,Brandon Jones,Menards/Ortho ( Joe Gibbs ),Toyota,100,running,0,35
+2026_17,9,14,1,Connor Zilisch,Roto-Rooter ( JR Motorsports ),Chevrolet,100,running,0,0
+2026_17,10,6,9,Carson Kvapil,Registix/TruckClub ( JR Motorsports ),Chevrolet,100,running,4,30
+2026_17,11,23,24,Harrison Burton,DEX / SHARP ( Sam Hunt ),Toyota,100,running,5,26
+2026_17,12,36,0,Cole Custer,Sysco ( Bobby Dotter ),Chevrolet,100,running,0,0
+2026_17,13,35,26,Dean Thompson,Uglies Kettle Chips ( Sam Hunt ),Toyota,100,running,2,24
+2026_17,14,17,21,Austin Hill,Colorado Craft Beef ( Richard Childress ),Chevrolet,100,running,0,24
+2026_17,15,13,99,Parker Retzlaff,FDNY Foundation ( Don Sackett ),Chevrolet,100,running,2,30
+2026_17,16,15,51,Jeremy Clements,AllSouthElectric.com ( Jeremy Clements ),Chevrolet,100,running,1,24
+2026_17,17,2,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,100,running,24,30
+2026_17,18,19,44,Brennan Poole,Members 1st ( Tommy Joe Martins ),Chevrolet,100,running,0,19
+2026_17,19,5,8,Sammy Smith,O'Reilly Auto Parts ( JR Motorsports ),Chevrolet,100,running,0,22
+2026_17,20,33,31,Blaine Perkins,EasyCare/Bommarito.com ( Jordan Anderson ),Chevrolet,100,running,0,17
+2026_17,21,10,18,William Sawalich,Starkey ( Joe Gibbs ),Toyota,100,running,0,16
+2026_17,22,37,07,Josh Bilicki,Rita's Ice ( Bobby Dotter ),Chevrolet,100,running,0,15
+2026_17,23,22,87,Nick Sanchez,Peterson Racing Group ( Doug Peterson ),Chevrolet,100,running,0,14
+2026_17,24,24,02,Ryan Ellis,U.S. Naval Academy Navy Racing ( Randy Young ),Chevrolet,100,running,0,13
+2026_17,25,27,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,100,running,0,12
+2026_17,26,9,39,Ryan Sieg,Sci Aps ( Rod Sieg ),Chevrolet,100,running,4,11
+2026_17,27,30,35,Carson Ware,Costa Oil ( Joey Gase Motorsports  With Sc ),Chevrolet,100,running,0,10
+2026_17,28,18,27,Jeb Burton,SpotOn ( Jordan Anderson ),Chevrolet,93,crash,0,9
+2026_17,29,25,45,Lavar Scott,Sunoco ( Tommy Joe Martins ),Chevrolet,93,crash,0,8
+2026_17,30,34,91,Dexter Bean,Rich Mar Florist / Badger Environmental ( Mario Gosselin ),Chevrolet,93,crash,0,7
+2026_17,31,28,38,Patrick Emerling,PENNSYLVANIA ARMY NATIONAL GUARD / TESLONG ( Rod Sieg ),Chevrolet,81,crash,0,0
+2026_17,32,20,28,Kyle Sieg,CamelBeach Outdoor Waterpark ( Rod Sieg ),Chevrolet,50,dvp,0,5
+2026_17,33,29,92,Leland Honeyman,VOLTZ by Raptor Power ( Mario Gosselin ),Chevrolet,36,crash,0,0
+2026_17,34,31,53,Natalie Decker,T.N. Dickinson's Witch hazel ( Joey Gase Motorsports  With Sc ),Toyota,17,engine,0,0
+2026_17,35,32,42,Nathan Byrd,Randy Young,Chevrolet,7,crash,0,2
+2026_17,36,38,55,Joey Gase,Alarm Tech ( B.J. McLeod ),Ford,3,engine,0,1
+2026_17,37,21,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,1,crash,0,1
+2026_17,38,11,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,0,crash,0,1
+2026_18,1,4,21,Austin Hill,1-800-PACK-RAT ( Richard Childress ),Chevrolet,60,running,13,68
+2026_18,2,11,54,Taylor Gray,Columbia Bank ( Joe Gibbs ),Toyota,60,running,16,47
+2026_18,3,7,00,Sheldon Creed,Boulder Crest Foundation ( Gene Haas ),Chevrolet,60,running,0,38
+2026_18,4,5,1,Carson Kvapil,Bass Pro Shops ( JR Motorsports ),Chevrolet,60,running,15,44
+2026_18,5,10,8,Sammy Smith,Arby's Cheesesteak ( JR Motorsports ),Chevrolet,60,running,0,39
+2026_18,6,37,2,Jesse Love,Distributor Wire & Cable ( Richard Childress ),Chevrolet,60,running,0,31
+2026_18,7,2,99,Parker Retzlaff,SA Recycling ( Don Sackett ),Chevrolet,60,running,5,48
+2026_18,8,8,87,Austin Green,3-Dimensional Services ( Doug Peterson ),Chevrolet,60,running,0,32
+2026_18,9,15,24,Harrison Burton,Klutch Vodka ( Sam Hunt ),Toyota,60,running,0,28
+2026_18,10,31,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,60,running,0,34
+2026_18,11,24,39,Ryan Sieg,Sci Aps ( Rod Sieg ),Chevrolet,60,running,0,26
+2026_18,12,33,20,Brandon Jones,Menards/Little Giant ( Joe Gibbs ),Toyota,60,running,0,25
+2026_18,13,20,31,Blaine Perkins,WERNER ( Jordan Anderson ),Chevrolet,60,running,0,24
+2026_18,14,30,32,Andrew Patterson,Winsupply ( Jordan Anderson ),Chevrolet,60,running,0,23
+2026_18,15,27,51,Jeremy Clements,Alliance Driveaway Solutions ( Jeremy Clements ),Chevrolet,60,running,0,22
+2026_18,16,17,07,Josh Bilicki,Fire Dept. Coffee/Ruedebusch ( Bobby Dotter ),Chevrolet,60,running,0,21
+2026_18,17,22,27,Jeb Burton,Golden Corral ( Jordan Anderson ),Chevrolet,60,running,0,20
+2026_18,18,13,50,Preston Pardus,Chinchor Electric Inc. (Dan Pardus),Chevrolet,60,running,0,19
+2026_18,19,26,55,Brad Perez,B.J. McLeod,Toyota,60,running,0,18
+2026_18,20,28,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,60,running,0,17
+2026_18,21,34,35,Dawson Cram,TBD ( Joey Gase Motorsports  With Sc ),Chevrolet,60,running,0,16
+2026_18,22,21,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,60,running,0,15
+2026_18,23,36,53,Joey Gase,Joey Gase Motorsports  With Sc,Chevrolet,60,running,0,14
+2026_18,24,18,44,Brennan Poole,Macc Door Systems ( Tommy Joe Martins ),Chevrolet,60,running,0,13
+2026_18,25,35,91,Jesse Iwuji,Navy Exchange ( Mario Gosselin ),Chevrolet,60,running,0,12
+2026_18,26,25,92,Leland Honeyman,DPR Construction ( Mario Gosselin ),Chevrolet,59,running,0,0
+2026_18,27,12,0,Alex Labbe,Vet The Vote ( Bobby Dotter ),Chevrolet,52,electrical,0,10
+2026_18,28,23,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,52,running,0,9
+2026_18,29,14,45,Lavar Scott,The Local Pacific Beach ( Tommy Joe Martins ),Chevrolet,48,running,0,8
+2026_18,30,19,02,Ryan Ellis,Tablo TV ( Randy Young ),Chevrolet,47,running,0,7
+2026_18,31,1,19,Brent Crews,Mobil 1 ( Joe Gibbs ),Toyota,44,engine,11,11
+2026_18,32,16,7,Justin Allgaier,BRANDT Professional Agriculture ( JR Motorsports ),Chevrolet,43,engine,0,5
+2026_18,33,32,42,Baltazar Leguizamon,Randy Young,Chevrolet,41,engine,0,4
+2026_18,34,6,41,Sam Mayer,Audibel Hear Better. Connect Better. ( Gene Haas ),Chevrolet,34,crash,0,17
+2026_18,35,3,96,Anthony Alfredo,Dude Wipes Poopsicle (Don Sackett),Chevrolet,34,crash,0,17
+2026_18,36,9,18,William Sawalich,Starkey Hearing ( Joe Gibbs ),Toyota,34,crash,0,3
+2026_18,37,29,28,Kyle Sieg,VETS Ending Veteran Suicide / Black Rifle Cof ( Rod Sieg ),Chevrolet,28,engine,0,1
+2026_19,1,1,9,Shane Van Gisbergen,SuperFile ( JR Motorsports ),Chevrolet,79,running,66,0
+2026_19,2,30,1,Connor Zilisch,Roto-Rooter ( JR Motorsports ),Chevrolet,79,running,4,0
+2026_19,3,2,19,Brent Crews,Mobil 1 ( Joe Gibbs ),Toyota,79,running,1,50
+2026_19,4,4,96,Anthony Alfredo,Dude Wipes Poopsicle (Don Sackett),Chevrolet,79,running,5,43
+2026_19,5,5,99,Parker Retzlaff,FUNKAWAY ( Don Sackett ),Chevrolet,79,running,0,39
+2026_19,6,16,91,Carson Kvapil,Clarience Technologies ( Mario Gosselin ),Chevrolet,79,running,0,37
+2026_19,7,6,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,79,running,0,36
+2026_19,8,9,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,79,running,0,34
+2026_19,9,7,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,79,running,1,28
+2026_19,10,11,00,Sheldon Creed,PIT BOSS ( Gene Haas ),Chevrolet,79,running,0,35
+2026_19,11,13,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,79,running,0,35
+2026_19,12,37,87,Austin Green,Peterson Racing Group ( Doug Peterson ),Chevrolet,79,running,0,25
+2026_19,13,12,18,William Sawalich,Starkey ( Joe Gibbs ),Toyota,79,running,0,24
+2026_19,14,21,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,79,running,0,27
+2026_19,15,25,39,Ryan Sieg,Sci Aps ( Rod Sieg ),Chevrolet,79,running,0,25
+2026_19,16,18,07,Josh Bilicki,SBC Contractors ( Bobby Dotter ),Chevrolet,79,running,0,23
+2026_19,17,20,42,Will Rodgers,Kelly Benefits ( Randy Young ),Chevrolet,79,running,0,24
+2026_19,18,19,24,Harrison Burton,Dead On Tools ( Sam Hunt ),Toyota,79,running,2,19
+2026_19,19,24,0,Alex Labbe,Bonita Bonita ( Bobby Dotter ),Chevrolet,79,running,0,21
+2026_19,20,23,51,Jeremy Clements,AllSouthElectric.com ( Jeremy Clements ),Chevrolet,79,running,0,17
+2026_19,21,22,27,Jeb Burton,FVP / FECON ( Jordan Anderson ),Chevrolet,79,running,0,16
+2026_19,22,10,21,Austin Hill,Bennett Transportation ( Richard Childress ),Chevrolet,79,running,0,20
+2026_19,23,29,02,Ryan Ellis,Sweetwater ( Randy Young ),Chevrolet,79,running,0,14
+2026_19,24,32,44,Brennan Poole,Midas ( Tommy Joe Martins ),Chevrolet,79,running,0,13
+2026_19,25,34,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,79,running,0,12
+2026_19,26,8,7,Justin Allgaier,BRANDT Professional Agriculture ( JR Motorsports ),Chevrolet,79,running,0,11
+2026_19,27,26,92,Josh Williams,OACEUS ( Mario Gosselin ),Chevrolet,79,running,0,10
+2026_19,28,17,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,79,running,0,9
+2026_19,29,3,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,78,running,0,16
+2026_19,30,27,31,Blaine Perkins,Nuthin Fancy Co. ( Jordan Anderson ),Chevrolet,78,running,0,7
+2026_19,31,28,28,Kyle Sieg,RSS Racing ( Rod Sieg ),Chevrolet,78,running,0,6
+2026_19,32,31,45,Lavar Scott,Sunoco ( Tommy Joe Martins ),Chevrolet,78,running,0,5
+2026_19,33,36,35,Dawson Cram,Mai Tai International ( Joey Gase Motorsports  With Sc ),Chevrolet,78,running,0,4
+2026_19,34,35,53,Kyle Kelley,TBD ( Joey Gase Motorsports  With Sc ),Chevrolet,77,running,0,3
+2026_19,35,33,71,Leland Honeyman,DPR Construction ( Mario Gosselin ),Chevrolet,71,battery,0,0
+2026_19,36,14,20,Brandon Jones,Menards / Nibco ( Joe Gibbs ),Toyota,68,running,0,1
+2026_19,37,15,32,Ross Chastain,Western Watermelon Association / California A ( Jordan Anderson ),Chevrolet,29,rear end,0,0
+2026_19,38,38,55,Brad Perez,Baker Family Wines ( B.J. McLeod ),Toyota,0,fuel pump,0,1
+2026_20,1,29,20,Brandon Jones,Menards/MD Building Products ( Joe Gibbs ),Toyota,201,running,12,60
+2026_20,2,11,88,Chase Elliott,HendrickCars.com ( JR Motorsports ),Chevrolet,201,running,78,0
+2026_20,3,6,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,201,running,5,52
+2026_20,4,2,19,Brent Crews,Younglife ( Joe Gibbs ),Toyota,201,running,0,34
+2026_20,5,16,21,Austin Hill,Cheddar's Scratch Kitchen ( Richard Childress ),Chevrolet,201,running,0,32
+2026_20,6,17,7,Justin Allgaier,BRANDT Professional Agriculture ( JR Motorsports ),Chevrolet,201,running,0,40
+2026_20,7,25,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,201,running,55,43
+2026_20,8,9,41,Sam Mayer,Audibel Hear Better. Connect Better. ( Gene Haas ),Chevrolet,201,running,0,39
+2026_20,9,21,0,Cole Custer,Sysco ( Bobby Dotter ),Chevrolet,201,running,0,0
+2026_20,10,1,1,Connor Zilisch,KOA ( JR Motorsports ),Chevrolet,201,running,48,0
+2026_20,11,3,9,Carson Kvapil,Arby's Cheesesteak ( JR Motorsports ),Chevrolet,201,running,0,26
+2026_20,12,15,87,Nick Sanchez,3-Dimesional Services Group ( Doug Peterson ),Chevrolet,201,running,0,25
+2026_20,13,10,8,Sammy Smith,Pilot ( JR Motorsports ),Chevrolet,201,running,0,24
+2026_20,14,5,99,Parker Retzlaff,FUNKAWAY ( Don Sackett ),Chevrolet,201,running,0,23
+2026_20,15,18,24,Harrison Burton,Klutch Vodka ( Sam Hunt ),Toyota,201,running,0,22
+2026_20,16,8,00,Sheldon Creed,Road Ranger 250 ( Gene Haas ),Chevrolet,201,running,0,31
+2026_20,17,26,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,201,running,0,20
+2026_20,18,23,42,Garrett Smithley,Randy Young,Chevrolet,201,running,0,19
+2026_20,19,4,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,201,running,0,29
+2026_20,20,22,27,Jeb Burton,Bommarito.com Celebrates America 250 ( Jordan Anderson ),Chevrolet,201,running,0,17
+2026_20,21,31,92,Leland Honeyman,VOLTZ by Raptor Power ( Mario Gosselin ),Chevrolet,201,running,0,0
+2026_20,22,28,02,Ryan Ellis,GOVX/ Tablo TV ( Randy Young ),Chevrolet,201,running,0,15
+2026_20,23,12,91,Myatt Snider,Mario Gosselin,Chevrolet,201,running,0,14
+2026_20,24,32,32,Rajah Caruth,HendrickCars.com ( Jordan Anderson ),Chevrolet,201,running,0,13
+2026_20,25,24,44,Brennan Poole,A.M. Woodland ( Tommy Joe Martins ),Chevrolet,201,running,0,12
+2026_20,26,7,96,Anthony Alfredo,Dude Wipes Poopsicle (Don Sackett),Chevrolet,201,running,0,12
+2026_20,27,27,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,201,running,0,10
+2026_20,28,34,45,Lavar Scott,Sunoco ( Tommy Joe Martins ),Chevrolet,201,running,0,9
+2026_20,29,13,18,William Sawalich,Starkey ( Joe Gibbs ),Toyota,201,running,0,11
+2026_20,30,33,28,Kyle Sieg,SynerFuse ( Rod Sieg ),Chevrolet,201,running,0,7
+2026_20,31,14,39,Ryan Sieg,Sci Aps ( Rod Sieg ),Chevrolet,200,running,3,6
+2026_20,32,30,31,Blaine Perkins,GFL Green for Life ( Jordan Anderson ),Chevrolet,199,running,0,5
+2026_20,33,35,53,Tyler Tomassi,Joey Gase Motorsports  With Sc,Chevrolet,199,running,0,4
+2026_20,34,37,55,Joey Gase,B.J. McLeod,Chevrolet,198,running,0,3
+2026_20,35,20,51,Jeremy Clements,Sky Fund Aviation ( Jeremy Clements ),Chevrolet,198,running,0,2
+2026_20,36,19,07,Josh Bilicki,Granum X Creekside Outdoors ( Bobby Dotter ),Chevrolet,196,running,0,1
+2026_20,37,38,38,J.J. Yeley,Rod Sieg,Ford,55,power steering,0,1
+2026_20,38,36,47,Dawson Cram,Mike Harmon,Chevrolet,35,engine,0,1
+2026_21,1,16,7,Justin Allgaier,Jarrett Logistics ( JR Motorsports ),Chevrolet,172,running,15,68
+2026_21,2,2,1,Carson Kvapil,Bass Pro Shops ( JR Motorsports ),Chevrolet,172,running,29,52
+2026_21,3,22,99,Parker Retzlaff,FUNKAWAY ( Don Sackett ),Chevrolet,172,running,0,37
+2026_21,4,4,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,172,running,0,35
+2026_21,5,17,96,Anthony Alfredo,Buddy (Don Sackett),Chevrolet,172,running,0,32
+2026_21,6,26,0,Garrett Smithley,SLCC ( Bobby Dotter ),Chevrolet,172,running,0,31
+2026_21,7,12,20,Brandon Jones,Menards / Turtlewax ( Joe Gibbs ),Toyota,172,running,0,31
+2026_21,8,20,28,Kyle Sieg,Big House Construction ( Rod Sieg ),Chevrolet,172,running,0,29
+2026_21,9,8,88,Rajah Caruth,HendrickCars.com ( JR Motorsports ),Chevrolet,172,running,18,43
+2026_21,10,14,51,Jeremy Clements,All South Electric / One Stop Convenience Sto ( Jeremy Clements ),Chevrolet,172,running,0,37
+2026_21,11,28,91,Mason Maggio,Control Alt Protect ( Mario Gosselin ),Chevrolet,172,running,0,26
+2026_21,12,34,07,Josh Bilicki,Mando ( Bobby Dotter ),Chevrolet,172,running,0,25
+2026_21,13,10,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,172,running,0,24
+2026_21,14,23,26,Dean Thompson,Thompson Pipe Group ( Sam Hunt ),Toyota,172,running,0,24
+2026_21,15,31,53,Glen Reen,New Wave Bath ( Joey Gase Motorsports  With Sc ),Chevrolet,172,running,0,22
+2026_21,16,19,39,Ryan Sieg,Sci Aps ( Rod Sieg ),Chevrolet,172,running,0,21
+2026_21,17,30,44,Brennan Poole,CW & Sons / Clark's ( Tommy Joe Martins ),Chevrolet,172,running,1,20
+2026_21,18,5,8,Sammy Smith,Allstate Peterbilt Group ( JR Motorsports ),Chevrolet,172,running,34,37
+2026_21,19,18,87,Nick Sanchez,Peterson Racing Group ( Doug Peterson ),Chevrolet,171,running,0,18
+2026_21,20,37,31,Blaine Perkins,WERNER ( Jordan Anderson ),Chevrolet,171,running,0,17
+2026_21,21,32,45,Lavar Scott,Brand South Africa ( Tommy Joe Martins ),Chevrolet,169,running,0,16
+2026_21,22,11,21,Austin Hill,Bennett Transportation ( Richard Childress ),Chevrolet,159,crash,7,16
+2026_21,23,27,02,Ryan Ellis,If You Give a Child a Book/ Tablo TV ( Randy Young ),Chevrolet,159,crash,1,14
+2026_21,24,7,19,Brent Crews,Mobil 1 ( Joe Gibbs ),Toyota,153,crash,5,13
+2026_21,25,6,00,Sheldon Creed,Ollie's ( Gene Haas ),Chevrolet,152,crash,27,20
+2026_21,26,3,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,151,crash,0,23
+2026_21,27,38,32,Jordan Anderson,easycare ( Jordan Anderson ),Chevrolet,151,crash,0,10
+2026_21,28,24,92,Leland Honeyman,DPR Construction ( Mario Gosselin ),Chevrolet,151,crash,0,0
+2026_21,29,29,42,Nick Leitz,"Precision Measurements, Inc. ( Randy Young )",Chevrolet,151,crash,0,0
+2026_21,30,15,9,Jake Finch,Carolina Carports ( JR Motorsports ),Chevrolet,143,crash,0,7
+2026_21,31,1,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,119,crash,33,6
+2026_21,32,13,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,112,crash,0,15
+2026_21,33,9,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,112,crash,0,4
+2026_21,34,25,24,Harrison Burton,Dead On Tools ( Sam Hunt ),Toyota,101,engine,2,3
+2026_21,35,35,38,Logan Bearden,TBD ( Rod Sieg ),Ford,69,fuel pump,0,2
+2026_21,36,36,47,Carson Ware,Schluter Systems ( Mike Harmon ),Chevrolet,63,suspension,0,1
+2026_21,37,33,55,Joey Gase,Stripes ( B.J. McLeod ),Ford,2,engine,0,1
+2026_21,38,21,27,Jeb Burton,AJ Transport ( Jordan Anderson ),Chevrolet,0,brakes,0,1
+2026_22,1,2,1,Carson Kvapil,Wilde Protein Crackers ( JR Motorsports ),Chevrolet,100,running,23,69
+2026_22,2,13,7,Justin Allgaier,BRANDT Professional Agriculture ( JR Motorsports ),Chevrolet,100,running,4,50
+2026_22,3,8,9,Ross Chastain,Roto-Rooter ( JR Motorsports ),Chevrolet,100,running,31,0
+2026_22,4,7,88,Chase Elliott,HendrickCars.com ( JR Motorsports ),Chevrolet,100,running,0,0
+2026_22,5,9,18,William Sawalich,Soundgear ( Joe Gibbs ),Toyota,100,running,2,42
+2026_22,6,15,19,Brent Crews,Younglife ( Joe Gibbs ),Toyota,100,running,0,33
+2026_22,7,11,17,Corey Day,HendrickCars.com ( Rick Hendrick ),Chevrolet,100,running,0,30
+2026_22,8,1,00,Sheldon Creed,Road Ranger ( Gene Haas ),Chevrolet,100,running,23,40
+2026_22,9,6,20,Brandon Jones,Menards/Owens Corning ( Joe Gibbs ),Toyota,100,running,0,28
+2026_22,10,19,21,Austin Hill,Patriot Mobile ( Richard Childress ),Chevrolet,100,running,0,29
+2026_22,11,17,99,Parker Retzlaff,FUNKAWAY ( Don Sackett ),Chevrolet,100,running,0,26
+2026_22,12,5,54,Taylor Gray,Operation 300 ( Joe Gibbs ),Toyota,100,running,0,28
+2026_22,13,3,41,Sam Mayer,Audibel ( Gene Haas ),Chevrolet,100,running,0,34
+2026_22,14,20,96,Anthony Alfredo,Ohio Logistics (Don Sackett),Chevrolet,100,running,0,23
+2026_22,15,12,27,Jeb Burton,Sprayway/ AO Smith ( Jordan Anderson ),Chevrolet,100,running,0,22
+2026_22,16,26,2,Jesse Love,Whelen ( Richard Childress ),Chevrolet,100,running,0,21
+2026_22,17,14,39,Ryan Sieg,Sci Aps ( Rod Sieg ),Chevrolet,100,running,0,20
+2026_22,18,24,24,Harrison Burton,Dead On Tools ( Sam Hunt ),Toyota,100,running,0,19
+2026_22,19,10,8,Sammy Smith,Communication Data Link ( JR Motorsports ),Chevrolet,100,running,0,19
+2026_22,20,23,87,Nick Sanchez,Peterson Racing Group ( Doug Peterson ),Chevrolet,100,running,0,17
+2026_22,21,25,26,Dean Thompson,Boot Campaign/Thompson Pipe Group ( Sam Hunt ),Toyota,100,running,2,21
+2026_22,22,16,32,Rajah Caruth,HendrickCars.com ( Jordan Anderson ),Chevrolet,100,running,6,25
+2026_22,23,18,48,Patrick Staropoli,SYFOVRE ( Scott Borchetta ),Chevrolet,100,running,0,14
+2026_22,24,22,28,Kyle Sieg,Sustainachem ( Rod Sieg ),Chevrolet,100,running,0,13
+2026_22,25,30,0,Garrett Smithley,Bobby Dotter,Chevrolet,100,running,0,12
+2026_22,26,21,91,Mason Maggio,BaseballBBQ.com ( Mario Gosselin ),Chevrolet,100,running,0,11
+2026_22,27,31,45,Lavar Scott,Urban Affairs Coalition ( Tommy Joe Martins ),Chevrolet,100,running,0,10
+2026_22,28,27,31,Blaine Perkins,iHeart; Q95 Rocks ( Jordan Anderson ),Chevrolet,100,running,0,9
+2026_22,29,28,44,Brennan Poole,The Samantha and Kyle Busch Bundle of Joy Fun ( Tommy Joe Martins ),Chevrolet,100,running,0,8
+2026_22,30,29,92,Preston Pardus,Chinchor Electric ( Mario Gosselin ),Chevrolet,100,running,0,7
+2026_22,31,36,42,Nathan Byrd,Byrd Insurance Group ( Randy Young ),Chevrolet,100,running,0,6
+2026_22,32,33,02,Ryan Ellis,Tablo TV ( Randy Young ),Chevrolet,99,running,0,5
+2026_22,33,32,07,Josh Bilicki,Zeigler ( Bobby Dotter ),Chevrolet,99,running,0,4
+2026_22,34,37,53,Blake Lothian,The Texas Lawbook ( Joey Gase Motorsports  With Sc ),Chevrolet,99,running,0,3
+2026_22,35,38,47,David Starr,Cell Phones For Soldiers ( Mike Harmon ),Chevrolet,99,running,0,2
+2026_22,36,35,55,Joey Gase,Flex Power ( B.J. McLeod ),Chevrolet,99,running,0,1
+2026_22,37,4,51,Jeremy Clements,Sky Fund Aviation ( Jeremy Clements ),Chevrolet,97,running,9,11
+2026_22,38,34,38,J.J. Yeley,TBD ( Rod Sieg ),Ford,39,fuel pump,0,1

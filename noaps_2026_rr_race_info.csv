@@ -1,0 +1,23 @@
+race_id,season,race_number,season_race_count,race_name,race_date,track_name,city_state,race_laps,track_length,track_surface,race_distance,race_duration,average_speed,pole_speed,cautions,caution_laps,margin_of_victory,attendance,lead_changes,green_flag_passes,passes_per_green_flag_lap
+2026_01,2026,1,33,2026 United Rentals 300,2026-02-14,Daytona International Speedway,"Daytona Beach, FL",120,2.5,paved,300.0,0 days 02:34:21,116.618,182.223,7,36,0.081,n/a,15,4727,56.3
+2026_02,2026,2,33,2026 Bennett Transportation & Logistics 250,2026-02-21,EchoPark Speedway,"Hampton, GA",163,1.54,paved,251.02,0 days 02:22:45,105.508,174.318,7,46,0.309,n/a,24,2880,24.6
+2026_03,2026,3,33,2026 Focused Health 250,2026-02-28,Circuit of the Americas,"Austin, TX",65,2.4,road,156.0,0 days 02:12:56,70.411,88.398,4,12,0.78,n/a,16,1198,22.6
+2026_04,2026,4,33,2026 GOVX 200,2026-03-07,Phoenix Raceway,"Avondale, AZ",200,1.0,paved,200.0,0 days 02:07:47,93.909,130.743,4,37,0.449,n/a,20,1905,11.7
+2026_05,2026,5,33,2026 The LiUNA!,2026-03-14,Las Vegas Motor Speedway,"Las Vegas, NV",200,1.5,paved,300.0,0 days 02:34:05,116.82,183.287,8,42,2.557,n/a,16,2327,14.7
+2026_06,2026,6,33,2026 Sport Clips Haircuts VFW Help a Hero 200,2026-03-21,Darlington Raceway,"Darlington, SC",147,1.366,paved,200.802,0 days 01:47:09,112.442,163.953,3,25,0.578,n/a,5,840,6.9
+2026_07,2026,7,33,2026 NFPA 250,2026-03-28,Martinsville Speedway,"Martinsville, VA",250,0.526,paved,131.5,0 days 02:23:25,55.015,,14,97,0.258,n/a,14,1891,12.4
+2026_08,2026,8,33,2026 North Carolina Education Lottery 250,2026-04-04,Rockingham Speedway,"Rockingham, NC",250,1.0,paved,250.0,0 days 02:22:36,98.878,148.963,7,44,0.863,n/a,8,1106,5.4
+2026_09,2026,9,33,2026 Suburban Propane 300,2026-04-11,Bristol Motor Speedway,"Bristol, TN",300,0.533,paved,159.9,0 days 02:03:11,77.884,122.733,8,59,0.703,n/a,13,1648,6.8
+2026_10,2026,10,33,2026 Kansas Lottery 300,2026-04-18,Kansas Speedway,"Kansas City, KS",200,1.5,paved,300.0,0 days 02:33:55,116.946,,7,37,0.718,n/a,11,1678,10.3
+2026_11,2026,11,33,2026 Ag-Pro 300,2026-04-25,Talladega Superspeedway,"Talladega, AL",113,2.66,paved,300.58,0 days 01:58:33,152.128,182.313,4,15,,n/a,38,7897,80.6
+2026_12,2026,12,33,2026 Andy's Frozen Custard 340,2026-05-02,Texas Motor Speedway,"Fort Worth, TX",200,1.5,paved,300.0,0 days 02:25:23,149.522,188.607,7,36,0.293,n/a,13,1349,8.2
+2026_13,2026,13,33,2026 Mission 200 at The Glen,2026-05-09,Watkins Glen International,"Watkins Glen, NY",82,2.45,road,200.9,0 days 02:10:07,92.64,,5,13,0.262,n/a,13,1378,20.0
+2026_14,2026,14,33,2026 BetRivers 200,2026-05-16,Dover Motor Speedway,"Dover, DE",200,1.0,paved,200.0,0 days 02:14:06,99.917,154.394,9,54,0.461,n/a,12,919,6.3
+2026_15,2026,15,33,2026 Charbroil 300,2026-05-23,Charlotte Motor Speedway,"Concord, NC",200,1.5,paved,300.0,0 days 01:52:52,159.48,,6,54,,n/a,14,865,23.4
+2026_16,2026,16,33,2026 Sports Illustrated Resorts 250,2026-05-30,Nashville Superspeedway,"Lebanon, TN",188,1.058,paved,198.904,0 days 01:53:16,132.452,,2,15,1.403,n/a,12,1417,8.2
+2026_17,2026,17,33,2026 MillerTech Battery 250 Presented by KOA,2026-06-13,Pocono Raceway,"Long Pond, PA",100,2.5,paved,250.0,0 days 02:31:28,99.032,164.576,10,39,0.607,n/a,18,2013,33.0
+2026_18,2026,18,33,2026 United Rentals Driven to Serve 250,2026-06-20,Naval Base Coronado,"San Diego, CA",60,3.4,street,204.0,0 days 03:29:54,58.313,91.143,8,17,1.127,n/a,10,1153,26.8
+2026_19,2026,19,33,2026 PitBoss / FoodMaxx 250,2026-06-27,Sonoma Raceway,"Sonoma, CA",79,1.99,road,157.21,0 days 02:03:37,76.305,95.483,4,11,1.324,n/a,8,1408,20.7
+2026_20,2026,20,33,2026 Cuervo 300,2026-07-04,Chicagoland Speedway,"Joliet, IL",200,1.5,paved,300.0,0 days 02:33:09,118.119,,7,40,0.171,n/a,16,1634,10.1
+2026_21,2026,21,33,2026 Focused Health 250,2026-07-11,EchoPark Speedway,"Hampton, GA",163,1.54,paved,251.02,0 days 02:58:27,89.06,173.554,13,76,0.139,n/a,19,2178,22.7
+2026_22,2026,22,33,2026 Pennzoil 250 Presented by Take 5 Oil Change,2026-07-25,Indianapolis Motor Speedway,"Speedway, IN",100,2.5,paved,250.0,0 days 01:56:20,128.94,169.591,3,13,0.643,n/a,10,974,11.2

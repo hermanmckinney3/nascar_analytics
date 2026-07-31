@@ -1,0 +1,835 @@
+driver_name,driver_id,race_date,series,track_name,start,mid,finish,best,worst,avg,green_flag_passing_diff,green_flag_passes,green_flag_times_passed,quality_passes,pct_quality_passes,fastest_lap,top_15_laps,pct_top_15_laps,laps_led,pct_laps_led,laps,rating,status
+Jeremy Clements,595,2026/05/02,O'Reilly,Texas Motor Speedway,8,16,10,2,25,12.82,22,75,53,38,50.666666666666664,1,158,79.0,0,0.0,200,86.44,running
+Anthony Alfredo,4301,2026/02/15,O'Reilly,Daytona International Speedway,26,24,11,5,37,22.16,7,80,73,25,31.25,4,25,20.833333333333332,0,0.0,120,58.05,running
+Corey Day,4502,2026/06/13,O'Reilly,Pocono Raceway,11,38,38,11,11,38.0,-1,0,1,0,,0,0,,0,,0,26.0,accident
+Leland Honeyman Jr.,4449,2026/07/04,O'Reilly,Chicagoland Speedway,31,25,21,11,34,25.55,-3,35,38,0,0.0,0,3,1.492537313432836,0,0.0,201,50.83,running
+Austin Green,4479,2026/04/04,O'Reilly,Rockingham Speedway,23,14,33,14,34,21.91,-6,53,59,1,1.8867924528301887,0,16,6.584362139917696,0,0.0,243,47.5,running
+Carson Kvapil,4467,2026/06/21,O'Reilly,San Diego Street Course,5,7,4,1,16,3.85,13,29,16,26,89.65517241379311,7,59,98.33333333333333,15,25.0,60,125.01,running
+Taylor Gray,4406,2026/03/22,O'Reilly,Darlington Raceway,15,20,15,11,26,19.12,0,29,29,9,31.03448275862069,0,26,17.687074829931973,0,0.0,147,69.17,running
+Garrett Smithley,4142,2026/03/22,O'Reilly,Darlington Raceway,24,25,27,14,32,26.82,-15,7,22,0,0.0,0,1,0.6802721088435374,0,0.0,147,42.17,running
+Kyle Sieg,4388,2026/05/16,O'Reilly,Dover Motor Speedway,24,19,17,8,28,18.51,3,36,33,1,2.7777777777777777,0,19,9.5,0,0.0,200,67.33,running
+Patrick Emerling,4254,2026/06/13,O'Reilly,Pocono Raceway,28,20,31,3,31,23.48,-7,56,63,11,19.642857142857142,0,13,16.049382716049383,0,0.0,81,70.17,accident
+Sam Mayer,4327,2026/02/28,O'Reilly,Circuit of The Americas,8,3,14,1,19,5.15,5,36,31,25,69.44444444444444,3,64,98.46153846153847,8,12.307692307692308,65,107.68,running
+Rajah Caruth,4422,2026/06/21,O'Reilly,San Diego Street Course,21,26,22,4,33,16.1,-39,38,77,17,44.73684210526316,0,25,41.666666666666664,0,0.0,60,64.83,running
+Giovanni Ruggiero,4503,2026/02/22,O'Reilly,Atlanta Motor Speedway,7,31,24,4,32,21.33,-7,66,73,45,68.18181818181819,4,62,38.75,0,0.0,160,74.65,running
+Austin Hill,4133,2026/05/16,O'Reilly,Dover Motor Speedway,17,9,5,5,19,10.83,7,27,20,22,81.48148148148148,1,183,91.5,0,0.0,200,92.46,running
+David Starr,3170,2026/05/31,O'Reilly,Nashville Superspeedway,22,33,37,30,37,33.65,-6,24,30,0,0.0,0,0,0.0,0,0.0,151,32.0,suspension
+Anthony Alfredo,4301,2026/04/19,O'Reilly,Kansas Speedway,31,30,30,1,31,24.67,6,30,24,16,53.333333333333336,0,39,60.0,6,9.23076923076923,65,54.78,accident
+Taylor Gray,4406,2026/04/19,O'Reilly,Kansas Speedway,10,3,1,1,25,3.98,4,52,48,38,73.07692307692308,8,193,96.5,48,24.0,200,132.89,running
+Brennan Poole,4144,2026/05/02,O'Reilly,Texas Motor Speedway,27,24,20,17,29,23.62,-2,34,36,0,0.0,0,0,0.0,0,0.0,200,54.0,running
+Blaine Perkins,4376,2026/02/28,O'Reilly,Circuit of The Americas,24,18,17,11,35,21.81,-20,29,49,4,13.793103448275861,0,7,10.76923076923077,0,0.0,65,57.5,running
+Austin Green,4479,2026/05/16,O'Reilly,Dover Motor Speedway,26,26,12,1,34,22.12,-16,47,63,5,10.638297872340425,0,26,13.0,4,2.0,200,64.83,running
+Joey Gase,4004,2026/05/31,O'Reilly,Nashville Superspeedway,30,37,36,26,38,36.95,-11,6,17,0,0.0,0,0,0.0,0,0.0,179,25.67,running
+Justin Allgaier,34,2026/06/28,O'Reilly,Sonoma Raceway,8,18,26,1,36,18.94,-48,45,93,7,15.555555555555555,3,25,31.645569620253166,0,0.0,79,69.38,running
+Taylor Gray,4406,2026/05/16,O'Reilly,Dover Motor Speedway,5,4,32,1,32,14.52,0,8,8,7,87.5,9,119,65.02732240437159,1,0.546448087431694,183,84.66,suspension
+Ryan Sieg,3884,2026/06/21,O'Reilly,San Diego Street Course,24,19,11,5,36,19.33,1,39,38,14,35.8974358974359,0,23,38.333333333333336,0,0.0,60,65.67,running
+Justin Allgaier,34,2026/07/25,O'Reilly,Indianapolis Motor Speedway,13,3,2,1,17,4.82,7,24,17,23,95.83333333333333,16,98,98.0,4,4.0,100,121.17,running
+Josh Williams,4106,2026/05/02,O'Reilly,Texas Motor Speedway,26,18,18,3,30,21.07,-2,57,59,5,8.771929824561404,0,6,3.0,0,0.0,200,62.17,running
+Justin Allgaier,34,2026/05/02,O'Reilly,Texas Motor Speedway,1,4,2,1,15,2.32,2,27,25,19,70.37037037037037,41,200,100.0,54,27.0,200,128.67,running
+Sammy Smith,4441,2026/05/16,O'Reilly,Dover Motor Speedway,18,13,9,7,20,14.4,1,32,31,28,87.5,1,130,65.0,0,0.0,200,82.13,running
+Corey Day,4502,2026/05/02,O'Reilly,Texas Motor Speedway,6,37,37,6,32,36.97,0,1,1,1,100.0,0,0,0.0,0,0.0,1,25.33,dvp
+Patrick Staropoli,4227,2026/04/25,O'Reilly,Talladega Superspeedway,14,37,37,14,38,37.15,-6,1,7,0,0.0,0,0,0.0,0,0.0,105,24.33,running
+Ryan Sieg,3884,2026/07/04,O'Reilly,Chicagoland Speedway,14,27,31,1,31,19.93,-12,70,82,20,28.571428571428573,0,44,22.0,3,1.5,200,60.0,running
+Natalie Decker,4196,2026/06/13,O'Reilly,Pocono Raceway,31,34,34,28,34,33.32,-8,1,9,0,0.0,0,0,0.0,0,0.0,17,32.0,engine
+Nick Sanchez,4416,2026/06/13,O'Reilly,Pocono Raceway,22,32,23,7,36,22.55,-19,64,83,9,14.0625,0,15,15.0,0,0.0,100,50.5,running
+Lavar Scott,4518,2026/06/28,O'Reilly,Sonoma Raceway,31,32,32,8,37,31.29,8,54,46,0,0.0,0,0,0.0,0,0.0,78,31.0,running
+Anthony Alfredo,4301,2026/07/12,O'Reilly,Atlanta Motor Speedway,17,16,5,4,25,13.48,-1,82,83,65,79.26829268292683,1,118,68.6046511627907,0,0.0,172,79.04,running
+Alex Labbe,4225,2026/06/21,O'Reilly,San Diego Street Course,12,21,27,6,33,16.93,2,29,27,12,41.37931034482759,0,32,61.53846153846154,0,0.0,52,59.83,electrical
+Jeremy Clements,595,2026/03/28,O'Reilly,Martinsville Speedway,20,37,37,12,32,31.16,-6,14,20,4,28.571428571428573,0,26,29.213483146067414,0,0.0,89,45.67,oil cooler
+Jeb Burton,4018,2026/07/12,O'Reilly,Atlanta Motor Speedway,21,38,38,21,21,38.0,0,0,0,0,,0,0,,0,,0,23.17,brakes
+William Sawalich,4459,2026/05/16,O'Reilly,Dover Motor Speedway,8,2,4,1,15,4.8,-2,16,18,16,100.0,12,200,100.0,15,7.5,200,116.25,running
+Taylor Gray,4406,2026/03/08,O'Reilly,Phoenix Raceway,1,2,15,1,22,8.57,-20,44,64,29,65.9090909090909,3,186,93.0,10,5.0,200,91.63,running
+Myatt Snider,4223,2026/03/22,O'Reilly,Darlington Raceway,35,34,33,30,38,34.21,1,14,13,0,0.0,0,0,0.0,0,0.0,145,32.0,running
+William Sawalich,4459,2026/05/31,O'Reilly,Nashville Superspeedway,5,3,3,2,13,4.66,0,21,21,18,85.71428571428571,17,188,100.0,0,0.0,188,117.03,running
+William Sawalich,4459,2026/05/09,O'Reilly,Watkins Glen International,14,36,36,10,14,31.45,-1,4,5,4,100.0,0,15,100.0,0,0.0,15,49.67,engine
+Justin Allgaier,34,2026/02/28,O'Reilly,Circuit of The Americas,5,34,8,1,34,13.4,-25,40,65,18,45.0,5,38,58.46153846153846,1,1.5384615384615385,65,95.39,running
+Harrison Burton,4217,2026/07/25,O'Reilly,Indianapolis Motor Speedway,24,17,18,9,26,20.03,5,33,28,1,3.0303030303030303,0,0,0.0,0,0.0,100,63.17,running
+Alex Labbe,4225,2026/02/28,O'Reilly,Circuit of The Americas,28,20,13,12,29,20.38,29,52,23,7,13.461538461538462,0,9,13.846153846153847,0,0.0,65,70.17,running
+Lavar Scott,4518,2026/05/24,O'Reilly,Charlotte Motor Speedway,37,25,17,17,37,26.1,5,22,17,0,0.0,0,0,0.0,0,0.0,91,61.5,running
+Kyle Larson,4030,2026/05/02,O'Reilly,Texas Motor Speedway,3,2,1,1,17,2.35,4,28,24,26,92.85714285714286,31,198,99.0,93,46.5,200,144.13,running
+JJ Yeley,3669,2026/07/25,O'Reilly,Indianapolis Motor Speedway,34,38,38,29,38,37.2,-3,0,3,0,,0,0,0.0,0,0.0,39,25.33,fuel pump
+Dean Thompson,4414,2026/02/22,O'Reilly,Atlanta Motor Speedway,17,29,11,9,33,21.85,8,93,85,41,44.086021505376344,5,56,34.355828220858896,0,0.0,163,72.64,running
+Harrison Burton,4217,2026/02/15,O'Reilly,Daytona International Speedway,24,33,29,7,37,27.8,6,80,74,37,46.25,1,14,14.285714285714286,0,0.0,98,57.06,accident
+Justin Allgaier,34,2026/07/12,O'Reilly,Atlanta Motor Speedway,16,2,1,1,18,5.76,8,96,88,88,91.66666666666667,9,172,100.0,15,8.720930232558139,172,108.31,running
+Joey Gase,4004,2026/05/24,O'Reilly,Charlotte Motor Speedway,28,38,23,6,38,31.96,-5,9,14,0,0.0,0,1,1.098901098901099,0,0.0,91,53.0,running
+Shane Van Gisbergen,4469,2026/06/28,O'Reilly,Sonoma Raceway,1,1,1,1,25,2.77,-35,3,38,3,100.0,30,74,93.67088607594937,66,83.54430379746836,79,149.5,running
+Kyle Kelley,3946,2026/06/28,O'Reilly,Sonoma Raceway,35,35,34,14,37,32.89,27,42,15,0,0.0,0,0,0.0,0,0.0,77,29.17,running
+Ryan Ellis,4029,2026/06/13,O'Reilly,Pocono Raceway,24,28,24,3,30,24.0,-18,50,68,8,16.0,0,9,9.0,0,0.0,100,49.33,running
+Will Rodgers,4321,2026/06/28,O'Reilly,Sonoma Raceway,20,24,17,8,36,19.39,41,65,24,9,13.846153846153847,0,11,13.924050632911392,0,0.0,79,65.17,running
+Jeb Burton,4018,2026/04/25,O'Reilly,Talladega Superspeedway,24,2,25,1,31,10.85,10,339,329,203,59.882005899705014,2,82,73.21428571428571,2,1.7857142857142858,112,82.38,accident
+Brent Crews,4504,2026/07/04,O'Reilly,Chicagoland Speedway,2,9,4,1,20,7.75,-14,41,55,39,95.1219512195122,1,194,96.51741293532338,0,0.0,201,102.95,running
+William Byron,4184,2026/04/19,O'Reilly,Kansas Speedway,2,21,6,1,30,8.23,21,68,47,38,55.88235294117647,5,175,87.5,1,0.5,200,98.67,running
+Sam Mayer,4327,2026/06/21,O'Reilly,San Diego Street Course,6,5,34,3,16,17.44,20,27,7,27,100.0,4,34,100.0,0,0.0,34,75.5,accident
+Logan Bearden,4394,2026/07/12,O'Reilly,Atlanta Motor Speedway,35,35,35,10,35,33.65,-13,8,21,0,0.0,0,1,1.4492753623188406,0,0.0,69,30.0,fuel pump
+Lee Pulliam,4536,2026/03/28,O'Reilly,Martinsville Speedway,12,24,5,1,33,12.08,16,41,25,10,24.390243902439025,13,148,59.2,40,16.0,250,95.06,running
+Jeb Burton,4018,2026/05/16,O'Reilly,Dover Motor Speedway,15,37,37,15,21,36.15,-4,0,4,0,,0,0,0.0,0,0.0,10,29.83,accident
+Andrew Patterson,4527,2026/05/24,O'Reilly,Charlotte Motor Speedway,20,31,28,21,38,29.8,-8,19,27,0,0.0,0,0,0.0,0,0.0,91,47.5,running
+Parker Retzlaff,4419,2026/05/09,O'Reilly,Watkins Glen International,6,12,7,4,29,11.24,21,38,17,19,50.0,0,72,87.8048780487805,0,0.0,82,87.33,running
+Natalie Decker,4196,2026/04/25,O'Reilly,Talladega Superspeedway,36,34,33,3,36,30.87,2,42,40,0,0.0,0,2,1.7857142857142858,0,0.0,112,33.17,running
+Corey Day,4502,2026/03/28,O'Reilly,Martinsville Speedway,7,6,2,1,27,5.89,15,35,20,25,71.42857142857143,9,230,92.0,37,14.8,250,114.69,running
+Ryan Ellis,4029,2026/02/15,O'Reilly,Daytona International Speedway,32,29,6,1,34,22.0,15,82,67,27,32.926829268292686,2,34,28.333333333333332,1,0.8333333333333334,120,54.78,running
+Taylor Gray,4406,2026/07/12,O'Reilly,Atlanta Motor Speedway,9,17,33,8,30,21.17,-15,43,58,27,62.7906976744186,1,51,45.535714285714285,0,0.0,112,73.61,accident
+Giovanni Ruggiero,4503,2026/02/15,O'Reilly,Daytona International Speedway,16,37,37,5,23,31.87,7,89,82,39,43.82022471910113,3,11,37.93103448275862,0,0.0,29,49.27,accident
+Ryan Sieg,3884,2026/05/02,O'Reilly,Texas Motor Speedway,9,14,14,1,34,15.84,12,60,48,24,40.0,3,133,66.5,1,0.5,200,76.61,running
+Connor Zilisch,4481,2026/03/15,O'Reilly,Las Vegas Motor Speedway,17,8,7,2,38,12.86,24,68,44,36,52.94117647058823,2,146,73.0,0,0.0,200,88.9,running
+Sam Mayer,4327,2026/03/22,O'Reilly,Darlington Raceway,6,15,10,2,24,11.75,-8,18,26,10,55.55555555555556,1,123,83.6734693877551,0,0.0,147,89.14,running
+Justin Allgaier,34,2026/05/09,O'Reilly,Watkins Glen International,2,4,10,2,29,9.28,6,44,38,22,50.0,3,69,84.14634146341463,0,0.0,82,103.03,running
+Parker Retzlaff,4419,2026/02/28,O'Reilly,Circuit of The Americas,29,33,30,13,35,31.84,18,36,18,0,0.0,0,1,1.5384615384615385,0,0.0,65,37.67,running
+Myatt Snider,4223,2026/07/04,O'Reilly,Chicagoland Speedway,12,30,23,5,34,29.02,-17,33,50,1,3.0303030303030303,0,1,0.4975124378109453,0,0.0,201,47.0,running
+Brad Perez,4421,2026/03/28,O'Reilly,Martinsville Speedway,34,34,21,16,37,30.11,-1,40,41,0,0.0,2,0,0.0,0,0.0,250,43.92,running
+Parker Retzlaff,4419,2026/04/12,O'Reilly,Bristol Motor Speedway,9,15,9,2,19,12.73,6,81,75,67,82.71604938271605,8,265,88.33333333333333,0,0.0,300,87.41,running
+Rajah Caruth,4422,2026/06/13,O'Reilly,Pocono Raceway,26,4,7,4,26,14.63,13,76,63,22,28.94736842105263,0,48,48.0,0,0.0,100,79.83,running
+Garrett Smithley,4142,2026/04/12,O'Reilly,Bristol Motor Speedway,35,37,38,20,38,37.4,-3,5,8,0,0.0,0,0,0.0,0,0.0,176,24.17,suspension
+Justin Allgaier,34,2026/03/22,O'Reilly,Darlington Raceway,4,6,1,1,24,3.72,2,12,10,12,100.0,13,146,99.31972789115646,31,21.08843537414966,147,129.38,running
+Sammy Smith,4441,2026/06/13,O'Reilly,Pocono Raceway,5,13,19,4,29,11.68,11,69,58,35,50.72463768115942,0,77,77.0,0,0.0,100,84.0,running
+Christopher Bell,4153,2026/03/22,O'Reilly,Darlington Raceway,2,5,3,1,24,3.84,-2,8,10,8,100.0,8,145,98.63945578231292,0,0.0,147,114.99,running
+Ross Chastain,4001,2026/05/24,O'Reilly,Charlotte Motor Speedway,14,3,1,1,14,4.56,18,36,18,35,97.22222222222223,5,91,100.0,28,30.76923076923077,91,103.95,running
+Austin Hill,4133,2026/07/25,O'Reilly,Indianapolis Motor Speedway,19,9,10,5,20,10.35,2,30,28,24,80.0,1,75,75.0,0,0.0,100,90.88,running
+Lavar Scott,4518,2026/04/25,O'Reilly,Talladega Superspeedway,32,28,27,1,35,25.86,-2,66,68,6,9.090909090909092,2,6,5.357142857142857,1,0.8928571428571429,112,42.38,running
+Brandon Jones,4085,2026/07/25,O'Reilly,Indianapolis Motor Speedway,6,8,9,1,12,8.93,-9,33,42,32,96.96969696969697,1,100,100.0,0,0.0,100,96.54,running
+Nick Sanchez,4416,2026/02/28,O'Reilly,Circuit of The Americas,20,8,25,1,34,19.16,-24,30,54,7,23.333333333333332,0,20,30.76923076923077,1,1.5384615384615385,65,62.83,running
+Josh Williams,4106,2026/06/28,O'Reilly,Sonoma Raceway,26,26,27,11,36,26.05,35,57,22,7,12.280701754385966,0,9,11.39240506329114,0,0.0,79,46.5,running
+Sam Mayer,4327,2026/02/22,O'Reilly,Atlanta Motor Speedway,1,32,7,1,34,23.24,-23,38,61,30,78.94736842105263,2,42,25.766871165644172,23,14.110429447852761,163,80.12,running
+Justin Allgaier,34,2026/03/15,O'Reilly,Las Vegas Motor Speedway,9,2,4,1,22,3.89,16,49,33,49,100.0,35,196,98.0,48,24.0,200,131.64,running
+Brent Crews,4504,2026/07/25,O'Reilly,Indianapolis Motor Speedway,15,7,6,6,36,12.94,32,55,23,26,47.27272727272727,16,75,75.0,0,0.0,100,100.0,running
+Corey Day,4502,2026/06/21,O'Reilly,San Diego Street Course,31,4,10,4,37,19.94,27,47,20,18,38.297872340425535,0,30,50.0,0,0.0,60,89.0,running
+Harrison Burton,4217,2026/05/16,O'Reilly,Dover Motor Speedway,9,14,16,2,28,11.71,-10,19,29,16,84.21052631578948,0,175,87.5,0,0.0,200,81.5,running
+Joey Gase,4004,2026/05/02,O'Reilly,Texas Motor Speedway,36,27,28,18,36,28.4,4,26,22,0,0.0,0,0,0.0,0,0.0,198,40.67,running
+Carson Kvapil,4467,2026/05/09,O'Reilly,Watkins Glen International,34,25,14,4,34,20.15,7,58,51,11,18.96551724137931,0,26,31.70731707317073,0,0.0,82,73.67,running
+Austin J Hill,4516,2026/02/28,O'Reilly,Circuit of The Americas,38,38,38,35,38,37.84,0,5,5,0,0.0,0,0,0.0,0,0.0,7,23.17,suspension
+Jeb Burton,4018,2026/03/28,O'Reilly,Martinsville Speedway,23,10,30,3,31,13.85,9,58,49,29,50.0,0,153,65.66523605150215,0,0.0,233,80.5,accident
+Tyler Ankrum,4296,2026/04/25,O'Reilly,Talladega Superspeedway,33,35,32,14,37,32.32,5,41,36,3,7.317073170731708,3,1,0.8928571428571429,0,0.0,112,33.54,running
+Nick Leitz,4442,2026/07/12,O'Reilly,Atlanta Motor Speedway,29,24,29,15,33,24.47,11,41,30,0,0.0,0,1,0.6622516556291391,0,0.0,151,57.67,accident
+Kyle Sieg,4388,2026/05/31,O'Reilly,Nashville Superspeedway,20,25,24,3,27,20.54,-5,51,56,7,13.72549019607843,0,6,3.2085561497326203,0,0.0,187,62.83,running
+Harrison Burton,4217,2026/02/22,O'Reilly,Atlanta Motor Speedway,13,35,35,11,36,34.53,-3,3,6,3,100.0,0,4,50.0,0,0.0,8,30.5,dvp
+Ryan Ellis,4029,2026/05/24,O'Reilly,Charlotte Motor Speedway,27,33,21,21,38,29.28,-12,12,24,0,0.0,0,0,0.0,0,0.0,91,51.17,running
+Rajah Caruth,4422,2026/03/15,O'Reilly,Las Vegas Motor Speedway,8,16,19,9,34,18.89,-12,63,75,24,38.095238095238095,0,98,49.0,0,0.0,200,63.33,running
+Austin Hill,4133,2026/02/15,O'Reilly,Daytona International Speedway,1,1,1,1,24,3.0,9,77,68,65,84.41558441558442,1,115,95.83333333333333,78,65.0,120,133.5,running
+Anthony Alfredo,4301,2026/04/25,O'Reilly,Talladega Superspeedway,9,31,31,3,35,21.53,-14,295,309,144,48.813559322033896,5,37,33.035714285714285,0,0.0,112,58.74,running
+Austin Hill,4133,2026/07/04,O'Reilly,Chicagoland Speedway,16,10,5,1,23,10.36,24,61,37,42,68.85245901639344,1,175,87.06467661691542,0,0.0,201,92.28,running
+Sheldon Creed,4204,2026/07/12,O'Reilly,Atlanta Motor Speedway,6,9,25,1,22,8.02,-10,76,86,74,97.36842105263158,2,151,99.34210526315789,27,17.763157894736842,152,90.45,accident
+Sheldon Creed,4204,2026/04/25,O'Reilly,Talladega Superspeedway,5,22,3,1,30,6.4,40,307,267,242,78.82736156351791,3,107,94.69026548672566,7,6.1946902654867255,113,117.61,running
+Austin Green,4479,2026/02/22,O'Reilly,Atlanta Motor Speedway,31,16,21,2,31,16.6,-9,93,102,38,40.86021505376344,6,54,33.333333333333336,0,0.0,162,74.78,running
+Kyle Sieg,4388,2026/06/13,O'Reilly,Pocono Raceway,20,31,32,11,32,25.76,-16,28,44,4,14.285714285714286,0,5,10.0,0,0.0,50,53.0,dvp
+Josh Bilicki,4213,2026/03/15,O'Reilly,Las Vegas Motor Speedway,38,33,23,4,38,29.25,-7,53,60,0,0.0,0,2,1.0050251256281406,0,0.0,199,39.67,running
+Logan Bearden,4394,2026/04/12,O'Reilly,Bristol Motor Speedway,24,32,33,20,36,31.4,-3,13,16,0,0.0,0,0,0.0,0,0.0,295,36.33,running
+Jeb Burton,4018,2026/03/15,O'Reilly,Las Vegas Motor Speedway,15,27,27,3,34,22.82,-29,81,110,15,18.51851851851852,0,20,10.050251256281408,0,0.0,199,46.67,running
+Taylor Gray,4406,2026/03/15,O'Reilly,Las Vegas Motor Speedway,6,4,37,1,8,12.19,0,22,22,22,100.0,10,148,100.0,21,14.18918918918919,148,96.67,accident
+Jeremy Clements,595,2026/07/25,O'Reilly,Indianapolis Motor Speedway,4,10,37,1,37,13.08,-20,22,42,6,27.272727272727273,3,53,54.63917525773196,9,9.278350515463918,97,76.11,running
+Chandler Smith,4312,2026/03/08,O'Reilly,Phoenix Raceway,24,29,21,6,30,24.78,2,57,55,5,8.771929824561404,0,4,2.0100502512562812,0,0.0,199,54.17,running
+Connor Zilisch,4481,2026/02/28,O'Reilly,Circuit of The Americas,1,17,21,1,33,11.56,-18,39,57,20,51.282051282051285,8,44,67.6923076923077,13,20.0,65,95.58,running
+Kyle Sieg,4388,2026/05/09,O'Reilly,Watkins Glen International,33,29,31,11,35,27.5,-31,29,60,0,0.0,0,2,2.4691358024691357,0,0.0,81,34.5,running
+Jeb Burton,4018,2026/06/21,O'Reilly,San Diego Street Course,22,15,17,3,35,13.71,-45,21,66,13,61.904761904761905,0,39,65.0,0,0.0,60,77.33,running
+Corey Day,4502,2026/04/19,O'Reilly,Kansas Speedway,6,9,12,1,28,9.49,27,74,47,48,64.86486486486487,47,165,82.91457286432161,26,13.06532663316583,199,104.88,running
+Dexter Bean,3725,2026/06/13,O'Reilly,Pocono Raceway,34,29,30,8,36,27.8,1,33,32,5,15.151515151515152,0,5,5.376344086021505,0,0.0,93,55.17,accident
+Josh Bilicki,4213,2026/03/08,O'Reilly,Phoenix Raceway,33,33,30,30,33,31.43,2,19,17,0,0.0,0,0,0.0,0,0.0,197,38.33,running
+Sheldon Creed,4204,2026/02/15,O'Reilly,Daytona International Speedway,5,35,24,3,35,26.1,-3,91,94,71,78.02197802197803,1,23,19.82758620689655,0,0.0,116,66.9,running
+Ryan Ellis,4029,2026/02/28,O'Reilly,Circuit of The Americas,33,27,34,5,34,27.32,13,38,25,0,0.0,0,2,3.125,0,0.0,64,39.5,running
+Ryan Sieg,3884,2026/06/28,O'Reilly,Sonoma Raceway,25,17,15,4,35,19.03,30,53,23,6,11.320754716981131,0,21,26.582278481012658,0,0.0,79,72.17,running
+Jeremy Clements,595,2026/05/16,O'Reilly,Dover Motor Speedway,21,17,15,10,23,14.48,8,44,36,28,63.63636363636363,0,155,77.5,0,0.0,200,81.67,running
+Dawson Cram,4256,2026/04/25,O'Reilly,Talladega Superspeedway,38,29,34,5,38,31.32,-8,44,52,0,0.0,2,2,1.7857142857142858,0,0.0,112,33.2,running
+Mason Maggio,4432,2026/02/22,O'Reilly,Atlanta Motor Speedway,19,22,26,2,32,22.34,2,33,31,2,6.0606060606060606,0,3,1.935483870967742,0,0.0,155,63.5,engine
+Nathan Byrd,4491,2026/03/08,O'Reilly,Phoenix Raceway,32,32,31,29,36,32.25,3,25,22,0,0.0,0,0,0.0,0,0.0,197,36.5,running
+Taylor Gray,4406,2026/02/22,O'Reilly,Atlanta Motor Speedway,3,12,9,1,27,11.54,22,134,112,98,73.13432835820896,7,129,79.14110429447852,2,1.2269938650306749,163,90.09,running
+Jeb Burton,4018,2026/05/09,O'Reilly,Watkins Glen International,23,21,25,9,38,24.63,-1,38,39,7,18.42105263157895,0,15,18.29268292682927,0,0.0,82,55.67,running
+Connor Zilisch,4481,2026/06/28,O'Reilly,Sonoma Raceway,30,2,2,1,36,9.16,12,39,27,22,56.41025641025641,12,60,75.9493670886076,4,5.063291139240507,79,115.02,running
+Anthony Alfredo,4301,2026/05/31,O'Reilly,Nashville Superspeedway,12,8,17,8,26,14.82,0,40,40,12,30.0,0,107,56.91489361702128,0,0.0,188,73.67,running
+Natalie Decker,4196,2026/02/15,O'Reilly,Daytona International Speedway,35,26,33,6,35,27.93,-2,55,57,3,5.454545454545454,0,6,6.593406593406593,0,0.0,91,46.5,accident
+Joey Gase,4004,2026/02/22,O'Reilly,Atlanta Motor Speedway,16,34,34,15,29,31.11,-20,7,27,0,0.0,0,3,7.6923076923076925,0,0.0,39,40.0,engine
+Josh Bilicki,4213,2026/05/09,O'Reilly,Watkins Glen International,26,23,22,6,29,21.98,-3,43,46,8,18.6046511627907,0,9,10.975609756097562,0,0.0,82,56.33,running
+Parker Retzlaff,4419,2026/03/08,O'Reilly,Phoenix Raceway,31,19,14,12,31,18.26,16,80,64,11,13.75,0,45,22.5,0,0.0,200,71.0,running
+Jesse Love,4463,2026/06/21,O'Reilly,San Diego Street Course,37,11,6,5,37,18.06,18,41,23,27,65.85365853658537,1,34,56.666666666666664,0,0.0,60,81.66,running
+Rajah Caruth,4422,2026/04/12,O'Reilly,Bristol Motor Speedway,38,19,14,6,38,20.52,18,89,71,22,24.719101123595507,2,24,8.0,0,0.0,300,66.31,running
+Jeb Burton,4018,2026/02/22,O'Reilly,Atlanta Motor Speedway,25,14,16,5,37,12.42,7,151,144,113,74.83443708609272,5,140,85.88957055214723,0,0.0,163,74.29,running
+Carson Kvapil,4467,2026/03/15,O'Reilly,Las Vegas Motor Speedway,18,14,11,2,19,10.11,9,62,53,56,90.3225806451613,0,194,97.0,0,0.0,200,89.67,running
+Taylor Gray,4406,2026/05/09,O'Reilly,Watkins Glen International,25,6,3,3,25,9.84,19,45,26,28,62.22222222222222,0,70,85.36585365853658,0,0.0,82,100.0,running
+Blaine Perkins,4376,2026/04/19,O'Reilly,Kansas Speedway,21,25,23,8,28,23.41,-34,56,90,12,21.428571428571427,0,14,7.070707070707071,0,0.0,198,47.67,running
+Lavar Scott,4518,2026/04/19,O'Reilly,Kansas Speedway,27,22,18,14,33,22.34,-5,45,50,2,4.444444444444445,0,1,0.5050505050505051,0,0.0,198,54.5,running
+Garrett Smithley,4142,2026/07/04,O'Reilly,Chicagoland Speedway,23,31,18,6,34,29.47,1,41,40,0,0.0,0,0,0.0,0,0.0,201,47.83,running
+Austin Dillon,3873,2026/05/02,O'Reilly,Texas Motor Speedway,20,31,23,11,32,22.68,3,49,46,8,16.3265306122449,0,44,22.110552763819097,0,0.0,199,61.33,running
+Brent Crews,4504,2026/07/12,O'Reilly,Atlanta Motor Speedway,7,12,24,1,33,12.59,-10,75,85,55,73.33333333333333,1,124,81.04575163398692,5,3.2679738562091503,153,74.72,accident
+Harrison Burton,4217,2026/04/19,O'Reilly,Kansas Speedway,20,11,28,5,28,16.28,-30,74,104,35,47.2972972972973,4,103,54.21052631578947,0,0.0,190,67.81,running
+Rajah Caruth,4422,2026/05/09,O'Reilly,Watkins Glen International,1,22,12,1,26,10.52,-5,29,34,12,41.37931034482759,1,65,79.26829268292683,2,2.4390243902439024,82,93.36,running
+Jeremy Clements,595,2026/04/04,O'Reilly,Rockingham Speedway,17,7,25,3,28,18.21,28,54,26,20,37.03703703703704,12,89,35.7429718875502,0,0.0,249,60.06,running
+Sheldon Creed,4204,2026/04/04,O'Reilly,Rockingham Speedway,9,6,6,3,16,8.26,4,31,27,30,96.7741935483871,10,243,97.2,0,0.0,250,97.2,running
+Lavar Scott,4518,2026/03/08,O'Reilly,Phoenix Raceway,30,31,33,27,35,31.8,-2,28,30,0,0.0,0,0,0.0,0,0.0,195,33.83,running
+Logan Bearden,4394,2026/05/31,O'Reilly,Nashville Superspeedway,32,29,26,18,33,28.05,-2,34,36,0,0.0,0,0,0.0,0,0.0,186,45.17,running
+Brennan Poole,4144,2026/05/31,O'Reilly,Nashville Superspeedway,23,27,21,17,29,23.98,-7,38,45,0,0.0,0,0,0.0,0,0.0,187,54.17,running
+Myatt Snider,4223,2026/05/16,O'Reilly,Dover Motor Speedway,25,21,24,11,28,23.42,-21,22,43,0,0.0,0,3,1.5,0,0.0,200,51.33,running
+Justin Allgaier,34,2026/04/04,O'Reilly,Rockingham Speedway,4,1,3,1,9,3.72,11,32,21,31,96.875,29,250,100.0,1,0.4,250,124.53,running
+Patrick Staropoli,4227,2026/05/24,O'Reilly,Charlotte Motor Speedway,23,29,18,14,35,23.4,-28,11,39,0,0.0,0,5,5.4945054945054945,0,0.0,91,59.83,running
+Ryan Sieg,3884,2026/02/28,O'Reilly,Circuit of The Americas,18,22,16,3,30,20.52,1,42,41,1,2.380952380952381,0,6,9.23076923076923,0,0.0,65,59.83,running
+Preston Pardus,4317,2026/02/28,O'Reilly,Circuit of The Americas,17,28,27,6,37,25.27,-19,29,48,2,6.896551724137931,0,4,6.153846153846154,0,0.0,65,45.83,running
+Sammy Smith,4441,2026/04/25,O'Reilly,Talladega Superspeedway,13,30,4,1,34,10.61,13,372,359,261,70.16129032258064,2,86,76.10619469026548,6,5.3097345132743365,113,105.43,running
+Patrick Staropoli,4227,2026/04/19,O'Reilly,Kansas Speedway,24,13,14,3,29,16.22,-7,68,75,30,44.11764705882353,0,92,46.231155778894475,0,0.0,199,73.33,running
+Austin Hill,4133,2026/06/28,O'Reilly,Sonoma Raceway,10,12,22,2,36,13.69,-24,28,52,12,42.857142857142854,2,55,69.62025316455696,0,0.0,79,79.41,running
+Nick Sanchez,4416,2026/07/25,O'Reilly,Indianapolis Motor Speedway,23,24,20,12,34,22.35,14,36,22,0,0.0,0,2,2.0,0,0.0,100,59.33,running
+Josh Bilicki,4213,2026/02/22,O'Reilly,Atlanta Motor Speedway,35,27,15,6,37,24.53,-18,32,50,5,15.625,0,19,11.656441717791411,0,0.0,163,49.5,running
+Alex Guenette,4088,2026/05/09,O'Reilly,Watkins Glen International,21,28,28,16,32,26.58,-22,42,64,0,0.0,0,0,0.0,0,0.0,81,40.0,running
+Brad Perez,4421,2026/06/28,O'Reilly,Sonoma Raceway,38,38,38,38,38,38.0,0,0,0,0,,0,0,,0,,0,26.0,fuel pump
+Rajah Caruth,4422,2026/02/15,O'Reilly,Daytona International Speedway,7,5,10,1,21,9.69,-4,204,208,165,80.88235294117646,5,97,80.83333333333333,1,0.8333333333333334,120,93.33,running
+Kyle Sieg,4388,2026/02/28,O'Reilly,Circuit of The Americas,35,31,24,18,35,29.56,-4,29,33,0,0.0,0,0,0.0,0,0.0,65,40.67,running
+Taylor Gray,4406,2026/04/25,O'Reilly,Talladega Superspeedway,26,1,29,1,34,16.97,-23,283,306,125,44.169611307420496,3,53,47.32142857142857,6,5.357142857142857,112,66.09,running
+Garrett Smithley,4142,2026/05/02,O'Reilly,Texas Motor Speedway,32,29,31,22,33,30.65,-13,14,27,0,0.0,0,0,0.0,0,0.0,194,38.83,running
+Austin Green,4479,2026/05/24,O'Reilly,Charlotte Motor Speedway,16,23,16,14,31,22.12,-4,20,24,2,10.0,0,3,3.2967032967032965,0,0.0,91,67.17,running
+Jeremy Clements,595,2026/03/22,O'Reilly,Darlington Raceway,30,26,19,2,38,23.1,28,45,17,1,2.2222222222222223,0,7,4.761904761904762,0,0.0,147,69.17,running
+Austin Hill,4133,2026/04/04,O'Reilly,Rockingham Speedway,11,12,11,7,19,12.34,-10,31,41,29,93.54838709677419,5,208,83.2,0,0.0,250,84.6,running
+Harrison Burton,4217,2026/07/12,O'Reilly,Atlanta Motor Speedway,25,18,34,1,34,25.9,-28,36,64,12,33.333333333333336,0,32,31.683168316831683,2,1.9801980198019802,101,67.89,engine
+Dean Thompson,4414,2026/07/04,O'Reilly,Chicagoland Speedway,26,17,17,2,26,19.15,4,62,58,15,24.193548387096776,0,37,18.407960199004975,0,0.0,201,66.33,running
+Daniel Dye,4451,2026/03/08,O'Reilly,Phoenix Raceway,29,26,20,5,30,23.62,15,89,74,4,4.49438202247191,0,3,1.5075376884422111,0,0.0,199,58.5,running
+Lavar Scott,4518,2026/06/21,O'Reilly,San Diego Street Course,14,37,29,11,37,27.63,11,22,11,5,22.727272727272727,0,16,33.333333333333336,0,0.0,48,59.5,running
+Leland Honeyman Jr.,4449,2026/06/21,O'Reilly,San Diego Street Course,25,22,26,7,30,24.01,0,33,33,2,6.0606060606060606,0,3,5.084745762711864,0,0.0,59,41.17,running
+Carson Kvapil,4467,2026/04/19,O'Reilly,Kansas Speedway,1,37,37,1,3,36.82,-2,1,3,1,100.0,0,1,100.0,0,0.0,1,24.33,accident
+Lavar Scott,4518,2026/03/22,O'Reilly,Darlington Raceway,29,31,36,27,35,30.7,0,18,18,0,0.0,1,0,0.0,0,0.0,123,37.5,accident
+Austin Hill,4133,2026/05/24,O'Reilly,Charlotte Motor Speedway,6,11,3,1,15,5.72,3,21,18,21,100.0,0,91,100.0,1,1.098901098901099,91,95.41,running
+Derek White,3920,2026/05/09,O'Reilly,Watkins Glen International,31,34,32,11,38,34.09,7,8,1,0,0.0,0,0,0.0,0,0.0,78,29.33,running
+William Sawalich,4459,2026/03/15,O'Reilly,Las Vegas Motor Speedway,14,9,9,5,25,12.06,-5,57,62,39,68.42105263157895,0,172,86.0,0,0.0,200,85.83,running
+Jeremy Clements,595,2026/07/04,O'Reilly,Chicagoland Speedway,20,35,35,9,35,25.71,-11,28,39,7,25.0,0,30,15.151515151515152,0,0.0,198,57.83,running
+Austin Green,4479,2026/04/25,O'Reilly,Talladega Superspeedway,31,9,10,1,32,14.92,15,251,236,144,57.37051792828685,5,62,54.86725663716814,5,4.424778761061947,113,89.13,running
+Austin Green,4479,2026/06/28,O'Reilly,Sonoma Raceway,37,10,12,7,37,16.96,-25,33,58,10,30.303030303030305,0,52,65.82278481012658,0,0.0,79,75.0,running
+Corey Day,4502,2026/03/15,O'Reilly,Las Vegas Motor Speedway,11,6,8,1,24,6.58,6,45,39,44,97.77777777777777,5,196,98.0,9,4.5,200,102.46,running
+Nick Sanchez,4416,2026/02/22,O'Reilly,Atlanta Motor Speedway,28,13,3,2,31,11.42,15,170,155,136,80.0,7,141,86.50306748466258,0,0.0,163,92.11,running
+Parker Retzlaff,4419,2026/03/22,O'Reilly,Darlington Raceway,5,7,8,1,11,6.64,3,17,14,17,100.0,6,147,100.0,0,0.0,147,102.37,running
+Josh Williams,4106,2026/04/19,O'Reilly,Kansas Speedway,30,26,17,5,34,22.5,26,61,35,6,9.836065573770492,0,9,4.522613065326633,0,0.0,199,58.67,running
+Dean Thompson,4414,2026/05/24,O'Reilly,Charlotte Motor Speedway,21,21,14,13,32,18.48,-2,22,24,0,0.0,0,16,17.582417582417584,0,0.0,91,67.33,running
+Brandon Jones,4085,2026/04/19,O'Reilly,Kansas Speedway,14,2,8,1,15,4.36,9,43,34,37,86.04651162790698,47,200,100.0,67,33.5,200,119.5,running
+Justin Allgaier,34,2026/06/13,O'Reilly,Pocono Raceway,4,2,1,1,22,3.31,17,58,41,44,75.86206896551724,13,99,99.0,35,35.0,100,136.23,running
+Corey Day,4502,2026/03/22,O'Reilly,Darlington Raceway,12,8,6,2,24,8.32,0,19,19,17,89.47368421052632,0,147,100.0,0,0.0,147,99.83,running
+Preston Pardus,4317,2026/06/21,O'Reilly,San Diego Street Course,13,18,18,9,35,18.83,-4,36,40,12,33.333333333333336,0,22,36.666666666666664,0,0.0,60,57.0,running
+Garrett Smithley,4142,2026/05/31,O'Reilly,Nashville Superspeedway,10,31,33,30,38,33.64,2,20,18,0,0.0,0,0,0.0,0,0.0,184,27.67,running
+Patrick Staropoli,4227,2026/07/25,O'Reilly,Indianapolis Motor Speedway,18,25,23,15,28,23.89,-11,28,39,2,7.142857142857143,0,0,0.0,0,0.0,100,54.67,running
+Sheldon Creed,4204,2026/06/28,O'Reilly,Sonoma Raceway,11,6,10,3,36,10.54,-10,22,32,17,77.27272727272727,0,73,92.40506329113924,0,0.0,79,90.17,running
+Corey Day,4502,2026/05/09,O'Reilly,Watkins Glen International,27,14,15,2,33,14.86,-2,46,48,14,30.434782608695652,0,49,59.75609756097561,0,0.0,82,80.5,running
+Patrick Staropoli,4227,2026/03/28,O'Reilly,Martinsville Speedway,27,15,16,4,34,19.98,-28,65,93,17,26.153846153846153,5,76,30.4,0,0.0,250,54.64,running
+Ryan Ellis,4029,2026/03/28,O'Reilly,Martinsville Speedway,32,35,36,7,36,31.48,-29,19,48,1,5.2631578947368425,0,11,6.0109289617486334,0,0.0,183,32.67,brakes
+Sammy Smith,4441,2026/02/28,O'Reilly,Circuit of The Americas,10,2,3,1,33,8.12,-9,25,34,13,52.0,1,58,89.23076923076923,0,0.0,65,106.71,running
+Blaine Perkins,4376,2026/02/22,O'Reilly,Atlanta Motor Speedway,22,36,36,13,35,35.45,5,8,3,4,50.0,0,3,50.0,0,0.0,6,27.33,dvp
+Carson Kvapil,4467,2026/06/28,O'Reilly,Sonoma Raceway,16,7,6,2,36,11.77,1,35,34,21,60.0,1,66,83.54430379746836,0,0.0,79,88.95,running
+Alex Labbe,4225,2026/04/04,O'Reilly,Rockingham Speedway,30,17,18,16,31,23.02,-2,36,38,0,0.0,0,0,0.0,0,0.0,250,57.83,running
+Sam Mayer,4327,2026/03/28,O'Reilly,Martinsville Speedway,11,2,23,1,29,13.53,10,67,57,29,43.28358208955224,8,137,54.8,14,5.6,250,81.92,running
+Brent Crews,4504,2026/04/25,O'Reilly,Talladega Superspeedway,18,5,2,2,34,15.41,-3,309,312,124,40.1294498381877,9,45,39.823008849557525,0,0.0,113,91.13,running
+Rajah Caruth,4422,2026/02/28,O'Reilly,Circuit of The Americas,19,14,31,6,33,14.98,-10,33,43,18,54.54545454545455,1,42,64.61538461538461,0,0.0,65,70.05,running
+Nathan Byrd,4491,2026/05/24,O'Reilly,Charlotte Motor Speedway,32,34,26,12,38,30.71,-12,8,20,0,0.0,0,1,1.098901098901099,0,0.0,91,48.0,running
+Glen Reen,4494,2026/07/12,O'Reilly,Atlanta Motor Speedway,31,29,15,3,35,27.36,-8,30,38,0,0.0,0,13,7.558139534883721,0,0.0,172,56.0,running
+Sheldon Creed,4204,2026/05/24,O'Reilly,Charlotte Motor Speedway,12,10,32,8,32,15.65,-6,27,33,25,92.5925925925926,0,70,95.89041095890411,0,0.0,73,61.17,accident
+Dean Thompson,4414,2026/03/15,O'Reilly,Las Vegas Motor Speedway,25,22,31,5,34,20.19,-15,88,103,8,9.090909090909092,2,22,11.11111111111111,0,0.0,198,57.9,running
+Chase Briscoe,4228,2026/03/15,O'Reilly,Las Vegas Motor Speedway,23,10,2,1,37,11.26,11,89,78,50,56.17977528089887,24,145,72.5,2,1.0,200,106.34,running
+Dean Thompson,4414,2026/05/09,O'Reilly,Watkins Glen International,16,19,35,16,35,29.75,-3,27,30,0,0.0,0,0,0.0,0,0.0,54,37.5,transmission
+Nick Sanchez,4416,2026/03/28,O'Reilly,Martinsville Speedway,18,28,33,11,35,25.11,-20,35,55,3,8.571428571428571,0,19,8.92018779342723,0,0.0,213,49.67,accident
+Cleetus McFarland,4530,2026/05/31,O'Reilly,Nashville Superspeedway,38,35,35,25,38,33.12,5,30,25,0,0.0,0,0,0.0,0,0.0,182,35.67,running
+Austin Hill,4133,2026/02/22,O'Reilly,Atlanta Motor Speedway,20,7,12,1,20,7.36,3,148,145,131,88.51351351351352,6,147,90.1840490797546,34,20.858895705521473,163,92.97,running
+Cody Ware,4125,2026/02/22,O'Reilly,Atlanta Motor Speedway,36,30,31,30,38,31.28,-6,9,15,0,0.0,0,0,0.0,0,0.0,120,36.33,suspension
+Blaine Perkins,4376,2026/04/04,O'Reilly,Rockingham Speedway,27,19,23,17,30,23.7,-16,25,41,0,0.0,0,0,0.0,0,0.0,249,48.67,running
+Jesse Love,4463,2026/04/19,O'Reilly,Kansas Speedway,9,4,4,1,27,5.62,16,57,41,40,70.17543859649123,2,192,96.0,1,0.5,200,110.56,running
+Preston Pardus,4317,2026/05/09,O'Reilly,Watkins Glen International,38,33,21,8,38,22.95,-22,43,65,9,20.930232558139537,0,16,19.51219512195122,0,0.0,82,51.67,running
+Luke Baldwin,4506,2026/04/19,O'Reilly,Kansas Speedway,26,35,35,24,35,34.89,-1,2,3,0,0.0,0,0,0.0,0,0.0,4,26.17,suspension
+Andrew Patterson,4527,2026/03/28,O'Reilly,Martinsville Speedway,19,17,31,6,29,20.95,-20,64,84,13,20.3125,0,45,19.313304721030043,0,0.0,233,57.33,accident
+Lavar Scott,4518,2026/05/16,O'Reilly,Dover Motor Speedway,23,35,36,21,35,34.6,1,6,5,0,0.0,0,0,0.0,0,0.0,23,31.33,engine
+Austin Green,4479,2026/02/15,O'Reilly,Daytona International Speedway,30,15,22,7,33,21.96,-9,108,117,52,48.148148148148145,2,26,22.033898305084747,0,0.0,118,59.8,running
+Blaine Perkins,4376,2026/03/22,O'Reilly,Darlington Raceway,26,38,30,26,38,33.91,-18,14,32,0,0.0,0,0,0.0,0,0.0,146,36.17,running
+Jeb Burton,4018,2026/04/04,O'Reilly,Rockingham Speedway,29,18,17,9,29,20.4,3,39,36,4,10.256410256410257,0,16,6.4,0,0.0,250,62.67,running
+Justin Allgaier,34,2026/05/24,O'Reilly,Charlotte Motor Speedway,1,2,29,1,29,6.85,-8,15,23,15,100.0,11,75,82.41758241758242,36,39.56043956043956,91,101.26,running
+Ryan Ellis,4029,2026/05/16,O'Reilly,Dover Motor Speedway,32,25,25,13,32,24.41,-9,25,34,0,0.0,0,5,2.512562814070352,0,0.0,199,48.5,running
+Brandon Jones,4085,2026/02/22,O'Reilly,Atlanta Motor Speedway,15,9,10,2,18,9.68,5,140,135,121,86.42857142857143,4,155,95.0920245398773,0,0.0,163,86.8,running
+Harrison Burton,4217,2026/03/22,O'Reilly,Darlington Raceway,14,17,22,13,26,18.53,-14,18,32,5,27.77777777777778,0,34,23.12925170068027,0,0.0,147,63.5,running
+Corey Day,4502,2026/07/04,O'Reilly,Chicagoland Speedway,4,7,19,2,26,8.88,-12,38,50,23,60.526315789473685,6,176,87.56218905472637,0,0.0,201,91.35,running
+Jesse Love,4463,2026/03/22,O'Reilly,Darlington Raceway,10,16,11,3,25,11.94,12,26,14,13,50.0,0,117,79.59183673469387,0,0.0,147,91.67,running
+Brad Perez,4421,2026/06/21,O'Reilly,San Diego Street Course,26,29,19,16,37,27.11,13,31,18,0,0.0,0,0,0.0,0,0.0,60,50.33,running
+Preston Pardus,4317,2026/07/25,O'Reilly,Indianapolis Motor Speedway,29,33,30,1,35,30.82,6,29,23,0,0.0,0,2,2.0,0,0.0,100,40.5,running
+Jeremy Clements,595,2026/05/24,O'Reilly,Charlotte Motor Speedway,15,19,30,10,32,21.54,5,26,21,8,30.76923076923077,0,17,18.88888888888889,0,0.0,90,65.0,running
+Jeb Burton,4018,2026/05/02,O'Reilly,Texas Motor Speedway,25,28,26,23,38,29.98,4,16,12,0,0.0,1,0,0.0,0,0.0,199,40.45,running
+Dawson Cram,4256,2026/04/19,O'Reilly,Kansas Speedway,28,27,29,22,36,28.85,-5,11,16,0,0.0,0,0,0.0,0,0.0,120,40.33,engine
+Jeremy Clements,595,2026/02/15,O'Reilly,Daytona International Speedway,29,8,32,4,35,17.61,24,182,158,131,71.97802197802197,4,68,74.72527472527473,0,0.0,91,82.84,accident
+Blaine Perkins,4376,2026/05/24,O'Reilly,Charlotte Motor Speedway,33,27,24,1,38,23.52,-22,22,44,2,9.090909090909092,0,13,14.285714285714286,3,3.2967032967032965,91,61.17,running
+Patrick Staropoli,4227,2026/06/21,O'Reilly,San Diego Street Course,28,20,20,5,32,17.75,3,36,33,6,16.666666666666668,0,25,41.666666666666664,0,0.0,60,67.17,running
+Harrison Burton,4217,2026/04/12,O'Reilly,Bristol Motor Speedway,22,21,17,9,33,20.87,12,71,59,4,5.633802816901408,0,1,0.3333333333333333,0,0.0,300,64.33,running
+Carson Hocevar,4326,2026/02/15,O'Reilly,Daytona International Speedway,20,32,20,2,34,23.18,31,121,90,47,38.84297520661157,2,25,20.833333333333332,0,0.0,120,51.28,running
+Kyle Sieg,4388,2026/04/12,O'Reilly,Bristol Motor Speedway,20,24,25,17,29,23.57,-8,52,60,0,0.0,0,0,0.0,0,0.0,298,53.5,running
+Corey Day,4502,2026/05/16,O'Reilly,Dover Motor Speedway,3,3,1,1,24,5.32,-5,15,20,15,100.0,19,199,99.5,4,2.0,200,122.52,running
+Blaine Perkins,4376,2026/06/13,O'Reilly,Pocono Raceway,33,19,20,11,33,21.75,-19,61,80,3,4.918032786885246,0,9,9.0,0,0.0,100,57.33,running
+Dean Thompson,4414,2026/04/25,O'Reilly,Talladega Superspeedway,17,32,6,3,32,11.46,44,370,326,227,61.351351351351354,1,88,77.87610619469027,0,0.0,113,102.34,running
+Nick Leitz,4442,2026/02/22,O'Reilly,Atlanta Motor Speedway,38,25,18,4,38,23.23,0,47,47,0,0.0,0,4,2.4539877300613497,0,0.0,163,52.67,running
+Jeb Burton,4018,2026/04/19,O'Reilly,Kansas Speedway,16,23,13,1,29,14.25,-1,74,75,48,64.86486486486487,4,121,60.80402010050251,0,0.0,199,76.78,running
+William Sawalich,4459,2026/04/25,O'Reilly,Talladega Superspeedway,16,17,28,1,35,21.42,-4,265,269,106,40.0,1,38,33.92857142857143,0,0.0,112,49.68,running
+Lavar Scott,4518,2026/05/02,O'Reilly,Texas Motor Speedway,37,22,19,2,37,22.77,3,69,66,5,7.246376811594203,0,6,3.0,0,0.0,200,58.33,running
+Ryan Sieg,3884,2026/05/09,O'Reilly,Watkins Glen International,13,15,23,6,30,17.6,-16,32,48,17,53.125,0,43,52.4390243902439,0,0.0,82,66.17,running
+Taylor Gray,4406,2026/06/21,O'Reilly,San Diego Street Course,11,1,2,1,24,5.78,-14,14,28,12,85.71428571428571,5,58,96.66666666666667,16,26.666666666666668,60,122.35,running
+Kyle Sieg,4388,2026/05/24,O'Reilly,Charlotte Motor Speedway,22,28,19,18,35,24.18,-5,19,24,0,0.0,0,0,0.0,0,0.0,91,56.83,running
+Sammy Smith,4441,2026/03/08,O'Reilly,Phoenix Raceway,7,8,6,1,16,6.87,3,55,52,43,78.18181818181819,15,200,100.0,10,5.0,200,108.56,running
+Corey Day,4502,2026/04/12,O'Reilly,Bristol Motor Speedway,14,9,8,1,20,9.8,4,59,55,57,96.61016949152543,16,300,100.0,0,0.0,300,95.82,running
+Josh Williams,4106,2026/04/12,O'Reilly,Bristol Motor Speedway,29,34,29,29,35,32.42,-8,12,20,0,0.0,0,0,0.0,0,0.0,297,36.33,running
+Jesse Love,4463,2026/05/09,O'Reilly,Watkins Glen International,8,5,2,1,26,5.4,24,36,12,24,66.66666666666667,0,76,92.6829268292683,18,21.951219512195124,82,123.5,running
+Josh Williams,4106,2026/04/04,O'Reilly,Rockingham Speedway,25,21,19,3,32,24.57,8,29,21,0,0.0,0,2,0.8,0,0.0,250,52.5,running
+Lavar Scott,4518,2026/02/28,O'Reilly,Circuit of The Americas,31,30,22,20,33,28.24,20,47,27,0,0.0,0,0,0.0,0,0.0,65,46.33,running
+William Sawalich,4459,2026/03/08,O'Reilly,Phoenix Raceway,15,10,37,7,29,17.55,-12,57,69,25,43.85964912280702,0,88,50.86705202312139,0,0.0,173,61.17,accident
+Parker Retzlaff,4419,2026/06/21,O'Reilly,San Diego Street Course,2,2,7,1,27,6.78,24,36,12,22,61.111111111111114,4,52,86.66666666666667,5,8.333333333333334,60,102.77,running
+Brennan Poole,4144,2026/03/15,O'Reilly,Las Vegas Motor Speedway,26,26,20,19,35,23.86,-5,68,73,0,0.0,0,0,0.0,0,0.0,199,51.5,running
+Chase Elliott,4062,2026/07/25,O'Reilly,Indianapolis Motor Speedway,7,14,4,4,35,12.88,38,52,14,23,44.23076923076923,6,70,70.0,0,0.0,100,96.58,running
+Garrett Smithley,4142,2026/07/25,O'Reilly,Indianapolis Motor Speedway,30,28,25,6,35,28.19,5,21,16,0,0.0,0,0,0.0,0,0.0,100,49.67,running
+Patrick Staropoli,4227,2026/05/02,O'Reilly,Texas Motor Speedway,28,23,17,5,28,22.05,4,53,49,5,9.433962264150944,0,6,3.0,0,0.0,200,62.5,running
+Joey Gase,4004,2026/04/25,O'Reilly,Talladega Superspeedway,29,20,19,3,37,26.79,6,74,68,0,0.0,3,1,0.8849557522123894,0,0.0,113,52.87,running
+Joey Gase,4004,2026/07/04,O'Reilly,Chicagoland Speedway,37,34,34,34,37,35.23,3,8,5,0,0.0,0,0,0.0,0,0.0,198,29.17,running
+Nathan Byrd,4491,2026/06/13,O'Reilly,Pocono Raceway,32,35,35,29,35,34.82,0,4,4,0,0.0,0,0,0.0,0,0.0,7,28.83,accident
+Carson Kvapil,4467,2026/06/13,O'Reilly,Pocono Raceway,6,10,10,1,29,9.93,0,69,69,40,57.971014492753625,2,81,81.0,4,4.0,100,86.17,running
+Joey Gase,4004,2026/04/19,O'Reilly,Kansas Speedway,33,24,27,20,34,26.39,-12,28,40,0,0.0,0,0,0.0,0,0.0,194,42.0,running
+Corey Day,4502,2026/02/22,O'Reilly,Atlanta Motor Speedway,9,3,4,1,28,12.6,13,136,123,101,74.26470588235294,6,116,71.16564417177914,0,0.0,163,94.12,running
+Taylor Gray,4406,2026/06/28,O'Reilly,Sonoma Raceway,3,9,29,2,29,7.7,-9,20,29,18,90.0,1,71,91.02564102564102,0,0.0,78,90.79,running
+Anthony Alfredo,4301,2026/07/25,O'Reilly,Indianapolis Motor Speedway,20,21,14,9,22,16.57,0,33,33,17,51.515151515151516,0,32,32.0,0,0.0,100,71.5,running
+Justin Allgaier,34,2026/04/19,O'Reilly,Kansas Speedway,3,5,3,1,24,4.42,14,57,43,45,78.94736842105263,3,196,98.0,0,0.0,200,115.33,running
+JJ Yeley,3669,2026/07/04,O'Reilly,Chicagoland Speedway,38,37,37,28,38,35.34,5,13,8,0,0.0,0,0,0.0,0,0.0,55,30.83,power steering
+Luke Baldwin,4506,2026/03/28,O'Reilly,Martinsville Speedway,29,38,38,29,38,37.01,1,9,8,0,0.0,0,0,0.0,0,0.0,31,23.33,accident
+Jesse Love,4463,2026/04/04,O'Reilly,Rockingham Speedway,2,13,27,1,33,16.17,-28,21,49,13,61.904761904761905,12,123,49.596774193548384,15,6.048387096774194,248,83.87,running
+William Sawalich,4459,2026/05/02,O'Reilly,Texas Motor Speedway,16,10,15,5,37,15.33,4,49,45,24,48.97959183673469,0,113,56.5,0,0.0,200,79.67,running
+Will Rodgers,4321,2026/05/09,O'Reilly,Watkins Glen International,36,26,20,13,36,24.12,18,49,31,4,8.16326530612245,0,7,8.536585365853659,0,0.0,82,51.0,running
+Brandon Jones,4085,2026/03/15,O'Reilly,Las Vegas Motor Speedway,5,11,13,1,23,9.69,-10,52,62,44,84.61538461538461,2,195,97.5,4,2.0,200,83.9,running
+Harrison Burton,4217,2026/03/28,O'Reilly,Martinsville Speedway,24,5,26,1,34,15.0,-9,36,45,14,38.888888888888886,4,146,58.87096774193548,17,6.854838709677419,248,81.79,running
+Brandon Jones,4085,2026/06/28,O'Reilly,Sonoma Raceway,14,37,36,1,37,33.7,-22,9,31,3,33.333333333333336,0,3,4.411764705882353,0,0.0,68,45.83,running
+Josh Bilicki,4213,2026/06/21,O'Reilly,San Diego Street Course,17,33,16,9,36,21.36,-2,27,29,1,3.7037037037037037,0,2,3.3333333333333335,0,0.0,60,57.83,running
+Patrick Staropoli,4227,2026/03/22,O'Reilly,Darlington Raceway,28,32,29,25,35,30.12,0,19,19,0,0.0,0,0,0.0,0,0.0,146,40.0,running
+William Byron,4184,2026/06/13,O'Reilly,Pocono Raceway,3,5,3,2,18,5.87,9,43,34,36,83.72093023255815,1,98,98.0,0,0.0,100,106.03,running
+Jesse Love,4463,2026/06/13,O'Reilly,Pocono Raceway,21,37,37,20,25,36.88,1,1,0,0,0.0,0,0,0.0,0,0.0,1,25.83,accident
+Parker Retzlaff,4419,2026/07/25,O'Reilly,Indianapolis Motor Speedway,17,15,11,9,21,15.18,4,34,30,22,64.70588235294117,1,64,64.0,0,0.0,100,79.71,running
+Joey Gase,4004,2026/07/12,O'Reilly,Atlanta Motor Speedway,33,37,37,33,36,36.98,2,2,0,0,0.0,0,0,0.0,0,0.0,2,25.33,engine
+Sheldon Creed,4204,2026/02/28,O'Reilly,Circuit of The Americas,9,13,11,3,32,15.26,-16,29,45,21,72.41379310344827,0,41,63.07692307692308,0,0.0,65,81.17,running
+Jordan Anderson,4139,2026/07/12,O'Reilly,Atlanta Motor Speedway,38,20,27,10,38,22.37,6,63,57,22,34.92063492063492,0,37,24.503311258278146,0,0.0,151,60.17,accident
+Sammy Smith,4441,2026/03/22,O'Reilly,Darlington Raceway,18,13,9,4,18,11.74,-4,20,24,17,85.0,0,128,87.07482993197279,0,0.0,147,84.83,running
+Taylor Gray,4406,2026/05/02,O'Reilly,Texas Motor Speedway,12,34,33,12,36,29.7,8,28,20,1,3.5714285714285716,0,2,1.0638297872340425,0,0.0,188,47.0,running
+Nick Sanchez,4416,2026/03/15,O'Reilly,Las Vegas Motor Speedway,21,21,38,14,38,28.34,5,56,51,2,3.5714285714285716,0,4,2.8368794326241136,0,0.0,141,52.0,fuel pump
+Austin Green,4479,2026/04/12,O'Reilly,Bristol Motor Speedway,25,38,35,25,38,34.61,-1,13,14,0,0.0,0,0,0.0,0,0.0,290,41.67,running
+William Sawalich,4459,2026/06/28,O'Reilly,Sonoma Raceway,12,15,13,6,36,15.35,-40,20,60,15,75.0,0,63,79.74683544303798,0,0.0,79,78.33,running
+William Sawalich,4459,2026/06/13,O'Reilly,Pocono Raceway,10,17,21,9,33,21.69,1,77,76,9,11.688311688311689,0,20,20.0,0,0.0,100,54.5,running
+Blaine Perkins,4376,2026/04/25,O'Reilly,Talladega Superspeedway,23,13,12,2,26,12.9,11,347,336,190,54.75504322766571,2,73,64.60176991150442,0,0.0,113,92.69,running
+David Starr,3170,2026/07/25,O'Reilly,Indianapolis Motor Speedway,38,37,35,34,38,36.86,2,3,1,0,0.0,0,0,0.0,0,0.0,99,25.33,running
+Kyle Larson,4030,2026/04/12,O'Reilly,Bristol Motor Speedway,3,1,2,1,8,1.57,7,21,14,21,100.0,78,300,100.0,230,76.66666666666667,300,144.33,running
+Lavar Scott,4518,2026/07/04,O'Reilly,Chicagoland Speedway,34,28,28,4,35,28.69,2,45,43,0,0.0,0,2,0.9950248756218906,0,0.0,201,42.67,running
+Jesse Love,4463,2026/05/16,O'Reilly,Dover Motor Speedway,10,5,23,1,29,14.25,8,37,29,10,27.027027027027028,0,105,52.5,4,2.0,200,73.5,running
+Austin Green,4479,2026/05/02,O'Reilly,Texas Motor Speedway,19,35,35,13,36,34.1,2,10,8,1,10.0,0,6,35.294117647058826,0,0.0,17,32.0,accident
+Patrick Emerling,4254,2026/02/15,O'Reilly,Daytona International Speedway,19,20,13,2,25,18.14,-6,84,90,37,44.04761904761905,4,36,30.0,0,0.0,120,65.56,running
+Sam Mayer,4327,2026/02/15,O'Reilly,Daytona International Speedway,3,30,31,1,30,17.05,2,207,205,140,67.6328502415459,4,57,62.637362637362635,6,6.593406593406593,91,85.69,accident
+Brennan Poole,4144,2026/04/19,O'Reilly,Kansas Speedway,17,19,19,5,30,18.67,-21,57,78,10,17.54385964912281,0,21,10.606060606060606,0,0.0,198,60.33,running
+Jesse Love,4463,2026/02/15,O'Reilly,Daytona International Speedway,2,12,9,1,22,4.29,-8,122,130,109,89.34426229508196,4,114,95.0,27,22.5,120,102.33,running
+Carson Kvapil,4467,2026/05/31,O'Reilly,Nashville Superspeedway,4,15,7,2,24,5.98,-7,34,41,18,52.94117647058823,6,182,96.80851063829788,0,0.0,188,105.43,running
+Jeremy Clements,595,2026/03/08,O'Reilly,Phoenix Raceway,21,12,11,4,23,10.78,14,79,65,49,62.0253164556962,3,170,85.0,0,0.0,200,89.16,running
+Austin Hill,4133,2026/04/25,O'Reilly,Talladega Superspeedway,6,4,13,1,35,13.84,-25,212,237,157,74.05660377358491,1,69,61.06194690265487,3,2.6548672566371683,113,74.88,running
+Ryan Sieg,3884,2026/07/12,O'Reilly,Atlanta Motor Speedway,19,21,16,2,33,18.45,-11,84,95,18,21.428571428571427,1,36,20.930232558139537,0,0.0,172,62.2,running
+David Starr,3170,2026/05/02,O'Reilly,Texas Motor Speedway,35,30,29,25,35,29.89,-3,20,23,0,0.0,0,0,0.0,0,0.0,197,39.67,running
+William Sawalich,4459,2026/03/22,O'Reilly,Darlington Raceway,7,9,17,3,19,11.88,-8,34,42,20,58.8235294117647,1,98,66.66666666666667,0,0.0,147,77.48,running
+Carson Kvapil,4467,2026/07/12,O'Reilly,Atlanta Motor Speedway,2,4,2,1,18,3.2,13,76,63,70,92.10526315789474,3,172,100.0,29,16.86046511627907,172,108.62,running
+Josh Bilicki,4213,2026/07/25,O'Reilly,Indianapolis Motor Speedway,32,30,33,24,36,30.28,-12,24,36,0,0.0,0,0,0.0,0,0.0,99,37.33,running
+Joey Gase,4004,2026/04/04,O'Reilly,Rockingham Speedway,36,35,31,31,38,34.68,3,14,11,0,0.0,0,0,0.0,0,0.0,245,27.67,running
+Taylor Gray,4406,2026/07/25,O'Reilly,Indianapolis Motor Speedway,5,23,12,4,33,13.75,12,37,25,19,51.351351351351354,1,78,78.0,0,0.0,100,83.38,running
+Brent Crews,4504,2026/04/12,O'Reilly,Bristol Motor Speedway,17,5,3,1,19,8.7,22,53,31,43,81.13207547169812,22,254,84.66666666666667,3,1.0,300,104.97,running
+Harrison Burton,4217,2026/02/28,O'Reilly,Circuit of The Americas,23,11,29,7,33,18.01,-21,29,50,10,34.48275862068966,0,29,44.61538461538461,0,0.0,65,63.83,running
+Taylor Gray,4406,2026/03/28,O'Reilly,Martinsville Speedway,13,19,13,3,33,16.94,17,71,54,19,26.760563380281692,2,76,30.4,0,0.0,250,78.59,running
+Rajah Caruth,4422,2026/03/22,O'Reilly,Darlington Raceway,19,22,23,11,24,20.14,-11,34,45,3,8.823529411764707,2,16,10.884353741496598,0,0.0,147,57.62,running
+Cole Custer,4104,2026/06/13,O'Reilly,Pocono Raceway,36,16,12,5,36,20.28,11,73,62,24,32.87671232876713,1,42,42.0,0,0.0,100,77.36,running
+Corey Day,4502,2026/05/24,O'Reilly,Charlotte Motor Speedway,2,4,5,2,6,4.01,1,16,15,16,100.0,1,91,100.0,0,0.0,91,95.07,running
+Kyle Sieg,4388,2026/07/12,O'Reilly,Atlanta Motor Speedway,20,23,8,7,29,21.51,13,50,37,13,26.0,2,18,10.465116279069768,0,0.0,172,72.4,running
+Lavar Scott,4518,2026/03/15,O'Reilly,Las Vegas Motor Speedway,30,30,26,10,38,28.07,-15,87,102,0,0.0,0,3,1.5075376884422111,0,0.0,199,41.67,running
+Brennan Poole,4144,2026/02/15,O'Reilly,Daytona International Speedway,25,25,12,1,37,21.16,20,98,78,26,26.53061224489796,0,30,25.0,0,0.0,120,62.17,running
+Connor Zilisch,4481,2026/05/02,O'Reilly,Texas Motor Speedway,4,1,21,1,29,8.09,-10,35,45,17,48.57142857142857,22,163,81.90954773869346,48,24.12060301507538,199,101.25,running
+Brent Crews,4504,2026/03/28,O'Reilly,Martinsville Speedway,4,11,10,1,21,8.18,5,68,63,68,100.0,4,244,97.6,0,0.0,250,107.18,running
+Ryan Ellis,4029,2026/02/22,O'Reilly,Atlanta Motor Speedway,26,24,22,2,29,23.5,-10,45,55,11,24.444444444444443,0,7,4.3478260869565215,0,0.0,161,47.17,running
+Gray Gaulding,4103,2026/04/12,O'Reilly,Bristol Motor Speedway,28,30,28,23,31,27.94,-8,37,45,0,0.0,0,0,0.0,0,0.0,298,44.0,running
+Nick Sanchez,4416,2026/02/15,O'Reilly,Daytona International Speedway,28,36,36,4,36,29.47,11,54,43,43,79.62962962962963,0,23,71.875,0,0.0,32,57.83,accident
+Jeb Burton,4018,2026/04/12,O'Reilly,Bristol Motor Speedway,13,13,16,12,23,16.67,9,60,51,23,38.333333333333336,1,115,38.333333333333336,0,0.0,300,84.24,running
+Carson Ware,4341,2026/02/15,O'Reilly,Daytona International Speedway,38,31,19,8,38,26.6,-17,49,66,5,10.204081632653061,0,5,4.166666666666667,0,0.0,120,38.83,running
+Jeb Burton,4018,2026/06/13,O'Reilly,Pocono Raceway,18,22,28,4,32,19.8,3,64,61,10,15.625,1,24,25.806451612903224,0,0.0,93,72.24,accident
+Brennan Poole,4144,2026/07/25,O'Reilly,Indianapolis Motor Speedway,28,29,29,22,32,28.92,-11,14,25,0,0.0,0,0,0.0,0,0.0,100,42.5,running
+Sammy Smith,4441,2026/06/28,O'Reilly,Sonoma Raceway,13,5,11,2,36,12.63,9,39,30,17,43.58974358974359,0,60,75.9493670886076,0,0.0,79,86.83,running
+Kyle Larson,4030,2026/03/22,O'Reilly,Darlington Raceway,1,1,4,1,24,1.6,3,4,1,4,100.0,53,147,100.0,107,72.78911564625851,147,142.5,running
+Taylor Gray,4406,2026/04/04,O'Reilly,Rockingham Speedway,6,10,7,1,27,9.8,16,33,17,22,66.66666666666667,2,218,87.2,6,2.4,250,92.52,running
+Garrett Smithley,4142,2026/07/12,O'Reilly,Atlanta Motor Speedway,26,30,6,6,33,25.47,-9,49,58,7,14.285714285714286,2,20,11.627906976744185,0,0.0,172,56.24,running
+Austin Hill,4133,2026/03/28,O'Reilly,Martinsville Speedway,26,1,6,1,35,15.12,31,64,33,30,46.875,3,148,59.2,9,3.6,250,82.47,running
+Parker Retzlaff,4419,2026/04/19,O'Reilly,Kansas Speedway,8,36,36,4,22,35.76,-2,1,3,1,100.0,0,1,50.0,0,0.0,2,25.33,accident
+Rajah Caruth,4422,2026/07/04,O'Reilly,Chicagoland Speedway,32,21,24,10,32,23.28,-6,61,67,0,0.0,0,4,1.9900497512437811,0,0.0,201,51.5,running
+Blaine Perkins,4376,2026/02/15,O'Reilly,Daytona International Speedway,14,10,8,1,23,10.14,19,237,218,182,76.79324894514768,1,105,87.5,0,0.0,120,81.39,running
+Austin Hill,4133,2026/07/12,O'Reilly,Atlanta Motor Speedway,11,10,22,1,36,12.98,47,99,52,56,56.56565656565657,8,120,75.47169811320755,7,4.40251572327044,159,67.21,accident
+Blake Lothian,4424,2026/05/16,O'Reilly,Dover Motor Speedway,33,31,26,25,34,29.48,-7,8,15,0,0.0,0,0,0.0,0,0.0,199,44.83,running
+Sam Mayer,4327,2026/06/28,O'Reilly,Sonoma Raceway,9,4,8,2,36,10.72,-12,30,42,24,80.0,0,70,88.60759493670886,0,0.0,79,91.33,running
+Kyle Sieg,4388,2026/05/02,O'Reilly,Texas Motor Speedway,23,32,30,4,33,25.78,0,25,25,11,44.0,0,35,17.857142857142858,0,0.0,196,58.67,running
+Brandon Jones,4085,2026/07/04,O'Reilly,Chicagoland Speedway,29,5,1,1,29,7.93,19,43,24,29,67.44186046511628,18,162,80.59701492537313,12,5.970149253731344,201,113.51,running
+Harrison Burton,4217,2026/03/08,O'Reilly,Phoenix Raceway,11,23,23,7,31,19.52,-18,60,78,9,15.0,0,72,36.18090452261306,0,0.0,199,63.67,running
+Josh Bilicki,4213,2026/05/31,O'Reilly,Nashville Superspeedway,28,32,32,23,36,32.24,-8,22,30,0,0.0,0,0,0.0,0,0.0,184,36.67,running
+Rajah Caruth,4422,2026/05/02,O'Reilly,Texas Motor Speedway,13,17,34,1,23,18.32,-2,48,50,14,29.166666666666668,0,33,18.333333333333332,2,1.1111111111111112,180,57.08,accident
+Brandon Jones,4085,2026/05/31,O'Reilly,Nashville Superspeedway,29,18,5,1,29,10.86,17,51,34,23,45.09803921568628,9,154,81.91489361702128,1,0.5319148936170213,188,95.16,running
+Blaine Perkins,4376,2026/05/09,O'Reilly,Watkins Glen International,24,27,26,6,30,18.69,5,43,38,9,20.930232558139537,0,30,37.03703703703704,0,0.0,81,63.17,out of fuel
+Harrison Burton,4217,2026/04/25,O'Reilly,Talladega Superspeedway,30,10,26,1,30,13.85,14,339,325,158,46.607669616519175,8,71,63.392857142857146,1,0.8928571428571429,112,81.61,accident
+Dean Thompson,4414,2026/05/31,O'Reilly,Nashville Superspeedway,13,21,14,9,27,14.18,-1,50,51,23,46.0,0,135,71.80851063829788,0,0.0,188,78.33,running
+Brandon Jones,4085,2026/05/16,O'Reilly,Dover Motor Speedway,2,12,6,1,19,6.26,-1,14,15,14,100.0,13,198,99.0,31,15.5,200,112.41,running
+Blake Lothian,4424,2026/04/19,O'Reilly,Kansas Speedway,37,31,31,13,37,30.92,-8,3,11,0,0.0,0,1,1.6129032258064515,0,0.0,62,33.83,brakes
+William Sawalich,4459,2026/04/12,O'Reilly,Bristol Motor Speedway,1,7,7,1,14,5.57,-6,58,64,57,98.27586206896552,2,300,100.0,27,9.0,300,103.33,running
+William Byron,4184,2026/03/08,O'Reilly,Phoenix Raceway,6,5,13,2,25,6.29,-2,49,51,32,65.3061224489796,4,192,96.0,0,0.0,200,106.44,running
+Ryan Ellis,4029,2026/03/22,O'Reilly,Darlington Raceway,36,35,32,30,37,34.45,-6,13,19,0,0.0,0,0,0.0,0,0.0,145,30.83,running
+Kyle Sieg,4388,2026/04/19,O'Reilly,Kansas Speedway,25,10,25,7,33,21.35,-1,41,42,5,12.195121951219512,0,47,23.85786802030457,0,0.0,197,65.67,running
+Alex Labbe,4225,2026/06/28,O'Reilly,Sonoma Raceway,24,19,19,9,36,19.7,35,54,19,6,11.11111111111111,0,10,12.658227848101266,0,0.0,79,63.67,running
+Parker Retzlaff,4419,2026/05/02,O'Reilly,Texas Motor Speedway,10,7,5,3,22,7.75,9,46,37,39,84.78260869565217,9,196,98.0,0,0.0,200,104.83,running
+Sammy Smith,4441,2026/05/09,O'Reilly,Watkins Glen International,10,9,16,3,31,13.67,-28,32,60,12,37.5,0,53,64.63414634146342,0,0.0,82,82.17,running
+Blake Lothian,4424,2026/07/25,O'Reilly,Indianapolis Motor Speedway,37,36,34,25,37,35.82,1,6,5,0,0.0,0,0,0.0,0,0.0,99,27.5,running
+Josh Bilicki,4213,2026/04/12,O'Reilly,Bristol Motor Speedway,27,29,23,16,31,25.76,0,16,16,0,0.0,0,0,0.0,0,0.0,299,49.67,running
+Justin Allgaier,34,2026/02/22,O'Reilly,Atlanta Motor Speedway,11,2,33,1,32,17.15,4,77,73,56,72.72727272727273,1,78,73.58490566037736,1,0.9433962264150944,106,90.78,accident
+Carson Kvapil,4467,2026/05/02,O'Reilly,Texas Motor Speedway,14,11,11,4,24,12.39,5,56,51,31,55.357142857142854,3,149,74.5,0,0.0,200,89.0,running
+Taylor Gray,4406,2026/02/28,O'Reilly,Circuit of The Americas,14,10,12,7,29,13.5,-21,34,55,28,82.3529411764706,0,48,73.84615384615384,0,0.0,65,82.67,running
+Patrick Staropoli,4227,2026/04/04,O'Reilly,Rockingham Speedway,22,20,34,20,37,29.14,-15,19,34,0,0.0,0,0,0.0,0,0.0,242,36.5,running
+Justin Allgaier,34,2026/04/25,O'Reilly,Talladega Superspeedway,11,25,23,1,32,15.61,14,260,246,186,71.53846153846153,1,58,51.32743362831859,4,3.5398230088495577,113,59.86,running
+Ross Chastain,4001,2026/07/25,O'Reilly,Indianapolis Motor Speedway,8,1,3,1,16,3.16,5,18,13,17,94.44444444444444,10,99,99.0,31,31.0,100,130.5,running
+Corey Day,4502,2026/05/31,O'Reilly,Nashville Superspeedway,3,17,6,1,17,4.29,0,28,28,24,85.71428571428571,5,185,98.40425531914893,0,0.0,188,113.33,running
+Justin Allgaier,34,2026/04/12,O'Reilly,Bristol Motor Speedway,7,4,4,1,12,4.25,10,42,32,42,100.0,14,300,100.0,0,0.0,300,112.68,running
+Ryan Sieg,3884,2026/03/08,O'Reilly,Phoenix Raceway,18,13,17,4,29,16.45,-1,67,68,17,25.37313432835821,12,75,37.5,0,0.0,200,75.81,running
+Dawson Cram,4256,2026/05/24,O'Reilly,Charlotte Motor Speedway,34,37,33,5,38,34.1,0,5,5,0,0.0,0,4,5.555555555555555,0,0.0,72,46.5,engine
+JJ Yeley,3669,2026/05/24,O'Reilly,Charlotte Motor Speedway,38,35,34,4,38,32.51,3,16,13,0,0.0,0,2,3.125,0,0.0,64,47.17,fuel pump
+Harrison Burton,4217,2026/07/04,O'Reilly,Chicagoland Speedway,18,15,15,3,24,18.81,-11,53,64,11,20.754716981132077,0,15,7.462686567164179,0,0.0,201,70.17,running
+Kyle Sieg,4388,2026/06/28,O'Reilly,Sonoma Raceway,28,30,31,16,37,29.67,2,37,35,0,0.0,0,0,0.0,0,0.0,78,39.0,running
+Jeb Burton,4018,2026/02/28,O'Reilly,Circuit of The Americas,34,26,18,4,34,22.06,12,41,29,2,4.878048780487805,0,9,13.846153846153847,0,0.0,65,54.67,running
+Sam Mayer,4327,2026/05/02,O'Reilly,Texas Motor Speedway,17,5,3,2,20,6.65,15,53,38,43,81.13207547169812,14,198,99.0,0,0.0,200,109.55,running
+Sammy Smith,4441,2026/03/28,O'Reilly,Martinsville Speedway,9,8,3,2,27,8.67,13,46,33,43,93.47826086956522,6,238,95.2,0,0.0,250,103.44,running
+Corey Day,4502,2026/07/12,O'Reilly,Atlanta Motor Speedway,13,5,32,3,29,18.41,1,64,63,48,75.0,6,77,68.75,0,0.0,112,89.31,accident
+Mason Maggio,4432,2026/03/15,O'Reilly,Las Vegas Motor Speedway,37,32,28,15,37,29.37,-11,63,74,0,0.0,0,1,0.5025125628140703,0,0.0,199,34.83,running
+Dean Thompson,4414,2026/03/28,O'Reilly,Martinsville Speedway,22,22,7,6,29,18.85,4,62,58,15,24.193548387096776,0,82,32.8,0,0.0,250,66.5,running
+Ryan Ellis,4029,2026/05/31,O'Reilly,Nashville Superspeedway,26,30,29,22,36,31.53,-10,14,24,0,0.0,0,0,0.0,0,0.0,185,38.0,running
+Blaine Perkins,4376,2026/07/12,O'Reilly,Atlanta Motor Speedway,37,34,20,20,37,30.37,-15,19,34,0,0.0,0,0,0.0,0,0.0,171,41.67,running
+Mason Maggio,4432,2026/04/25,O'Reilly,Talladega Superspeedway,10,23,17,5,36,23.84,-10,140,150,42,30.0,1,16,14.15929203539823,0,0.0,113,59.68,running
+Baltazar Leguizamon,4455,2026/06/21,O'Reilly,San Diego Street Course,32,28,33,18,35,29.0,3,22,19,0,0.0,0,0,0.0,0,0.0,41,34.17,engine
+Ryan Sieg,3884,2026/06/13,O'Reilly,Pocono Raceway,9,26,26,1,34,22.33,22,43,21,12,27.906976744186046,0,23,23.0,4,4.0,100,61.45,running
+Chandler Smith,4312,2026/03/15,O'Reilly,Las Vegas Motor Speedway,28,34,36,4,38,30.78,8,56,48,0,0.0,0,3,1.6304347826086956,0,0.0,184,29.83,ignition
+Lavar Scott,4518,2026/05/31,O'Reilly,Nashville Superspeedway,18,34,31,16,36,32.62,-13,27,40,0,0.0,0,0,0.0,0,0.0,184,34.0,running
+Taylor Gray,4406,2026/04/12,O'Reilly,Bristol Motor Speedway,6,16,10,4,22,12.8,-4,55,59,43,78.18181818181819,2,209,69.66666666666667,0,0.0,300,82.64,running
+Sam Mayer,4327,2026/06/13,O'Reilly,Pocono Raceway,7,7,4,1,18,5.23,13,64,51,49,76.5625,9,95,95.0,14,14.0,100,115.74,running
+Lavar Scott,4518,2026/04/04,O'Reilly,Rockingham Speedway,20,27,15,13,27,20.05,4,45,41,3,6.666666666666667,0,26,10.4,0,0.0,250,67.33,running
+William Sawalich,4459,2026/02/22,O'Reilly,Atlanta Motor Speedway,5,17,23,1,26,13.08,-31,70,101,56,80.0,5,96,59.62732919254658,5,3.1055900621118013,161,70.79,running
+Dean Thompson,4414,2026/02/15,O'Reilly,Daytona International Speedway,18,16,35,3,35,24.11,-7,151,158,113,74.83443708609272,0,38,55.88235294117647,0,0.0,68,71.83,suspension
+Sam Mayer,4327,2026/05/24,O'Reilly,Charlotte Motor Speedway,3,5,36,1,35,15.32,-10,14,24,13,92.85714285714286,3,60,98.36065573770492,12,19.672131147540984,61,73.47,accident
+Austin Green,4479,2026/02/28,O'Reilly,Circuit of The Americas,13,16,33,8,34,17.53,-5,28,33,13,46.42857142857143,0,34,52.30769230769231,0,0.0,65,55.17,running
+Kyle Sieg,4388,2026/03/08,O'Reilly,Phoenix Raceway,10,20,24,2,27,19.78,-19,55,74,11,20.0,0,19,9.547738693467336,0,0.0,199,57.83,running
+Austin Hill,4133,2026/05/31,O'Reilly,Nashville Superspeedway,2,10,11,1,17,10.23,-11,34,45,29,85.29411764705883,1,153,81.38297872340425,2,1.0638297872340425,188,88.8,running
+Josh Bilicki,4213,2026/03/22,O'Reilly,Darlington Raceway,32,19,20,18,32,22.04,9,40,31,0,0.0,0,0,0.0,0,0.0,147,57.67,running
+Dean Thompson,4414,2026/07/12,O'Reilly,Atlanta Motor Speedway,23,19,14,10,31,16.47,14,93,79,50,53.763440860215056,0,59,34.30232558139535,0,0.0,172,76.17,running
+Luke Fenhaus,4489,2026/02/15,O'Reilly,Daytona International Speedway,23,34,23,23,37,31.56,2,5,3,0,0.0,0,0,0.0,0,0.0,117,34.17,running
+Austin J Hill,4516,2026/03/08,O'Reilly,Phoenix Raceway,34,35,34,33,37,34.85,-6,4,10,0,0.0,0,0,0.0,0,0.0,195,29.67,running
+Blaine Perkins,4376,2026/05/02,O'Reilly,Texas Motor Speedway,29,20,25,18,31,23.98,-12,39,51,0,0.0,0,0,0.0,0,0.0,199,52.0,running
+Lavar Scott,4518,2026/06/13,O'Reilly,Pocono Raceway,25,23,29,8,31,25.16,-20,55,75,3,5.454545454545454,0,2,2.150537634408602,0,0.0,93,60.5,accident
+Dean Thompson,4414,2026/04/12,O'Reilly,Bristol Motor Speedway,21,20,24,15,27,21.31,0,35,35,1,2.857142857142857,2,1,0.33557046979865773,0,0.0,298,61.65,running
+Connor Zilisch,4481,2026/05/09,O'Reilly,Watkins Glen International,17,1,1,1,27,5.71,10,54,44,39,72.22222222222223,26,73,89.02439024390245,20,24.390243902439025,82,136.44,running
+Kyle Sieg,4388,2026/06/21,O'Reilly,San Diego Street Course,29,35,37,21,33,32.6,0,17,17,0,0.0,0,0,0.0,0,0.0,28,23.33,engine
+Sheldon Creed,4204,2026/06/21,O'Reilly,San Diego Street Course,7,12,3,3,25,8.25,21,32,11,28,87.5,0,53,88.33333333333333,0,0.0,60,108.33,running
+Corey Day,4502,2026/02/15,O'Reilly,Daytona International Speedway,6,11,27,3,37,16.47,11,219,208,135,61.64383561643836,5,61,61.61616161616162,0,0.0,99,66.99,accident
+Dean Thompson,4414,2026/02/28,O'Reilly,Circuit of The Americas,27,15,26,9,32,21.43,-19,36,55,7,19.444444444444443,0,14,21.53846153846154,0,0.0,65,57.17,running
+Nathan Byrd,4491,2026/03/15,O'Reilly,Las Vegas Motor Speedway,34,36,32,5,38,34.29,-21,12,33,0,0.0,0,5,2.525252525252525,0,0.0,198,26.5,running
+Brandon Jones,4085,2026/05/02,O'Reilly,Texas Motor Speedway,2,6,8,1,18,4.71,-10,27,37,25,92.5925925925926,8,198,99.0,0,0.0,200,105.55,running
+Austin Green,4479,2026/03/28,O'Reilly,Martinsville Speedway,30,16,29,2,35,21.1,6,77,71,19,24.675324675324674,2,86,36.90987124463519,0,0.0,233,60.94,accident
+Patrick Emerling,4254,2026/04/25,O'Reilly,Talladega Superspeedway,27,33,16,4,34,23.63,5,134,129,13,9.701492537313433,2,5,4.424778761061947,0,0.0,113,58.69,running
+Patrick Staropoli,4227,2026/06/28,O'Reilly,Sonoma Raceway,34,33,25,17,36,28.0,21,55,34,0,0.0,0,0,0.0,0,0.0,79,41.0,running
+Anthony Alfredo,4301,2026/04/04,O'Reilly,Rockingham Speedway,15,25,24,2,28,19.23,1,31,30,13,41.935483870967744,0,92,36.94779116465863,0,0.0,249,67.17,running
+Josh Bilicki,4213,2026/02/28,O'Reilly,Circuit of The Americas,25,23,36,13,34,28.21,3,18,15,3,16.666666666666668,0,5,14.285714285714286,0,0.0,35,50.5,suspension
+Sammy Smith,4441,2026/07/25,O'Reilly,Indianapolis Motor Speedway,10,11,19,3,21,13.53,-11,27,38,11,40.74074074074074,0,55,55.0,0,0.0,100,75.5,running
+Jeremy Clements,595,2026/04/19,O'Reilly,Kansas Speedway,18,17,15,4,32,15.19,0,72,72,31,43.05555555555556,0,117,58.79396984924623,0,0.0,199,73.83,running
+Brennan Poole,4144,2026/06/21,O'Reilly,San Diego Street Course,18,17,24,12,30,20.61,16,37,21,5,13.513513513513514,0,11,18.333333333333332,0,0.0,60,59.83,running
+Corey Day,4502,2026/07/25,O'Reilly,Indianapolis Motor Speedway,11,12,7,6,18,10.48,0,33,33,30,90.9090909090909,2,95,95.0,0,0.0,100,94.92,running
+Brennan Poole,4144,2026/03/08,O'Reilly,Phoenix Raceway,20,27,27,18,29,23.36,-8,57,65,0,0.0,0,0,0.0,0,0.0,199,54.0,running
+Josh Williams,4106,2026/02/15,O'Reilly,Daytona International Speedway,31,27,34,16,36,29.05,1,48,47,0,0.0,0,0,0.0,0,0.0,77,50.5,engine
+Sammy Smith,4441,2026/02/22,O'Reilly,Atlanta Motor Speedway,8,6,30,3,20,9.98,-3,105,108,97,92.38095238095238,1,139,98.58156028368795,0,0.0,141,90.84,accident
+Blaine Perkins,4376,2026/07/25,O'Reilly,Indianapolis Motor Speedway,27,27,28,18,34,27.69,-3,23,26,0,0.0,0,0,0.0,0,0.0,100,48.17,running
+Parker Retzlaff,4419,2026/06/13,O'Reilly,Pocono Raceway,13,3,15,1,29,13.97,5,73,68,20,27.397260273972602,2,54,54.0,2,2.0,100,83.11,running
+Sammy Smith,4441,2026/04/12,O'Reilly,Bristol Motor Speedway,16,17,13,5,18,13.34,-10,79,89,61,77.21518987341773,2,231,77.0,0,0.0,300,79.14,running
+Ross Chastain,4001,2026/03/28,O'Reilly,Martinsville Speedway,38,18,8,7,38,19.37,19,74,55,21,28.37837837837838,0,94,37.6,0,0.0,250,67.33,running
+Ryan Ellis,4029,2026/04/12,O'Reilly,Bristol Motor Speedway,33,31,30,20,35,31.21,3,15,12,0,0.0,0,0,0.0,0,0.0,297,35.17,running
+William Sawalich,4459,2026/04/19,O'Reilly,Kansas Speedway,7,14,20,5,33,18.05,-5,53,58,21,39.62264150943396,2,83,41.91919191919192,0,0.0,198,64.22,running
+Kyle Larson,4030,2026/03/15,O'Reilly,Las Vegas Motor Speedway,2,5,1,1,11,5.06,3,37,34,33,89.1891891891892,12,200,100.0,47,23.5,200,123.76,running
+Brennan Poole,4144,2026/04/12,O'Reilly,Bristol Motor Speedway,10,22,18,7,26,17.5,-11,56,67,8,14.285714285714286,0,85,28.333333333333332,0,0.0,300,79.33,running
+Ryan Sieg,3884,2026/05/16,O'Reilly,Dover Motor Speedway,11,16,8,8,22,11.23,17,39,22,34,87.17948717948718,3,185,92.5,0,0.0,200,92.72,running
+Sheldon Creed,4204,2026/04/19,O'Reilly,Kansas Speedway,4,1,2,1,32,5.75,28,57,29,36,63.1578947368421,20,184,92.0,48,24.0,200,124.39,running
+Joey Gase,4004,2026/03/28,O'Reilly,Martinsville Speedway,33,33,24,5,38,32.02,-35,25,60,1,4.0,0,9,3.6,0,0.0,250,41.5,running
+Leland Honeyman Jr.,4449,2026/05/31,O'Reilly,Nashville Superspeedway,15,14,22,5,27,22.14,-10,39,49,8,20.512820512820515,0,21,11.229946524064172,0,0.0,187,56.83,running
+Jordan Anderson,4139,2026/02/15,O'Reilly,Daytona International Speedway,17,21,4,1,33,19.89,-2,88,90,32,36.36363636363637,1,31,25.833333333333332,4,3.3333333333333335,120,64.78,running
+Brent Crews,4504,2026/05/31,O'Reilly,Nashville Superspeedway,33,16,2,1,33,6.05,22,44,22,31,70.45454545454545,23,175,93.08510638297872,45,23.93617021276596,188,118.41,running
+William Sawalich,4459,2026/04/04,O'Reilly,Rockingham Speedway,14,22,1,1,22,4.21,13,24,11,24,100.0,38,247,98.8,80,32.0,250,135.73,running
+Daniel Dye,4451,2026/02/15,O'Reilly,Daytona International Speedway,33,17,21,6,36,18.29,-13,121,134,73,60.33057851239669,2,47,39.166666666666664,0,0.0,120,67.78,running
+Patrick Staropoli,4227,2026/06/13,O'Reilly,Pocono Raceway,27,24,25,9,32,25.23,-34,39,73,0,0.0,0,3,3.0,0,0.0,100,42.83,running
+Glen Reen,4494,2026/05/09,O'Reilly,Watkins Glen International,32,31,30,17,36,28.93,2,38,36,0,0.0,0,0,0.0,0,0.0,81,34.17,running
+Kyle Sieg,4388,2026/03/22,O'Reilly,Darlington Raceway,16,28,37,15,38,26.49,13,30,17,3,10.0,0,1,0.8264462809917356,0,0.0,121,55.33,dvp
+Sheldon Creed,4204,2026/03/08,O'Reilly,Phoenix Raceway,16,6,4,1,24,6.63,7,66,59,45,68.18181818181819,10,197,98.5,20,10.0,200,111.45,running
+Carson Kvapil,4467,2026/05/16,O'Reilly,Dover Motor Speedway,7,8,7,3,20,6.91,9,28,19,28,100.0,1,197,98.5,0,0.0,200,100.46,running
+Blaine Perkins,4376,2026/05/16,O'Reilly,Dover Motor Speedway,29,33,34,17,29,29.64,2,8,6,0,0.0,0,0,0.0,0,0.0,59,45.5,accident
+Cole Custer,4104,2026/07/04,O'Reilly,Chicagoland Speedway,21,12,9,2,23,11.78,28,73,45,53,72.6027397260274,0,172,85.57213930348259,0,0.0,201,85.5,running
+Brent Crews,4504,2026/06/13,O'Reilly,Pocono Raceway,8,1,2,1,21,8.23,24,85,61,66,77.6470588235294,8,92,92.0,9,9.0,100,106.32,running
+Ryan Ellis,4029,2026/04/04,O'Reilly,Rockingham Speedway,32,30,22,21,35,28.56,-2,14,16,0,0.0,0,0,0.0,0,0.0,249,42.67,running
+Ross Chastain,4001,2026/02/22,O'Reilly,Atlanta Motor Speedway,30,11,6,1,31,10.34,31,139,108,97,69.7841726618705,8,137,84.04907975460122,22,13.496932515337424,163,93.86,running
+Brent Crews,4504,2026/05/02,O'Reilly,Texas Motor Speedway,5,3,4,1,11,3.5,0,33,33,30,90.9090909090909,21,200,100.0,2,1.0,200,117.09,running
+William Sawalich,4459,2026/07/04,O'Reilly,Chicagoland Speedway,13,11,29,2,31,15.1,5,42,37,26,61.904761904761905,1,117,58.208955223880594,0,0.0,201,69.78,running
+Sheldon Creed,4204,2026/05/02,O'Reilly,Texas Motor Speedway,11,12,6,4,21,9.0,3,44,41,38,86.36363636363636,2,196,98.0,0,0.0,200,96.89,running
+Taylor Gray,4406,2026/05/31,O'Reilly,Nashville Superspeedway,27,19,9,6,29,12.43,25,61,36,27,44.26229508196721,0,151,80.31914893617021,0,0.0,188,87.17,running
+Parker Retzlaff,4419,2026/05/31,O'Reilly,Nashville Superspeedway,9,4,12,4,28,13.83,20,58,38,22,37.93103448275862,0,132,70.2127659574468,0,0.0,188,81.67,running
+Connor Zilisch,4481,2026/05/24,O'Reilly,Charlotte Motor Speedway,5,1,6,1,20,4.49,-1,13,14,12,92.3076923076923,5,89,97.8021978021978,7,7.6923076923076925,91,101.0,running
+Rajah Caruth,4422,2026/03/28,O'Reilly,Martinsville Speedway,2,4,25,1,31,9.91,2,50,48,20,40.0,7,172,68.8,18,7.2,250,81.91,running
+Jeb Burton,4018,2026/03/22,O'Reilly,Darlington Raceway,25,29,26,23,30,26.97,-3,18,21,0,0.0,0,0,0.0,0,0.0,147,45.0,running
+Anthony Alfredo,4301,2026/02/22,O'Reilly,Atlanta Motor Speedway,24,33,25,12,34,29.13,-16,17,33,5,29.41176470588235,3,16,10.0,0,0.0,160,51.16,running
+Sam Mayer,4327,2026/04/19,O'Reilly,Kansas Speedway,19,6,9,3,24,9.28,25,68,43,47,69.11764705882354,1,186,93.0,0,0.0,200,93.94,running
+Brent Crews,4504,2026/05/16,O'Reilly,Dover Motor Speedway,16,10,22,7,35,16.58,13,57,44,20,35.08771929824562,0,86,43.0,0,0.0,200,66.33,running
+Justin Allgaier,34,2026/02/15,O'Reilly,Daytona International Speedway,13,3,2,2,24,9.44,31,241,210,166,68.87966804979253,4,95,79.16666666666667,0,0.0,120,108.56,running
+Brandon Jones,4085,2026/03/22,O'Reilly,Darlington Raceway,8,3,2,1,24,3.91,0,9,9,9,100.0,11,146,99.31972789115646,9,6.122448979591836,147,116.26,running
+Blaine Perkins,4376,2026/05/31,O'Reilly,Nashville Superspeedway,21,26,20,14,26,20.2,-11,34,45,3,8.823529411764707,0,8,4.278074866310161,0,0.0,187,61.33,running
+Jeremy Clements,595,2026/05/09,O'Reilly,Watkins Glen International,11,35,33,11,35,31.12,-17,12,29,1,8.333333333333334,1,10,13.513513513513514,0,0.0,74,48.15,running
+Dawson Cram,4256,2026/05/02,O'Reilly,Texas Motor Speedway,31,38,38,35,35,37.98,-7,0,7,0,,0,0,0.0,0,0.0,1,23.17,engine
+Mason Maggio,4432,2026/05/31,O'Reilly,Nashville Superspeedway,11,28,28,5,34,27.71,6,40,34,8,20.0,0,15,8.064516129032258,0,0.0,186,44.5,running
+Parker Retzlaff,4419,2026/07/04,O'Reilly,Chicagoland Speedway,5,16,14,1,19,11.65,-5,36,41,33,91.66666666666667,0,195,97.01492537313433,0,0.0,201,81.5,running
+Austin Hill,4133,2026/06/21,O'Reilly,San Diego Street Course,4,8,1,1,22,4.36,32,38,6,30,78.94736842105263,7,58,96.66666666666667,13,21.666666666666668,60,129.85,running
+Jeremy Clements,595,2026/04/25,O'Reilly,Talladega Superspeedway,15,14,5,2,27,14.15,20,330,310,190,57.57575757575758,5,75,66.3716814159292,0,0.0,113,98.06,running
+Carson Kvapil,4467,2026/02/15,O'Reilly,Daytona International Speedway,11,2,7,1,21,5.83,7,197,190,183,92.89340101522842,0,120,100.0,0,0.0,120,102.17,running
+Joey Gase,4004,2026/07/25,O'Reilly,Indianapolis Motor Speedway,35,34,36,4,37,34.46,-7,17,24,0,0.0,0,0,0.0,0,0.0,99,30.33,running
+Brandon Jones,4085,2026/05/24,O'Reilly,Charlotte Motor Speedway,4,7,35,3,36,19.01,-10,15,25,15,100.0,1,51,82.25806451612904,0,0.0,62,66.39,running
+Justin Allgaier,34,2026/07/04,O'Reilly,Chicagoland Speedway,17,26,6,1,27,10.1,34,76,42,59,77.63157894736842,3,184,91.54228855721394,0,0.0,201,95.67,running
+Sheldon Creed,4204,2026/05/31,O'Reilly,Nashville Superspeedway,24,9,15,9,31,16.39,11,58,47,21,36.206896551724135,0,89,47.340425531914896,0,0.0,188,74.67,running
+Anthony Alfredo,4301,2026/04/12,O'Reilly,Bristol Motor Speedway,18,25,36,2,36,23.29,-13,35,48,12,34.285714285714285,0,31,10.801393728222996,0,0.0,287,52.67,running
+Brandon Jones,4085,2026/07/12,O'Reilly,Atlanta Motor Speedway,12,15,7,3,34,15.63,32,105,73,52,49.523809523809526,7,93,54.06976744186046,0,0.0,172,85.57,running
+Andrew Patterson,4527,2026/04/04,O'Reilly,Rockingham Speedway,31,26,21,15,31,22.23,-6,46,52,0,0.0,0,0,0.0,0,0.0,250,57.17,running
+Sammy Smith,4441,2026/06/21,O'Reilly,San Diego Street Course,10,9,5,2,37,9.34,-12,37,49,32,86.48648648648648,1,53,88.33333333333333,0,0.0,60,99.32,running
+Mason Maggio,4432,2026/03/08,O'Reilly,Phoenix Raceway,37,34,32,31,37,33.71,3,11,8,0,0.0,0,0,0.0,0,0.0,196,31.67,running
+David Starr,3170,2026/05/16,O'Reilly,Dover Motor Speedway,38,36,33,33,38,35.0,-1,1,2,0,0.0,0,0,0.0,0,0.0,62,26.0,vibration
+Sam Mayer,4327,2026/04/04,O'Reilly,Rockingham Speedway,7,38,38,7,38,31.8,-14,6,20,2,33.333333333333336,0,41,26.623376623376622,0,0.0,154,55.33,engine
+Ryan Ellis,4029,2026/06/28,O'Reilly,Sonoma Raceway,29,31,23,10,36,26.82,31,62,31,1,1.6129032258064515,0,0,0.0,0,0.0,79,48.33,running
+Ross Chastain,4001,2026/02/28,O'Reilly,Circuit of The Americas,21,7,9,4,29,12.95,-4,26,30,15,57.69230769230769,0,40,61.53846153846154,0,0.0,65,88.33,running
+William Sawalich,4459,2026/02/28,O'Reilly,Circuit of The Americas,15,25,7,7,36,16.81,22,39,17,18,46.15384615384615,0,30,46.15384615384615,0,0.0,65,82.5,running
+Harrison Burton,4217,2026/04/04,O'Reilly,Rockingham Speedway,16,8,13,8,19,13.32,0,29,29,22,75.86206896551724,1,200,80.0,0,0.0,250,81.25,running
+Sheldon Creed,4204,2026/02/22,O'Reilly,Atlanta Motor Speedway,4,5,1,1,16,3.33,0,102,102,95,93.13725490196079,3,162,99.38650306748467,17,10.429447852760736,163,117.68,running
+Parker Retzlaff,4419,2026/04/04,O'Reilly,Rockingham Speedway,3,5,8,3,14,8.06,6,29,23,29,100.0,3,250,100.0,0,0.0,250,98.09,running
+Blaine Perkins,4376,2026/03/28,O'Reilly,Martinsville Speedway,28,27,17,13,35,28.8,1,31,30,2,6.451612903225806,1,10,4.0,0,0.0,250,46.96,running
+Carson Kvapil,4467,2026/04/04,O'Reilly,Rockingham Speedway,5,24,5,3,24,7.33,2,37,35,37,100.0,4,247,98.8,0,0.0,250,103.02,running
+Jeb Burton,4018,2026/02/15,O'Reilly,Daytona International Speedway,22,9,25,4,26,15.79,-2,183,185,123,67.21311475409836,0,60,56.074766355140184,0,0.0,107,65.67,dvp
+Tyler Tomassi,4496,2026/07/04,O'Reilly,Chicagoland Speedway,35,33,33,32,38,34.38,-1,5,6,0,0.0,0,0,0.0,0,0.0,199,26.83,running
+Josh Bilicki,4213,2026/05/02,O'Reilly,Texas Motor Speedway,33,26,27,2,33,27.5,-11,19,30,0,0.0,0,3,1.5151515151515151,0,0.0,198,42.83,running
+Brennan Poole,4144,2026/06/28,O'Reilly,Sonoma Raceway,32,28,24,13,36,25.6,-9,40,49,2,5.0,0,5,6.329113924050633,0,0.0,79,47.33,running
+Jeremy Clements,595,2026/02/22,O'Reilly,Atlanta Motor Speedway,32,15,29,3,35,21.19,15,115,100,35,30.434782608695652,9,39,26.174496644295303,0,0.0,149,64.53,running
+Justin Allgaier,34,2026/05/31,O'Reilly,Nashville Superspeedway,17,1,1,1,17,3.14,15,41,26,35,85.36585365853658,34,187,99.46808510638297,50,26.595744680851062,188,138.67,running
+Rajah Caruth,4422,2026/05/31,O'Reilly,Nashville Superspeedway,25,12,19,3,27,21.8,3,47,44,6,12.76595744680851,0,8,4.278074866310161,0,0.0,187,58.5,running
+Sammy Smith,4441,2026/05/24,O'Reilly,Charlotte Motor Speedway,8,14,11,8,21,12.65,-1,37,38,35,94.5945945945946,0,79,86.81318681318682,0,0.0,91,79.33,running
+Jeb Burton,4018,2026/07/25,O'Reilly,Indianapolis Motor Speedway,12,20,15,6,23,15.73,-13,19,32,9,47.36842105263158,0,57,57.0,0,0.0,100,75.17,running
+Mason Maggio,4432,2026/02/15,O'Reilly,Daytona International Speedway,21,38,38,21,21,38.0,0,0,0,0,,0,0,,0,,0,26.0,accident
+Ryan Ellis,4029,2026/07/04,O'Reilly,Chicagoland Speedway,28,32,22,15,35,31.99,1,15,14,0,0.0,0,0,0.0,0,0.0,201,39.0,running
+Carson Kvapil,4467,2026/07/04,O'Reilly,Chicagoland Speedway,3,13,11,1,17,9.66,-16,42,58,39,92.85714285714286,0,192,95.5223880597015,0,0.0,201,89.0,running
+Austin Hill,4133,2026/03/15,O'Reilly,Las Vegas Motor Speedway,13,7,10,5,19,10.44,4,52,48,50,96.15384615384616,0,197,98.5,0,0.0,200,88.33,running
+Jesse Iwuji,4291,2026/06/21,O'Reilly,San Diego Street Course,35,30,25,16,36,28.01,-5,28,33,0,0.0,0,0,0.0,0,0.0,60,41.5,running
+JJ Yeley,3669,2026/04/04,O'Reilly,Rockingham Speedway,28,28,20,20,36,26.49,9,36,27,0,0.0,0,0,0.0,0,0.0,250,47.83,running
+Patrick Staropoli,4227,2026/05/09,O'Reilly,Watkins Glen International,19,38,38,18,35,37.29,-17,1,18,0,0.0,0,0,0.0,0,0.0,4,25.83,engine
+Anthony Alfredo,4301,2026/03/22,O'Reilly,Darlington Raceway,21,12,12,4,21,12.03,20,42,22,32,76.19047619047619,4,133,90.47619047619048,0,0.0,147,84.58,running
+Sheldon Creed,4204,2026/03/22,O'Reilly,Darlington Raceway,13,11,7,3,24,11.81,-9,17,26,13,76.47058823529412,0,112,76.19047619047619,0,0.0,147,88.33,running
+Daniel Dye,4451,2026/03/15,O'Reilly,Las Vegas Motor Speedway,27,18,15,11,32,20.01,9,63,54,11,17.46031746031746,0,57,28.5,0,0.0,200,68.33,running
+Ross Chastain,4001,2026/05/09,O'Reilly,Watkins Glen International,29,13,4,4,29,12.93,42,53,11,24,45.283018867924525,0,50,60.97560975609756,0,0.0,82,91.33,running
+Austin Green,4479,2026/03/08,O'Reilly,Phoenix Raceway,27,24,22,12,31,25.08,9,72,63,1,1.3888888888888888,0,1,0.5025125628140703,0,0.0,199,52.5,running
+Brent Crews,4504,2026/04/04,O'Reilly,Rockingham Speedway,10,2,26,1,26,7.33,-18,21,39,19,90.47619047619048,31,221,89.11290322580645,30,12.096774193548388,248,101.01,running
+Ryan Ellis,4029,2026/07/25,O'Reilly,Indianapolis Motor Speedway,33,31,32,28,37,32.34,-4,24,28,0,0.0,0,0,0.0,0,0.0,99,34.83,running
+Mason Maggio,4432,2026/04/19,O'Reilly,Kansas Speedway,34,33,33,18,34,31.23,-7,6,13,0,0.0,0,0,0.0,0,0.0,51,36.5,engine
+Harrison Burton,4217,2026/05/02,O'Reilly,Texas Motor Speedway,24,21,22,6,28,17.5,-3,42,45,13,30.952380952380953,0,63,31.65829145728643,0,0.0,199,65.83,running
+Lavar Scott,4518,2026/02/22,O'Reilly,Atlanta Motor Speedway,34,23,28,1,34,25.12,16,44,28,0,0.0,1,2,1.3333333333333333,1,0.6666666666666666,150,55.67,accident
+Parker Retzlaff,4419,2026/03/28,O'Reilly,Martinsville Speedway,10,9,11,2,34,17.78,21,71,50,26,36.61971830985915,0,105,42.0,0,0.0,250,79.67,running
+Nick Sanchez,4416,2026/03/08,O'Reilly,Phoenix Raceway,19,37,35,19,37,35.6,-16,7,23,0,0.0,4,0,0.0,0,0.0,193,36.46,running
+Blake Lothian,4424,2026/04/12,O'Reilly,Bristol Motor Speedway,37,36,34,20,38,35.35,0,10,10,0,0.0,0,0,0.0,0,0.0,295,26.0,running
+Jesse Love,4463,2026/03/08,O'Reilly,Phoenix Raceway,2,1,2,1,14,1.84,1,32,31,26,81.25,46,200,100.0,114,57.0,200,141.58,running
+Jeb Burton,4018,2026/06/28,O'Reilly,Sonoma Raceway,22,21,21,10,36,20.48,18,49,31,3,6.122448979591836,0,8,10.126582278481013,0,0.0,79,59.17,running
+Blaine Perkins,4376,2026/04/12,O'Reilly,Bristol Motor Speedway,30,27,22,12,30,23.79,-5,53,58,0,0.0,0,0,0.0,0,0.0,299,52.0,running
+Blaine Perkins,4376,2026/06/21,O'Reilly,San Diego Street Course,20,16,13,2,33,15.83,-47,24,71,9,37.5,0,30,50.0,0,0.0,60,71.17,running
+Austin Hill,4133,2026/03/08,O'Reilly,Phoenix Raceway,13,14,12,9,27,16.07,-1,60,61,28,46.666666666666664,0,95,47.5,0,0.0,200,77.5,running
+Anthony Alfredo,4301,2026/06/28,O'Reilly,Sonoma Raceway,4,11,4,1,25,7.0,-3,20,23,13,65.0,3,70,88.60759493670886,5,6.329113924050633,79,110.94,running
+Cole Custer,4104,2026/05/24,O'Reilly,Charlotte Motor Speedway,29,18,8,7,31,17.09,17,37,20,12,32.432432432432435,0,33,36.26373626373626,0,0.0,91,80.83,running
+Nick Sanchez,4416,2026/03/22,O'Reilly,Darlington Raceway,27,14,16,5,35,16.74,21,38,17,12,31.57894736842105,0,86,58.50340136054422,0,0.0,147,74.83,running
+Brennan Poole,4144,2026/03/22,O'Reilly,Darlington Raceway,23,18,18,10,26,19.35,0,28,28,1,3.5714285714285716,0,6,4.081632653061225,0,0.0,147,64.17,running
+Sammy Smith,4441,2026/04/19,O'Reilly,Kansas Speedway,11,7,16,4,29,14.44,6,59,53,25,42.3728813559322,3,100,50.25125628140704,0,0.0,199,74.33,running
+Chad Finchum,4232,2026/02/22,O'Reilly,Atlanta Motor Speedway,37,28,17,2,37,27.12,1,24,23,0,0.0,1,2,1.2269938650306749,0,0.0,163,44.66,running
+Josh Bilicki,4213,2026/04/04,O'Reilly,Rockingham Speedway,33,31,36,28,37,33.11,-7,12,19,0,0.0,0,0,0.0,0,0.0,241,32.67,running
+Dean Thompson,4414,2026/05/16,O'Reilly,Dover Motor Speedway,22,18,20,4,25,15.31,-10,29,39,12,41.37931034482759,0,61,30.5,0,0.0,200,71.67,running
+Ryan Ellis,4029,2026/03/15,O'Reilly,Las Vegas Motor Speedway,35,37,30,11,37,33.39,-16,46,62,0,0.0,2,1,0.5050505050505051,0,0.0,198,29.91,running
+Jeremy Clements,595,2026/02/28,O'Reilly,Circuit of The Americas,30,29,32,25,38,31.21,-9,30,39,0,0.0,0,0,0.0,0,0.0,65,32.0,running
+Dean Thompson,4414,2026/04/19,O'Reilly,Kansas Speedway,22,12,11,7,24,12.55,2,58,56,40,68.96551724137932,0,174,87.43718592964824,0,0.0,199,84.0,running
+Austin Hill,4133,2026/04/19,O'Reilly,Kansas Speedway,15,34,34,6,34,29.65,8,15,7,13,86.66666666666667,0,35,94.5945945945946,0,0.0,37,49.0,accident
+Brennan Poole,4144,2026/02/28,O'Reilly,Circuit of The Americas,26,21,10,9,27,20.38,18,41,23,3,7.317073170731708,0,8,12.307692307692308,0,0.0,65,70.67,running
+Justin Allgaier,34,2026/05/16,O'Reilly,Dover Motor Speedway,13,7,2,1,22,6.76,14,24,10,23,95.83333333333333,29,193,96.5,71,35.5,200,124.7,running
+Austin Hill,4133,2026/03/22,O'Reilly,Darlington Raceway,11,27,35,8,38,27.93,-22,27,49,11,40.74074074074074,0,36,25.35211267605634,0,0.0,142,63.67,running
+Josh Bilicki,4213,2026/06/13,O'Reilly,Pocono Raceway,37,27,22,13,37,25.3,-17,48,65,2,4.166666666666667,0,4,4.0,0,0.0,100,48.17,running
+Brad Perez,4421,2026/05/02,O'Reilly,Texas Motor Speedway,34,36,36,23,34,35.13,1,7,6,0,0.0,0,0,0.0,0,0.0,17,29.83,accident
+Dawson Cram,4256,2026/03/08,O'Reilly,Phoenix Raceway,36,36,36,36,38,36.67,1,3,2,0,0.0,0,0,0.0,0,0.0,192,25.83,running
+Dawson Cram,4256,2026/06/28,O'Reilly,Sonoma Raceway,36,34,33,15,38,32.37,31,50,19,0,0.0,0,0,0.0,0,0.0,78,29.0,running
+Ross Chastain,4001,2026/06/28,O'Reilly,Sonoma Raceway,15,36,37,3,37,28.26,-8,27,35,14,51.851851851851855,0,23,79.3103448275862,0,0.0,29,55.0,rear end
+Austin Green,4479,2026/03/15,O'Reilly,Las Vegas Motor Speedway,19,31,25,12,37,23.41,21,115,94,10,8.695652173913043,0,17,8.542713567839195,0,0.0,199,47.83,running
+Shane Van Gisbergen,4469,2026/05/09,O'Reilly,Watkins Glen International,12,3,8,1,33,9.18,5,52,47,27,51.92307692307692,6,65,79.26829268292683,7,8.536585365853659,82,111.28,running
+Kyle Sieg,4388,2026/04/25,O'Reilly,Talladega Superspeedway,28,19,18,15,32,23.97,-9,85,94,2,2.3529411764705883,2,1,0.8849557522123894,0,0.0,113,56.36,running
+Josh Bilicki,4213,2026/07/04,O'Reilly,Chicagoland Speedway,19,36,36,19,37,35.08,-16,12,28,0,0.0,0,0,0.0,0,0.0,196,31.0,running
+Josh Williams,4106,2026/04/25,O'Reilly,Talladega Superspeedway,4,16,35,3,36,23.05,-36,224,260,80,35.714285714285715,4,27,24.107142857142858,0,0.0,112,51.22,running
+Brent Crews,4504,2026/06/21,O'Reilly,San Diego Street Course,1,6,31,1,31,15.34,-19,30,49,22,73.33333333333333,3,32,72.72727272727273,11,25.0,44,67.68,engine
+Joey Gase,4004,2026/06/21,O'Reilly,San Diego Street Course,36,31,23,17,36,28.23,9,24,15,0,0.0,0,0,0.0,0,0.0,60,40.83,running
+JJ Yeley,3669,2026/02/28,O'Reilly,Circuit of The Americas,36,32,28,5,36,29.52,19,35,16,0,0.0,0,4,6.153846153846154,0,0.0,65,37.17,running
+Rajah Caruth,4422,2026/03/08,O'Reilly,Phoenix Raceway,25,18,8,1,26,18.5,1,68,67,22,32.35294117647059,1,38,19.0,1,0.5,200,75.22,running
+Leland Honeyman Jr.,4449,2026/06/28,O'Reilly,Sonoma Raceway,33,23,35,5,36,25.54,-8,52,60,11,21.153846153846153,0,11,15.492957746478874,0,0.0,71,40.5,battery
+Josh Bilicki,4213,2026/03/28,O'Reilly,Martinsville Speedway,21,36,35,12,36,32.83,-22,21,43,0,0.0,0,1,0.4878048780487805,0,0.0,205,33.17,running
+Rajah Caruth,4422,2026/04/25,O'Reilly,Talladega Superspeedway,7,8,30,1,34,16.26,-18,227,245,166,73.12775330396475,0,64,57.142857142857146,5,4.464285714285714,112,54.91,running
+Joey Gase,4004,2026/06/13,O'Reilly,Pocono Raceway,38,36,36,35,38,35.99,0,0,0,0,,0,0,0.0,0,0.0,3,27.83,engine
+Jesse Love,4463,2026/02/28,O'Reilly,Circuit of The Americas,11,6,4,1,21,6.64,26,34,8,31,91.17647058823529,8,61,93.84615384615384,0,0.0,65,115.03,running
+Harrison Burton,4217,2026/06/13,O'Reilly,Pocono Raceway,23,21,11,1,23,14.18,12,72,60,33,45.833333333333336,0,62,62.0,5,5.0,100,74.56,running
+Josh Bilicki,4213,2026/05/16,O'Reilly,Dover Motor Speedway,34,27,27,9,34,26.53,-21,19,40,0,0.0,0,1,0.5025125628140703,0,0.0,199,44.5,running
+Justin Allgaier,34,2026/06/21,O'Reilly,San Diego Street Course,16,34,32,7,37,26.91,-8,31,39,1,3.225806451612903,0,5,11.627906976744185,0,0.0,43,49.83,engine
+Baltazar Leguizamon,4455,2026/02/28,O'Reilly,Circuit of The Americas,37,35,37,31,37,35.84,2,10,8,0,0.0,0,0,0.0,0,0.0,33,27.5,accident
+Ryan Sieg,3884,2026/03/22,O'Reilly,Darlington Raceway,22,10,13,8,22,13.2,7,35,28,25,71.42857142857143,0,129,87.75510204081633,0,0.0,147,77.67,running
+Patrick Staropoli,4227,2026/03/08,O'Reilly,Phoenix Raceway,28,22,26,18,33,27.26,-13,48,61,0,0.0,7,0,0.0,0,0.0,199,47.77,running
+Dawson Cram,4256,2026/05/16,O'Reilly,Dover Motor Speedway,35,29,28,9,36,29.28,0,5,5,0,0.0,0,2,1.0101010101010102,0,0.0,198,40.83,running
+Nathan Byrd,4491,2026/04/19,O'Reilly,Kansas Speedway,32,28,24,18,33,26.88,-14,37,51,0,0.0,0,0,0.0,0,0.0,197,43.67,running
+Harrison Burton,4217,2026/06/28,O'Reilly,Sonoma Raceway,19,27,18,1,36,22.72,-13,48,61,0,0.0,0,7,8.860759493670885,2,2.5316455696202533,79,60.33,running
+Jesse Love,4463,2026/07/04,O'Reilly,Chicagoland Speedway,6,1,3,1,6,2.92,1,19,18,18,94.73684210526316,9,201,100.0,5,2.487562189054726,201,118.87,running
+Patrick Staropoli,4227,2026/02/15,O'Reilly,Daytona International Speedway,8,18,18,3,32,21.08,-36,79,115,20,25.31645569620253,1,10,8.333333333333334,0,0.0,120,58.39,running
+Brandon Jones,4085,2026/03/08,O'Reilly,Phoenix Raceway,3,11,16,2,26,10.58,-12,53,65,32,60.37735849056604,1,169,84.5,0,0.0,200,83.94,running
+Carson Kvapil,4467,2026/07/25,O'Reilly,Indianapolis Motor Speedway,2,4,1,1,8,3.31,1,20,19,20,100.0,11,100,100.0,23,23.0,100,129.71,running
+Austin Green,4479,2026/03/22,O'Reilly,Darlington Raceway,31,33,28,26,35,31.35,-2,18,20,0,0.0,0,0,0.0,0,0.0,146,40.33,running
+Lavar Scott,4518,2026/07/25,O'Reilly,Indianapolis Motor Speedway,31,32,27,21,33,28.62,-11,27,38,0,0.0,0,0,0.0,0,0.0,100,44.5,running
+Anthony Alfredo,4301,2026/05/09,O'Reilly,Watkins Glen International,15,16,24,5,31,18.26,-10,34,44,15,44.11764705882353,0,27,32.926829268292686,0,0.0,82,62.0,running
+Patrick Staropoli,4227,2026/05/16,O'Reilly,Dover Motor Speedway,28,22,21,10,32,23.11,-24,35,59,0,0.0,0,3,1.5,0,0.0,200,55.67,running
+Blaine Perkins,4376,2026/03/15,O'Reilly,Las Vegas Motor Speedway,33,28,22,15,34,27.14,-11,61,72,0,0.0,0,1,0.5025125628140703,0,0.0,199,45.5,running
+Sammy Smith,4441,2026/02/15,O'Reilly,Daytona International Speedway,12,7,5,1,31,11.22,46,250,204,179,71.6,8,84,70.0,1,0.8333333333333334,120,95.5,running
+Blake Lothian,4424,2026/04/04,O'Reilly,Rockingham Speedway,37,37,30,30,38,34.48,2,8,6,0,0.0,0,0,0.0,0,0.0,245,35.67,running
+Myatt Snider,4223,2026/03/28,O'Reilly,Martinsville Speedway,37,29,19,7,38,31.01,-23,20,43,0,0.0,1,9,3.6,0,0.0,250,38.46,running
+Patrick Staropoli,4227,2026/07/12,O'Reilly,Atlanta Motor Speedway,10,31,13,8,34,21.54,-16,63,79,42,66.66666666666667,0,66,38.372093023255815,0,0.0,172,69.17,running
+Sam Mayer,4327,2026/07/25,O'Reilly,Indianapolis Motor Speedway,3,5,13,1,13,5.66,-7,18,25,16,88.88888888888889,1,100,100.0,0,0.0,100,99.38,running
+Brandon Jones,4085,2026/03/28,O'Reilly,Martinsville Speedway,3,26,18,1,35,12.77,4,51,47,17,33.333333333333336,7,158,63.2,1,0.4,250,91.73,running
+Carson Kvapil,4467,2026/05/24,O'Reilly,Charlotte Motor Speedway,24,15,9,9,26,14.41,17,38,21,19,50.0,0,50,54.94505494505494,0,0.0,91,75.33,running
+Anthony Alfredo,4301,2026/06/13,O'Reilly,Pocono Raceway,12,9,6,2,19,8.18,-2,57,59,43,75.43859649122807,3,92,92.0,0,0.0,100,99.42,running
+Jeb Burton,4018,2026/05/31,O'Reilly,Nashville Superspeedway,19,24,23,12,29,20.01,0,36,36,3,8.333333333333334,0,32,17.112299465240643,0,0.0,187,64.17,running
+Parker Retzlaff,4419,2026/03/15,O'Reilly,Las Vegas Motor Speedway,12,19,12,5,20,13.74,3,66,63,39,59.09090909090909,1,137,68.5,0,0.0,200,79.62,running
+Brent Crews,4504,2026/04/19,O'Reilly,Kansas Speedway,5,8,5,2,17,7.4,-1,56,57,52,92.85714285714286,4,197,98.5,0,0.0,200,102.28,running
+Parker Retzlaff,4419,2026/05/24,O'Reilly,Charlotte Motor Speedway,31,16,12,11,31,18.83,12,37,25,6,16.216216216216218,0,26,28.571428571428573,0,0.0,91,71.67,running
+Nathan Byrd,4491,2026/04/04,O'Reilly,Rockingham Speedway,26,29,16,6,35,26.95,4,27,23,0,0.0,0,1,0.4,0,0.0,250,54.5,running
+Rajah Caruth,4422,2026/05/16,O'Reilly,Dover Motor Speedway,4,11,14,1,30,8.9,6,39,33,30,76.92307692307692,16,178,89.0,1,0.5,200,94.08,running
+Mason Maggio,4432,2026/07/12,O'Reilly,Atlanta Motor Speedway,28,25,11,6,29,22.16,-14,37,51,5,13.513513513513514,0,16,9.30232558139535,0,0.0,172,68.17,running
+Sheldon Creed,4204,2026/05/16,O'Reilly,Dover Motor Speedway,12,15,18,9,29,15.65,9,43,34,20,46.51162790697674,0,109,54.5,0,0.0,200,73.67,running
+Austin Green,4479,2026/05/31,O'Reilly,Nashville Superspeedway,14,23,30,7,32,25.38,-24,43,67,5,11.627906976744185,0,4,2.1621621621621623,0,0.0,185,45.83,running
+Brandon Jones,4085,2026/06/21,O'Reilly,San Diego Street Course,33,24,12,6,35,19.33,2,49,47,15,30.612244897959183,0,23,38.333333333333336,0,0.0,60,70.0,running
+Parker Retzlaff,4419,2026/04/25,O'Reilly,Talladega Superspeedway,19,3,9,1,34,13.84,8,306,298,173,56.5359477124183,1,71,62.83185840707964,0,0.0,113,88.51,running
+Harrison Burton,4217,2026/06/21,O'Reilly,San Diego Street Course,15,27,9,4,34,14.23,5,32,27,21,65.625,1,44,73.33333333333333,0,0.0,60,92.49,running
+Corey Day,4502,2026/04/25,O'Reilly,Talladega Superspeedway,3,11,1,1,23,8.72,-10,347,357,267,76.94524495677233,1,99,87.61061946902655,1,0.8849557522123894,113,113.36,running
+Taylor Gray,4406,2026/05/24,O'Reilly,Charlotte Motor Speedway,25,12,31,7,30,17.8,2,35,33,21,60.0,0,45,61.64383561643836,0,0.0,73,59.0,accident
+Sheldon Creed,4204,2026/04/12,O'Reilly,Bristol Motor Speedway,2,2,6,1,11,3.2,8,35,27,32,91.42857142857143,30,300,100.0,0,0.0,300,116.66,running
+Austin Green,4479,2026/04/19,O'Reilly,Kansas Speedway,35,32,32,12,35,28.82,-13,21,34,0,0.0,0,2,3.278688524590164,0,0.0,61,44.33,engine
+Patrick Staropoli,4227,2026/07/04,O'Reilly,Chicagoland Speedway,27,23,27,9,29,22.31,11,69,58,1,1.4492753623188406,0,5,2.487562189054726,0,0.0,201,55.0,running
+Parker Retzlaff,4419,2026/05/16,O'Reilly,Dover Motor Speedway,14,38,38,21,32,37.4,13,13,0,0,0.0,0,0,0.0,0,0.0,10,28.17,accident
+Parker Retzlaff,4419,2026/02/22,O'Reilly,Atlanta Motor Speedway,23,10,2,1,26,8.58,34,178,144,153,85.95505617977528,4,155,95.0920245398773,0,0.0,163,98.97,running
+Kyle Sieg,4388,2026/03/28,O'Reilly,Martinsville Speedway,35,23,34,17,37,29.98,-5,50,55,0,0.0,0,0,0.0,0,0.0,207,36.5,suspension
+Brandon Jones,4085,2026/06/13,O'Reilly,Pocono Raceway,1,12,8,1,30,11.0,11,68,57,34,50.0,0,79,79.0,0,0.0,100,87.17,running
+David Starr,3170,2026/05/24,O'Reilly,Charlotte Motor Speedway,36,36,20,14,38,30.81,-1,9,10,0,0.0,0,1,1.098901098901099,0,0.0,91,54.33,running
+Austin Hill,4133,2026/06/13,O'Reilly,Pocono Raceway,17,14,14,3,26,12.3,3,64,61,45,70.3125,0,79,79.0,0,0.0,100,78.5,running
+Brent Crews,4504,2026/05/09,O'Reilly,Watkins Glen International,4,2,6,1,29,5.1,-2,32,34,16,50.0,24,75,91.46341463414635,32,39.02439024390244,82,127.39,running
+Harrison Burton,4217,2026/03/15,O'Reilly,Las Vegas Motor Speedway,24,25,17,14,32,22.22,-3,71,74,5,7.042253521126761,0,1,0.5,0,0.0,200,58.17,running
+Brennan Poole,4144,2026/07/04,O'Reilly,Chicagoland Speedway,24,22,25,11,29,23.86,-13,46,59,0,0.0,0,0,0.0,0,0.0,201,51.83,running
+Patrick Staropoli,4227,2026/05/31,O'Reilly,Nashville Superspeedway,16,13,25,1,28,23.38,-12,43,55,11,25.58139534883721,0,19,10.16042780748663,0,0.0,187,52.5,running
+Parker Retzlaff,4419,2026/02/15,O'Reilly,Daytona International Speedway,27,6,14,3,34,12.34,11,216,205,156,72.22222222222223,1,91,75.83333333333333,0,0.0,120,77.72,running
+Sam Mayer,4327,2026/03/08,O'Reilly,Phoenix Raceway,12,7,5,1,31,9.99,18,59,41,30,50.847457627118644,3,149,74.5,11,5.5,200,94.66,running
+Ryan Ellis,4029,2026/03/08,O'Reilly,Phoenix Raceway,38,38,38,34,38,37.88,-2,4,6,0,0.0,0,0,0.0,0,0.0,13,23.17,suspension
+Jesse Love,4463,2026/02/22,O'Reilly,Atlanta Motor Speedway,10,8,5,1,14,4.82,6,140,134,122,87.14285714285714,3,163,100.0,31,19.01840490797546,163,106.97,running
+Kyle Larson,4030,2026/05/31,O'Reilly,Nashville Superspeedway,6,5,8,2,16,8.45,-1,42,43,38,90.47619047619048,3,188,100.0,0,0.0,188,96.63,running
+Brennan Poole,4144,2026/05/24,O'Reilly,Charlotte Motor Speedway,11,30,27,11,37,23.13,-1,20,21,3,15.0,0,20,21.978021978021978,0,0.0,91,70.0,running
+CJ McLaughlin,4316,2026/05/16,O'Reilly,Dover Motor Speedway,37,32,30,27,37,31.71,-3,9,12,0,0.0,0,0,0.0,0,0.0,193,35.83,running
+Jesse Love,4463,2026/07/12,O'Reilly,Atlanta Motor Speedway,3,7,26,1,17,8.63,3,77,74,73,94.8051948051948,5,151,100.0,0,0.0,151,89.47,accident
+Jeremy Clements,595,2026/06/28,O'Reilly,Sonoma Raceway,23,25,20,8,36,22.96,-4,47,51,6,12.76595744680851,0,11,13.924050632911392,0,0.0,79,56.67,running
+Kyle Sieg,4388,2026/07/25,O'Reilly,Indianapolis Motor Speedway,22,19,24,15,26,21.85,-6,28,34,0,0.0,0,0,0.0,0,0.0,100,56.83,running
+Garrett Smithley,4142,2026/04/04,O'Reilly,Rockingham Speedway,38,34,29,29,38,32.59,8,17,9,0,0.0,0,0,0.0,0,0.0,246,32.33,running
+Jesse Love,4463,2026/04/25,O'Reilly,Talladega Superspeedway,1,15,7,1,30,7.06,-15,270,285,189,70.0,3,94,83.1858407079646,37,32.743362831858406,113,111.78,running
+Dean Thompson,4414,2026/06/21,O'Reilly,San Diego Street Course,23,25,28,17,36,25.56,7,24,17,0,0.0,0,0,0.0,0,0.0,52,48.5,running
+Lavar Scott,4518,2026/04/12,O'Reilly,Bristol Motor Speedway,26,26,32,23,35,29.82,-9,27,36,0,0.0,0,0,0.0,0,0.0,295,45.33,running
+Ryan Ellis,4029,2026/07/12,O'Reilly,Atlanta Motor Speedway,27,28,23,1,34,24.33,-5,37,42,7,18.91891891891892,0,8,5.031446540880503,1,0.6289308176100629,159,48.17,accident
+Chase Elliott,4062,2026/07/04,O'Reilly,Chicagoland Speedway,11,2,2,1,18,2.69,17,31,14,27,87.09677419354838,45,198,98.50746268656717,78,38.80597014925373,201,137.15,running
+Sam Mayer,4327,2026/07/04,O'Reilly,Chicagoland Speedway,9,6,8,3,13,6.83,-3,50,53,47,94.0,3,201,100.0,0,0.0,201,105.67,running
+Leland Honeyman Jr.,4449,2026/05/24,O'Reilly,Charlotte Motor Speedway,30,24,15,15,33,22.81,3,24,21,0,0.0,0,12,13.186813186813186,0,0.0,91,66.17,running
+Dean Thompson,4414,2026/04/04,O'Reilly,Rockingham Speedway,18,32,28,12,35,26.12,-16,27,43,7,25.925925925925927,0,24,9.67741935483871,0,0.0,248,62.0,running
+JJ Yeley,3669,2026/04/25,O'Reilly,Talladega Superspeedway,25,27,11,1,33,20.6,17,222,205,56,25.225225225225227,10,30,26.548672566371682,2,1.7699115044247788,113,73.79,running
+Brandon Jones,4085,2026/02/15,O'Reilly,Daytona International Speedway,15,13,30,1,27,14.29,-12,198,210,155,78.28282828282828,2,79,85.8695652173913,0,0.0,92,90.16,dvp
+Ross Chastain,4001,2026/03/22,O'Reilly,Darlington Raceway,9,4,14,3,24,10.82,12,27,15,17,62.96296296296296,0,122,82.99319727891157,0,0.0,147,90.83,running
+Rajah Caruth,4422,2026/02/22,O'Reilly,Atlanta Motor Speedway,6,1,8,1,22,6.26,14,127,113,111,87.4015748031496,3,157,96.31901840490798,22,13.496932515337424,163,110.0,running
+Sheldon Creed,4204,2026/07/04,O'Reilly,Chicagoland Speedway,8,4,16,2,32,13.65,-14,49,63,21,42.857142857142854,9,118,58.70646766169154,0,0.0,201,86.2,running
+Ryan Ellis,4029,2026/05/09,O'Reilly,Watkins Glen International,28,30,34,11,34,28.34,-9,30,39,4,13.333333333333334,0,8,11.11111111111111,0,0.0,72,40.83,suspension
+Brennan Poole,4144,2026/04/25,O'Reilly,Talladega Superspeedway,34,18,15,1,34,24.38,-5,56,61,7,12.5,1,5,4.424778761061947,3,2.6548672566371683,113,60.88,running
+Sammy Smith,4441,2026/03/15,O'Reilly,Las Vegas Motor Speedway,4,13,5,2,29,10.67,-6,43,49,34,79.06976744186046,5,160,80.0,0,0.0,200,95.09,running
+Anthony Alfredo,4301,2026/03/28,O'Reilly,Martinsville Speedway,15,31,15,5,32,16.58,35,60,25,13,21.666666666666668,4,95,38.0,0,0.0,250,82.35,running
+Brandon Jones,4085,2026/05/09,O'Reilly,Watkins Glen International,7,10,5,1,29,9.09,-7,37,44,18,48.648648648648646,0,75,91.46341463414635,0,0.0,82,101.33,running
+Josh Bilicki,4213,2026/07/12,O'Reilly,Atlanta Motor Speedway,34,27,12,5,34,25.7,5,43,38,2,4.651162790697675,0,6,3.488372093023256,0,0.0,172,55.83,running
+Brennan Poole,4144,2026/05/09,O'Reilly,Watkins Glen International,18,20,18,16,32,22.85,-13,32,45,0,0.0,0,0,0.0,0,0.0,82,62.5,running
+Dean Thompson,4414,2026/05/02,O'Reilly,Texas Motor Speedway,22,19,16,8,26,16.39,-5,41,46,12,29.26829268292683,0,38,19.0,0,0.0,200,70.17,running
+Jeremy Clements,595,2026/07/12,O'Reilly,Atlanta Motor Speedway,14,6,10,2,29,11.17,40,119,79,83,69.74789915966386,5,146,84.88372093023256,0,0.0,172,91.67,running
+Josh Bilicki,4213,2026/06/28,O'Reilly,Sonoma Raceway,18,22,16,7,36,19.67,2,38,36,7,18.42105263157895,0,14,17.72151898734177,0,0.0,79,68.17,running
+Kyle Sieg,4388,2026/04/04,O'Reilly,Rockingham Speedway,21,15,37,4,37,22.14,-35,35,70,9,25.714285714285715,0,30,14.925373134328359,0,0.0,201,55.83,electrical
+Ryan Sieg,3884,2026/04/04,O'Reilly,Rockingham Speedway,12,11,9,2,25,11.62,1,51,50,38,74.50980392156863,1,232,92.8,0,0.0,250,87.59,running
+Nick Sanchez,4416,2026/07/12,O'Reilly,Atlanta Motor Speedway,18,13,19,1,19,10.18,5,109,104,88,80.73394495412845,2,150,87.71929824561404,0,0.0,171,70.41,running
+Ross Chastain,4001,2026/05/16,O'Reilly,Dover Motor Speedway,1,1,13,1,29,7.04,18,30,12,15,50.0,18,172,86.0,68,34.0,200,102.99,running
+Austin Green,4479,2026/05/09,O'Reilly,Watkins Glen International,35,17,9,8,35,17.6,32,52,20,10,19.23076923076923,0,31,37.80487804878049,0,0.0,82,79.83,running
+Joey Gase,4004,2026/03/15,O'Reilly,Las Vegas Motor Speedway,36,35,29,4,38,32.07,-16,36,52,0,0.0,0,6,3.0150753768844223,0,0.0,199,31.5,running
+JJ Yeley,3669,2026/04/12,O'Reilly,Bristol Motor Speedway,34,28,26,20,34,27.74,1,47,46,0,0.0,0,0,0.0,0,0.0,298,42.33,running
+Sam Mayer,4327,2026/05/16,O'Reilly,Dover Motor Speedway,6,6,3,1,15,4.71,15,26,11,25,96.15384615384616,13,200,100.0,1,0.5,200,121.69,running
+Connor Zilisch,4481,2026/04/12,O'Reilly,Bristol Motor Speedway,15,3,1,1,16,5.71,11,48,37,48,100.0,32,294,98.0,24,8.0,300,120.44,running
+Sheldon Creed,4204,2026/03/28,O'Reilly,Martinsville Speedway,6,14,4,4,29,9.66,16,57,41,45,78.94736842105263,2,221,88.4,0,0.0,250,98.92,running
+Carson Kvapil,4467,2026/02/28,O'Reilly,Circuit of The Americas,6,9,19,1,25,10.43,13,43,30,28,65.11627906976744,0,54,83.07692307692308,2,3.076923076923077,65,85.5,running
+Ryan Sieg,3884,2026/04/19,O'Reilly,Kansas Speedway,12,15,10,1,29,11.12,25,78,53,55,70.51282051282051,5,179,89.5,3,1.5,200,90.22,running
+Sammy Smith,4441,2026/07/12,O'Reilly,Atlanta Motor Speedway,5,1,18,1,20,5.06,1,81,80,72,88.88888888888889,8,160,93.02325581395348,34,19.767441860465116,172,102.43,running
+Sheldon Creed,4204,2026/06/13,O'Reilly,Pocono Raceway,16,11,5,2,23,8.16,17,80,63,56,70.0,2,84,84.0,0,0.0,100,104.56,running
+William Sawalich,4459,2026/07/25,O'Reilly,Indianapolis Motor Speedway,9,6,5,1,18,7.05,-1,32,33,32,100.0,8,98,98.0,2,2.0,100,107.42,running
+Rajah Caruth,4422,2026/07/25,O'Reilly,Indianapolis Motor Speedway,16,22,22,1,31,18.0,3,26,23,8,30.76923076923077,2,40,40.0,6,6.0,100,66.0,running
+Harrison Burton,4217,2026/05/09,O'Reilly,Watkins Glen International,22,24,17,3,31,17.09,-7,40,47,4,10.0,0,20,24.390243902439025,0,0.0,82,70.33,running
+Josh Williams,4106,2026/03/22,O'Reilly,Darlington Raceway,17,24,24,1,29,24.21,-9,15,24,0,0.0,0,4,2.7210884353741496,0,0.0,147,49.33,running
+Brandon Jones,4085,2026/04/04,O'Reilly,Rockingham Speedway,8,3,2,1,9,4.33,3,23,20,21,91.30434782608695,12,250,100.0,0,0.0,250,116.38,running
+Sam Mayer,4327,2026/03/15,O'Reilly,Las Vegas Motor Speedway,1,38,35,1,38,28.7,2,3,1,1,33.333333333333336,15,47,23.979591836734695,32,16.3265306122449,196,93.3,running
+Dean Thompson,4414,2026/06/13,O'Reilly,Pocono Raceway,35,18,13,1,35,17.92,-16,73,89,23,31.506849315068493,0,34,34.0,2,2.0,100,72.89,running
+Rajah Caruth,4422,2026/04/04,O'Reilly,Rockingham Speedway,13,4,4,3,16,8.28,11,33,22,30,90.9090909090909,11,237,94.8,0,0.0,250,99.63,running
+Sheldon Creed,4204,2026/03/15,O'Reilly,Las Vegas Motor Speedway,3,3,3,1,22,3.87,-4,31,35,31,100.0,15,196,98.0,1,0.5,200,119.59,running
+Sheldon Creed,4204,2026/05/09,O'Reilly,Watkins Glen International,3,11,29,11,33,22.89,14,54,40,7,12.962962962962964,0,24,29.62962962962963,0,0.0,81,40.5,running
+Cleetus McFarland,4530,2026/04/04,O'Reilly,Rockingham Speedway,35,33,32,30,38,33.26,3,20,17,0,0.0,0,0,0.0,0,0.0,244,31.5,running
+Mason Maggio,4432,2026/05/02,O'Reilly,Texas Motor Speedway,30,33,32,23,36,33.21,3,4,1,0,0.0,0,0,0.0,0,0.0,189,32.17,running
+Joey Gase,4004,2026/03/08,O'Reilly,Phoenix Raceway,35,30,19,5,35,26.3,22,44,22,5,11.363636363636363,0,17,8.5,0,0.0,200,48.33,running
+Shane Van Gisbergen,4469,2026/02/28,O'Reilly,Circuit of The Americas,2,1,1,1,14,2.9,2,17,15,12,70.58823529411765,15,65,100.0,31,47.69230769230769,65,148.48,running
+Taylor Gray,4406,2026/06/13,O'Reilly,Pocono Raceway,2,15,17,1,31,11.16,22,71,49,34,47.88732394366197,6,71,71.0,24,24.0,100,96.15,running
+Lavar Scott,4518,2026/07/12,O'Reilly,Atlanta Motor Speedway,32,26,21,12,33,25.26,-6,34,40,0,0.0,1,8,4.733727810650888,0,0.0,169,53.7,running
+Corey Day,4502,2026/06/28,O'Reilly,Sonoma Raceway,6,13,7,3,36,9.79,-8,23,31,14,60.869565217391305,1,69,87.34177215189874,0,0.0,79,95.79,running
+Garrett Smithley,4142,2026/03/28,O'Reilly,Martinsville Speedway,25,30,27,8,35,25.62,-25,46,71,8,17.391304347826086,0,44,18.181818181818183,0,0.0,242,43.5,running
+Garrett Smithley,4142,2026/04/25,O'Reilly,Talladega Superspeedway,37,24,20,2,37,28.24,-7,59,66,4,6.779661016949152,0,5,4.424778761061947,0,0.0,113,45.5,running
+Joey Gase,4004,2026/03/22,O'Reilly,Darlington Raceway,37,37,31,27,38,35.68,-4,11,15,0,0.0,0,0,0.0,0,0.0,145,28.17,running
+Ryan Sieg,3884,2026/03/28,O'Reilly,Martinsville Speedway,14,3,9,3,34,17.87,-8,67,75,37,55.223880597014926,1,130,52.0,0,0.0,250,72.96,running
+Anthony Alfredo,4301,2026/05/02,O'Reilly,Texas Motor Speedway,18,15,12,5,24,14.5,3,43,40,29,67.44186046511628,0,128,64.0,0,0.0,200,78.5,running
+Lavar Scott,4518,2026/02/15,O'Reilly,Daytona International Speedway,37,23,16,5,37,22.24,1,72,71,12,16.666666666666668,2,20,16.666666666666668,0,0.0,120,51.94,running
+Brennan Poole,4144,2026/07/12,O'Reilly,Atlanta Motor Speedway,30,22,17,1,30,19.12,-9,53,62,14,26.41509433962264,0,32,18.6046511627907,1,0.5813953488372093,172,60.87,running
+Cole Custer,4104,2026/03/15,O'Reilly,Las Vegas Motor Speedway,16,12,18,3,36,17.71,2,92,90,46,50.0,1,105,52.5,0,0.0,200,72.95,running
+Rajah Caruth,4422,2026/04/19,O'Reilly,Kansas Speedway,13,18,21,10,30,19.35,-13,56,69,10,17.857142857142858,0,18,9.090909090909092,0,0.0,198,56.67,running
+Garrett Smithley,4142,2026/02/22,O'Reilly,Atlanta Motor Speedway,29,26,14,13,33,22.73,-12,41,53,5,12.195121951219512,0,15,9.202453987730062,0,0.0,163,58.33,running
+Patrick Staropoli,4227,2026/04/12,O'Reilly,Bristol Motor Speedway,32,23,27,21,34,26.63,-2,61,63,0,0.0,0,0,0.0,0,0.0,298,47.0,running
+Jesse Love,4463,2026/05/31,O'Reilly,Nashville Superspeedway,1,2,16,1,29,7.88,-16,36,52,14,38.888888888888886,60,150,79.7872340425532,87,46.276595744680854,188,116.77,running
+Cole Custer,4104,2026/04/19,O'Reilly,Kansas Speedway,36,16,7,3,36,13.16,8,78,70,35,44.87179487179487,0,147,73.5,0,0.0,200,91.5,running
+Parker Retzlaff,4419,2026/07/12,O'Reilly,Atlanta Motor Speedway,22,8,3,2,22,12.52,21,81,60,49,60.49382716049383,1,118,68.6046511627907,0,0.0,172,88.04,running
+Josh Williams,4106,2026/03/28,O'Reilly,Martinsville Speedway,31,32,32,11,34,25.61,-5,59,64,3,5.084745762711864,0,5,2.1459227467811157,0,0.0,233,47.83,accident
+Carson Kvapil,4467,2026/03/08,O'Reilly,Phoenix Raceway,14,3,3,1,14,3.45,7,48,41,41,85.41666666666667,28,200,100.0,22,11.0,200,125.42,running
+Rajah Caruth,4422,2026/05/24,O'Reilly,Charlotte Motor Speedway,10,8,10,6,24,10.25,2,27,25,26,96.29629629629629,0,87,95.6043956043956,0,0.0,91,80.67,running
+Alex Labbe,4225,2026/05/09,O'Reilly,Watkins Glen International,30,18,19,5,31,21.23,5,44,39,13,29.545454545454547,0,14,17.073170731707318,0,0.0,82,61.33,running
+Anthony Alfredo,4301,2026/05/16,O'Reilly,Dover Motor Speedway,27,30,10,8,31,21.67,12,45,33,12,26.666666666666668,0,32,16.0,0,0.0,200,71.0,running
+William Sawalich,4459,2026/02/15,O'Reilly,Daytona International Speedway,4,4,26,1,26,11.26,-11,224,235,191,85.26785714285714,3,84,84.84848484848484,2,2.0202020202020203,99,89.99,dvp
+Carson Kvapil,4467,2026/03/28,O'Reilly,Martinsville Speedway,5,13,28,1,21,10.9,13,64,51,41,64.0625,2,180,76.92307692307692,0,0.0,234,95.1,accident
+Ryan Sieg,3884,2026/02/15,O'Reilly,Daytona International Speedway,10,28,3,3,37,25.26,-13,67,80,39,58.208955223880594,3,27,22.5,0,0.0,120,66.51,running
+Josh Bilicki,4213,2026/02/15,O'Reilly,Daytona International Speedway,34,22,17,3,35,22.24,-26,68,94,16,23.529411764705884,2,14,11.666666666666666,0,0.0,120,48.44,running
+Josh Williams,4106,2026/03/15,O'Reilly,Las Vegas Motor Speedway,32,24,16,12,33,21.72,10,76,66,5,6.578947368421052,0,10,5.0,0,0.0,200,60.83,running
+Dean Thompson,4414,2026/03/22,O'Reilly,Darlington Raceway,33,21,21,16,33,21.64,5,50,45,0,0.0,0,0,0.0,0,0.0,147,59.5,running
+Sammy Smith,4441,2026/07/04,O'Reilly,Chicagoland Speedway,10,20,13,5,26,19.22,-24,56,80,20,35.714285714285715,0,43,21.393034825870647,0,0.0,201,66.0,running
+Ryan Sieg,3884,2026/04/25,O'Reilly,Talladega Superspeedway,12,26,21,1,32,10.84,30,331,301,204,61.631419939577036,1,82,72.56637168141593,0,0.0,113,98.35,running
+Sage Karam,4409,2026/02/28,O'Reilly,Circuit of The Americas,22,37,35,22,38,35.96,-14,5,19,0,0.0,0,0,0.0,0,0.0,53,26.5,suspension
+Brennan Poole,4144,2026/06/13,O'Reilly,Pocono Raceway,19,25,18,4,32,19.19,-13,71,84,15,21.12676056338028,0,24,24.0,0,0.0,100,61.5,running
+Alex Labbe,4225,2026/03/22,O'Reilly,Darlington Raceway,34,30,38,26,37,31.93,2,16,14,0,0.0,0,0,0.0,0,0.0,120,33.67,accident
+Sam Mayer,4327,2026/07/12,O'Reilly,Atlanta Motor Speedway,1,32,31,1,36,25.29,-33,17,50,5,29.41176470588235,3,36,30.252100840336134,33,27.73109243697479,119,90.26,accident
+Kyle Sieg,4388,2026/03/15,O'Reilly,Las Vegas Motor Speedway,29,20,14,14,34,19.45,13,79,66,4,5.063291139240507,0,25,12.5,0,0.0,200,72.33,running
+Nathan Byrd,4491,2026/07/25,O'Reilly,Indianapolis Motor Speedway,36,35,31,2,37,34.0,-4,13,17,0,0.0,0,0,0.0,0,0.0,100,33.67,running
+Leland Honeyman Jr.,4449,2026/06/13,O'Reilly,Pocono Raceway,29,33,33,10,29,28.96,-12,27,39,1,3.7037037037037037,0,3,8.333333333333334,0,0.0,36,43.33,accident
+Connor Zilisch,4481,2026/06/13,O'Reilly,Pocono Raceway,14,6,9,3,33,12.48,20,86,66,44,51.16279069767442,1,79,79.0,0,0.0,100,92.03,running
+Dawson Cram,4256,2026/06/21,O'Reilly,San Diego Street Course,34,32,21,14,37,29.05,16,25,9,0,0.0,0,1,1.6666666666666667,0,0.0,60,41.5,running
+Jeremy Clements,595,2026/06/13,O'Reilly,Pocono Raceway,15,8,16,1,24,11.66,18,83,65,48,57.83132530120482,2,74,74.0,1,1.0,100,93.25,running
+Jeb Burton,4018,2026/03/08,O'Reilly,Phoenix Raceway,9,9,7,1,18,9.61,8,60,52,49,81.66666666666667,1,199,99.5,1,0.5,200,95.88,running
+Sheldon Creed,4204,2026/07/25,O'Reilly,Indianapolis Motor Speedway,1,2,8,1,8,3.31,-6,15,21,15,100.0,4,100,100.0,23,23.0,100,115.08,running
+Logan Bearden,4394,2026/05/16,O'Reilly,Dover Motor Speedway,36,34,35,31,38,34.53,0,2,2,0,0.0,0,0,0.0,0,0.0,30,27.5,brakes
+Austin Hill,4133,2026/05/09,O'Reilly,Watkins Glen International,9,7,11,2,31,8.45,28,40,12,26,65.0,0,72,87.8048780487805,0,0.0,82,96.17,running
+Sam Mayer,4327,2026/05/31,O'Reilly,Nashville Superspeedway,34,20,4,4,34,8.87,27,51,24,35,68.62745098039215,7,171,90.95744680851064,0,0.0,188,104.2,running
+Anthony Alfredo,4301,2026/06/21,O'Reilly,San Diego Street Course,3,3,35,2,33,19.11,7,22,15,10,45.45454545454545,0,28,82.3529411764706,0,0.0,34,61.5,accident
+Anthony Alfredo,4301,2026/07/04,O'Reilly,Chicagoland Speedway,7,14,26,5,30,15.89,-20,42,62,27,64.28571428571429,0,139,69.1542288557214,0,0.0,201,68.5,running
+Jake Finch,4517,2026/07/12,O'Reilly,Atlanta Motor Speedway,15,14,30,6,29,18.84,-5,49,54,24,48.97959183673469,3,55,38.46153846153846,0,0.0,143,68.35,accident
+Jesse Love,4463,2026/04/12,O'Reilly,Bristol Motor Speedway,12,11,12,2,20,10.75,-5,56,61,56,100.0,1,299,99.66666666666667,0,0.0,300,87.41,running
+Sammy Smith,4441,2026/05/31,O'Reilly,Nashville Superspeedway,8,7,10,6,28,10.23,-5,48,53,26,54.166666666666664,3,181,96.27659574468085,0,0.0,188,90.8,running
+Dawson Cram,4256,2026/04/04,O'Reilly,Rockingham Speedway,34,36,35,33,38,35.23,-2,10,12,0,0.0,0,0,0.0,0,0.0,241,25.83,running
+Justin Allgaier,34,2026/03/28,O'Reilly,Martinsville Speedway,1,7,1,1,16,4.06,14,32,18,31,96.875,56,250,100.0,114,45.6,250,142.86,running
+Taylor Gray,4406,2026/02/15,O'Reilly,Daytona International Speedway,9,14,28,2,25,14.96,-3,199,202,138,69.34673366834171,3,74,74.74747474747475,0,0.0,99,74.36,accident
+Dawson Cram,4256,2026/07/04,O'Reilly,Chicagoland Speedway,36,38,38,34,38,37.65,-4,0,4,0,,0,0,0.0,0,0.0,35,24.83,engine
+Rajah Caruth,4422,2026/07/12,O'Reilly,Atlanta Motor Speedway,8,3,9,1,19,4.3,4,63,59,58,92.06349206349206,6,170,98.83720930232558,18,10.465116279069768,172,94.24,running
+Mason Maggio,4432,2026/04/12,O'Reilly,Bristol Motor Speedway,31,33,37,21,38,35.08,0,19,19,0,0.0,0,0,0.0,0,0.0,191,31.33,engine
+Andrew Patterson,4527,2026/06/21,O'Reilly,San Diego Street Course,30,23,14,7,36,20.48,0,49,49,9,18.367346938775512,0,19,31.666666666666668,0,0.0,60,73.33,running
+Brennan Poole,4144,2026/03/28,O'Reilly,Martinsville Speedway,17,20,14,10,33,19.1,-5,63,68,14,22.22222222222222,0,80,32.0,0,0.0,250,64.67,running
+Austin Hill,4133,2026/05/02,O'Reilly,Texas Motor Speedway,7,8,7,5,20,7.65,-4,38,42,28,73.6842105263158,1,194,97.0,0,0.0,200,98.78,running
+Brent Crews,4504,2026/02/28,O'Reilly,Circuit of The Americas,7,5,6,1,22,7.3,-7,24,31,20,83.33333333333333,1,61,93.84615384615384,5,7.6923076923076925,65,108.06,running
+Brandon Jones,4085,2026/02/28,O'Reilly,Circuit of The Americas,4,19,15,1,23,13.15,-2,32,34,8,25.0,1,33,50.76923076923077,0,0.0,65,82.55,running
+Brennan Poole,4144,2026/04/04,O'Reilly,Rockingham Speedway,24,16,14,11,24,17.19,2,29,27,10,34.48275862068966,0,95,38.0,0,0.0,250,72.0,running
+Dawson Cram,4256,2026/05/31,O'Reilly,Nashville Superspeedway,36,36,34,34,37,35.47,5,23,18,0,0.0,0,0,0.0,0,0.0,183,28.5,running
+Jeremy Clements,595,2026/03/15,O'Reilly,Las Vegas Motor Speedway,10,29,24,11,38,27.95,1,86,85,7,8.13953488372093,0,18,9.045226130653266,0,0.0,199,49.33,running
+Mason Maggio,4432,2026/07/25,O'Reilly,Indianapolis Motor Speedway,21,26,26,16,32,26.76,-11,24,35,0,0.0,0,0,0.0,0,0.0,100,50.17,running
+Ryan Sieg,3884,2026/05/24,O'Reilly,Charlotte Motor Speedway,9,17,7,5,27,10.1,8,42,34,35,83.33333333333333,1,76,83.51648351648352,0,0.0,91,88.24,running
+Brent Crews,4504,2026/05/24,O'Reilly,Charlotte Motor Speedway,18,9,37,5,36,21.9,6,25,19,23,92.0,1,49,96.07843137254902,0,0.0,51,62.06,accident
+Brennan Poole,4144,2026/05/16,O'Reilly,Dover Motor Speedway,20,20,11,7,25,16.73,5,30,25,10,33.333333333333336,0,53,26.5,0,0.0,200,76.0,running
+Carson Ware,4341,2026/06/13,O'Reilly,Pocono Raceway,30,30,27,8,33,28.66,-7,27,34,0,0.0,0,1,1.0,0,0.0,100,39.0,running
+Carson Kvapil,4467,2026/02/22,O'Reilly,Atlanta Motor Speedway,2,4,32,1,27,14.82,-18,85,103,83,97.6470588235294,0,105,99.05660377358491,5,4.716981132075472,106,93.63,accident
+Lavar Scott,4518,2026/03/28,O'Reilly,Martinsville Speedway,36,25,22,15,36,25.92,-2,60,62,0,0.0,0,3,1.2,0,0.0,250,48.83,running
+Austin Hill,4133,2026/02/28,O'Reilly,Circuit of The Americas,3,4,2,1,18,4.87,19,27,8,17,62.96296296296296,5,64,98.46153846153847,4,6.153846153846154,65,121.82,running
+Brandon Jones,4085,2026/04/12,O'Reilly,Bristol Motor Speedway,4,6,19,1,21,7.73,-7,44,51,42,95.45454545454545,3,285,95.0,2,0.6666666666666666,300,89.38,running
+Josh Williams,4106,2026/02/22,O'Reilly,Atlanta Motor Speedway,21,19,27,5,25,17.8,2,72,70,27,37.5,4,42,27.814569536423843,0,0.0,151,71.69,accident
+Lavar Scott,4518,2026/05/09,O'Reilly,Watkins Glen International,20,32,27,10,33,23.76,5,39,34,2,5.128205128205129,0,5,6.172839506172839,0,0.0,81,47.83,out of fuel
+Austin Green,4479,2026/06/21,O'Reilly,San Diego Street Course,8,13,8,4,26,12.19,2,40,38,21,52.5,2,44,73.33333333333333,0,0.0,60,88.98,running
+Kyle Sieg,4388,2026/07/04,O'Reilly,Chicagoland Speedway,33,18,30,8,33,21.18,20,69,49,0,0.0,0,0,0.0,0,0.0,201,56.5,running
+Corey Day,4502,2026/03/08,O'Reilly,Phoenix Raceway,8,16,9,2,23,12.88,7,84,77,60,71.42857142857143,0,153,76.5,0,0.0,200,86.17,running
+Nick Sanchez,4416,2026/07/04,O'Reilly,Chicagoland Speedway,15,24,12,5,30,19.76,3,58,55,24,41.37931034482759,0,54,26.865671641791046,0,0.0,201,72.5,running
+Josh Bilicki,4213,2026/04/19,O'Reilly,Kansas Speedway,23,29,26,3,33,27.77,-14,26,40,0,0.0,0,5,2.5510204081632653,0,0.0,196,38.5,running
+Anthony Alfredo,4301,2026/03/15,O'Reilly,Las Vegas Motor Speedway,31,17,34,2,37,21.58,2,79,77,2,2.5316455696202533,0,11,5.583756345177665,0,0.0,197,52.0,running
+Sammy Smith,4441,2026/05/02,O'Reilly,Texas Motor Speedway,15,9,13,1,23,12.34,-14,41,55,34,82.92682926829268,0,163,81.5,0,0.0,200,85.33,running
+William Sawalich,4459,2026/07/12,O'Reilly,Atlanta Motor Speedway,4,11,4,3,21,10.04,-1,76,77,62,81.57894736842105,2,163,94.76744186046511,0,0.0,172,90.91,running
+Nathan Byrd,4491,2026/03/22,O'Reilly,Darlington Raceway,38,36,34,33,38,35.9,-1,12,13,0,0.0,9,0,0.0,0,0.0,145,29.02,running
+Brandon Jones,4085,2026/04/25,O'Reilly,Talladega Superspeedway,22,12,8,1,28,13.68,-5,335,340,190,56.71641791044776,2,66,58.4070796460177,0,0.0,113,86.69,running
+JJ Yeley,3669,2026/03/22,O'Reilly,Darlington Raceway,20,23,25,9,25,21.83,-6,24,30,0,0.0,0,3,2.0408163265306123,0,0.0,147,51.67,running
+Andrew Patterson,4527,2026/05/16,O'Reilly,Dover Motor Speedway,31,23,19,2,33,22.14,-1,60,61,0,0.0,0,8,4.0,0,0.0,200,59.17,running
+Blaine Perkins,4376,2026/07/04,O'Reilly,Chicagoland Speedway,30,29,32,28,35,31.58,-8,19,27,0,0.0,0,0,0.0,0,0.0,199,36.33,running
+Carson Ware,4341,2026/07/12,O'Reilly,Atlanta Motor Speedway,36,36,36,20,37,35.27,-3,4,7,0,0.0,0,0,0.0,0,0.0,63,27.33,suspension
+JJ Yeley,3669,2026/05/31,O'Reilly,Nashville Superspeedway,37,38,38,1,37,34.69,-3,8,11,0,0.0,0,2,3.389830508474576,1,1.694915254237288,59,34.0,rear end
+Jesse Love,4463,2026/06/28,O'Reilly,Sonoma Raceway,7,3,9,1,36,6.13,-42,7,49,6,85.71428571428571,4,72,91.13924050632912,1,1.2658227848101267,79,110.32,running
+Brent Crews,4504,2026/06/28,O'Reilly,Sonoma Raceway,2,8,3,1,24,6.16,20,26,6,25,96.15384615384616,4,78,98.73417721518987,1,1.2658227848101267,79,115.82,running
+Sam Mayer,4327,2026/04/25,O'Reilly,Talladega Superspeedway,2,6,24,1,23,9.24,-11,305,316,240,78.68852459016394,3,91,81.25,8,7.142857142857143,112,89.66,accident
+Jesse Love,4463,2026/03/28,O'Reilly,Martinsville Speedway,8,12,12,4,21,10.31,-5,62,67,41,66.12903225806451,0,198,79.2,0,0.0,250,86.0,running
+Jesse Love,4463,2026/05/02,O'Reilly,Texas Motor Speedway,21,13,9,3,22,12.67,0,52,52,33,63.46153846153846,0,168,84.0,0,0.0,200,86.5,running
+Ryan Ellis,4029,2026/06/21,O'Reilly,San Diego Street Course,19,36,30,5,37,28.31,-13,27,40,1,3.7037037037037037,0,3,6.382978723404255,0,0.0,47,43.33,running
+Ryan Sieg,3884,2026/03/15,O'Reilly,Las Vegas Motor Speedway,20,15,33,7,35,20.89,-3,72,75,20,27.77777777777778,7,84,42.63959390862944,0,0.0,197,63.18,running
+Joey Gase,4004,2026/04/12,O'Reilly,Bristol Motor Speedway,36,35,31,19,37,34.04,-1,10,11,0,0.0,0,0,0.0,0,0.0,297,30.33,running
+Anthony Alfredo,4301,2026/05/24,O'Reilly,Charlotte Motor Speedway,13,22,13,13,33,17.51,-3,22,25,12,54.54545454545455,0,39,42.857142857142854,0,0.0,91,73.17,running
+Josh Bilicki,4213,2026/04/25,O'Reilly,Talladega Superspeedway,35,21,14,4,35,25.15,-3,79,82,2,2.5316455696202533,2,5,4.424778761061947,0,0.0,113,59.86,running
+Ryan Ellis,4029,2026/05/02,O'Reilly,Texas Motor Speedway,38,25,24,10,38,25.25,-1,40,41,5,12.5,0,3,1.5075376884422111,0,0.0,199,49.0,running
+Sam Mayer,4327,2026/05/09,O'Reilly,Watkins Glen International,5,8,13,1,27,9.76,-1,46,47,29,63.04347826086956,2,64,78.04878048780488,3,3.658536585365854,82,94.82,running
+Josh Bilicki,4213,2026/05/24,O'Reilly,Charlotte Motor Speedway,26,32,25,19,38,27.47,-4,17,21,0,0.0,0,0,0.0,0,0.0,91,61.67,running
+Patrick Staropoli,4227,2026/03/15,O'Reilly,Las Vegas Motor Speedway,22,23,21,19,38,29.25,15,84,69,0,0.0,0,0,0.0,0,0.0,199,44.83,running
+Dean Thompson,4414,2026/03/08,O'Reilly,Phoenix Raceway,23,17,25,3,30,19.3,-2,59,61,9,15.254237288135593,0,37,18.592964824120603,0,0.0,199,62.67,running
+Ryan Ellis,4029,2026/04/19,O'Reilly,Kansas Speedway,29,20,22,12,29,22.8,-17,35,52,4,11.428571428571429,0,2,1.0101010101010102,0,0.0,198,52.0,running
+Patrick Staropoli,4227,2026/02/22,O'Reilly,Atlanta Motor Speedway,14,18,13,4,34,20.28,13,72,59,23,31.944444444444443,3,28,17.177914110429448,0,0.0,163,68.64,running
+Kyle Sieg,4388,2026/02/22,O'Reilly,Atlanta Motor Speedway,18,38,38,15,37,37.46,1,4,3,1,25.0,0,0,0.0,0,0.0,4,25.17,accident
+Patrick Staropoli,4227,2026/02/28,O'Reilly,Circuit of The Americas,32,24,20,15,33,26.09,13,45,32,0,0.0,0,1,1.5384615384615385,0,0.0,65,51.33,running
+Jeremy Clements,595,2026/06/21,O'Reilly,San Diego Street Course,27,14,15,1,32,18.91,-6,33,39,14,42.42424242424242,0,17,28.333333333333332,0,0.0,60,70.17,running
+Jesse Love,4463,2026/05/24,O'Reilly,Charlotte Motor Speedway,17,6,2,1,20,8.14,10,36,26,24,66.66666666666667,1,74,81.31868131868131,4,4.395604395604396,91,89.71,running
+Carson Kvapil,4467,2026/04/25,O'Reilly,Talladega Superspeedway,8,7,22,1,31,11.88,-17,216,233,168,77.77777777777777,2,77,68.14159292035399,22,19.469026548672566,113,73.41,running
+Carson Kvapil,4467,2026/03/22,O'Reilly,Darlington Raceway,3,2,5,2,24,4.45,4,14,10,14,100.0,9,145,98.63945578231292,0,0.0,147,112.14,running
+Ryan Sieg,3884,2026/02/22,O'Reilly,Atlanta Motor Speedway,12,37,37,9,13,36.34,-1,6,7,6,100.0,0,4,100.0,0,0.0,4,25.33,accident
+Jesse Love,4463,2026/07/25,O'Reilly,Indianapolis Motor Speedway,26,13,16,8,26,15.81,-1,30,31,15,50.0,0,52,52.0,0,0.0,100,71.67,running
+Anthony Alfredo,4301,2026/02/28,O'Reilly,Circuit of The Americas,16,36,23,10,37,25.64,7,30,23,7,23.333333333333332,0,21,32.30769230769231,0,0.0,65,59.17,running
+Garrett Smithley,4142,2026/05/16,O'Reilly,Dover Motor Speedway,30,28,31,2,33,28.78,-11,10,21,0,0.0,0,1,0.5291005291005291,0,0.0,189,38.5,running
+Corey Day,4502,2026/02/28,O'Reilly,Circuit of The Americas,12,12,5,4,22,9.96,20,35,15,25,71.42857142857143,0,58,89.23076923076923,0,0.0,65,100.17,running
+William Sawalich,4459,2026/06/21,O'Reilly,San Diego Street Course,9,10,36,8,36,22.56,16,26,10,18,69.23076923076923,0,25,73.52941176470588,0,0.0,34,54.17,accident
+Leland Honeyman Jr.,4449,2026/07/12,O'Reilly,Atlanta Motor Speedway,24,33,28,15,36,29.16,21,44,23,1,2.272727272727273,2,0,0.0,0,0.0,151,55.79,accident
+Ryan Sieg,3884,2026/04/12,O'Reilly,Bristol Motor Speedway,11,14,11,1,19,10.83,3,64,61,59,92.1875,5,265,88.33333333333333,13,4.333333333333333,300,88.51,running
+Sammy Smith,4441,2026/04/04,O'Reilly,Rockingham Speedway,19,9,12,2,24,14.29,16,45,29,17,37.77777777777778,0,160,64.0,0,0.0,250,78.17,running
+Dean Thompson,4414,2026/07/25,O'Reilly,Indianapolis Motor Speedway,25,18,21,1,36,20.42,14,35,21,1,2.857142857142857,0,10,10.0,2,2.0,100,61.33,running
+Corey Day,4502,2026/04/04,O'Reilly,Rockingham Speedway,1,23,10,1,26,6.7,17,34,17,23,67.6470588235294,27,232,92.8,118,47.2,250,115.72,running
+Harrison Burton,4217,2026/05/31,O'Reilly,Nashville Superspeedway,35,11,27,11,35,20.84,-2,53,55,0,0.0,0,2,1.075268817204301,0,0.0,186,59.0,running
+Carson Kvapil,4467,2026/04/12,O'Reilly,Bristol Motor Speedway,8,10,5,2,35,11.57,29,70,41,45,64.28571428571429,5,225,75.0,0,0.0,300,91.19,running
+Austin Hill,4133,2026/04/12,O'Reilly,Bristol Motor Speedway,23,12,21,7,24,17.78,-2,50,52,33,66.0,1,112,37.333333333333336,0,0.0,300,65.57,running
+Garrett Smithley,4142,2026/03/08,O'Reilly,Phoenix Raceway,22,28,29,15,33,28.25,-12,42,54,1,2.380952380952381,0,0,0.0,0,0.0,198,41.67,running
+Brent Crews,4504,2026/03/08,O'Reilly,Phoenix Raceway,5,4,18,4,22,8.15,-5,50,55,40,80.0,4,174,87.0,0,0.0,200,88.1,running
+Brennan Poole,4144,2026/02/22,O'Reilly,Atlanta Motor Speedway,33,20,19,3,33,20.87,7,56,49,8,14.285714285714286,3,16,9.815950920245399,0,0.0,163,56.81,running
+Parker Retzlaff,4419,2026/06/28,O'Reilly,Sonoma Raceway,5,14,5,3,36,9.68,-6,19,25,10,52.63157894736842,1,67,84.81012658227849,0,0.0,79,102.12,running
+Jeremy Clements,595,2026/05/31,O'Reilly,Nashville Superspeedway,31,22,18,4,31,19.66,7,50,43,5,10.0,0,5,2.6737967914438503,0,0.0,187,65.5,running
+Taylor Gray,4406,2026/07/04,O'Reilly,Chicagoland Speedway,25,3,7,1,25,4.83,16,53,37,41,77.35849056603773,32,193,96.01990049751244,55,27.36318407960199,201,122.59,running
+Ryan Ellis,4029,2026/04/25,O'Reilly,Talladega Superspeedway,21,36,36,4,36,34.56,-5,9,14,0,0.0,3,1,0.9009009009009009,0,0.0,111,30.72,running
+Luke Fenhaus,4489,2026/02/22,O'Reilly,Atlanta Motor Speedway,27,21,20,6,27,20.39,-23,53,76,3,5.660377358490566,2,4,2.4691358024691357,0,0.0,162,55.99,running
+Harrison Burton,4217,2026/05/24,O'Reilly,Charlotte Motor Speedway,19,20,38,15,38,31.03,22,29,7,1,3.4482758620689653,0,0,0.0,0,0.0,51,46.83,accident
+Jesse Love,4463,2026/03/15,O'Reilly,Las Vegas Motor Speedway,7,1,6,1,34,6.98,28,64,36,32,50.0,11,177,88.5,36,18.0,200,106.52,running
+Matt Wilson,4540,2026/05/09,O'Reilly,Watkins Glen International,37,37,37,14,37,36.93,1,2,1,0,0.0,0,0,0.0,0,0.0,5,23.67,accident
+Rajah Caruth,4422,2026/06/28,O'Reilly,Sonoma Raceway,21,16,14,5,36,17.02,24,48,24,13,27.083333333333332,1,18,22.78481012658228,0,0.0,79,76.62,running
+Justin Allgaier,34,2026/03/08,O'Reilly,Phoenix Raceway,17,21,1,1,21,7.41,30,75,45,50,66.66666666666667,15,181,90.5,11,5.5,200,117.81,running
+Sam Mayer,4327,2026/04/12,O'Reilly,Bristol Motor Speedway,5,8,20,4,21,8.67,-13,48,61,44,91.66666666666667,2,281,93.66666666666667,0,0.0,300,85.14,running
+Kyle Sieg,4388,2026/02/15,O'Reilly,Daytona International Speedway,36,19,15,1,36,17.38,-16,81,97,42,51.851851851851855,2,51,42.5,0,0.0,120,71.78,running
+Jeremy Clements,595,2026/04/12,O'Reilly,Bristol Motor Speedway,19,18,15,1,25,18.9,-15,49,64,4,8.16326530612245,4,23,7.666666666666667,1,0.3333333333333333,300,70.29,running
+Jeb Burton,4018,2026/05/24,O'Reilly,Charlotte Motor Speedway,35,26,22,14,38,24.15,20,38,18,1,2.6315789473684212,0,5,5.4945054945054945,0,0.0,91,70.5,running
+David Starr,3170,2026/04/25,O'Reilly,Talladega Superspeedway,20,38,38,20,37,37.61,-3,5,8,0,0.0,0,0,0.0,0,0.0,14,24.17,overheating
+Ryan Sieg,3884,2026/05/31,O'Reilly,Nashville Superspeedway,7,6,13,1,18,10.87,1,38,37,29,76.3157894736842,1,170,90.42553191489361,2,1.0638297872340425,188,85.46,running
+Anthony Alfredo,4301,2026/03/08,O'Reilly,Phoenix Raceway,4,15,10,4,24,13.52,-3,61,64,37,60.65573770491803,1,128,64.0,0,0.0,200,83.94,running
+Blaine Perkins,4376,2026/06/28,O'Reilly,Sonoma Raceway,27,29,30,2,37,26.77,-12,55,67,2,3.6363636363636362,0,8,10.256410256410257,0,0.0,78,35.67,running
+Connor Zilisch,4481,2026/07/04,O'Reilly,Chicagoland Speedway,1,8,10,1,29,10.96,47,75,28,36,48.0,23,156,77.61194029850746,48,23.880597014925375,201,107.87,running
+Dean Thompson,4414,2026/06/28,O'Reilly,Sonoma Raceway,17,20,28,7,36,25.92,-8,57,65,0,0.0,0,1,1.2658227848101267,0,0.0,79,42.33,running
+Blaine Perkins,4376,2026/03/08,O'Reilly,Phoenix Raceway,26,25,28,3,30,26.0,-11,74,85,6,8.108108108108109,0,8,4.040404040404041,0,0.0,198,47.83,running
+William Sawalich,4459,2026/05/24,O'Reilly,Charlotte Motor Speedway,7,13,4,3,24,9.41,0,24,24,23,95.83333333333333,1,89,97.8021978021978,0,0.0,91,81.41,running
+BJ McLeod,3973,2026/05/16,O'Reilly,Dover Motor Speedway,19,24,29,10,32,25.91,-8,11,19,0,0.0,0,2,1.0256410256410255,0,0.0,195,53.33,running
+Ryan Sieg,3884,2026/07/25,O'Reilly,Indianapolis Motor Speedway,14,16,17,10,21,15.78,-1,31,32,16,51.61290322580645,0,45,45.0,0,0.0,100,72.0,running
+Jeb Burton,4018,2026/07/04,O'Reilly,Chicagoland Speedway,22,19,20,2,28,22.69,-7,65,72,1,1.5384615384615385,0,4,1.9900497512437811,0,0.0,201,55.0,running
+William Sawalich,4459,2026/03/28,O'Reilly,Martinsville Speedway,16,21,20,5,28,15.74,16,57,41,16,28.07017543859649,1,121,48.4,0,0.0,250,70.96,running
